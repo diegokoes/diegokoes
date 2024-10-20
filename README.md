@@ -1,10 +1,4 @@
-<div align="center" style="margin-top: 20px;">
-  <img src="https://profile-counter.glitch.me/diegokoes/count.svg" alt="Visitor Count"/>
-</div>
-
 # 👋 Hi, I'm Diego 
-## 🚀 About Me
-
 <div style="display: flex; align-items: center; gap: 40px; margin-top: 10px; flex-wrap: nowrap;">
 
   <!-- Spoken Languages -->
