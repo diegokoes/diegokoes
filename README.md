@@ -25,9 +25,8 @@
 
 </div>
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegokoes&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegokoes&layout=compact&theme=tokyonight&count_private=true&pat=GH_PAT" alt="Top Languages"/>
 </div>
 
 ---
@@ -40,7 +39,7 @@
 <hr>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegokoes&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=diegokoes&show_icons=true&theme=tokyonight&count_private=true&pat=GH_PAT" alt="GitHub Stats"/>
 </div>
 
 ---
@@ -51,4 +50,3 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=diegokoes&theme=merko" alt="Activity Graph"/>
   </a>
 </div>
-
