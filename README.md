@@ -33,11 +33,6 @@
     alt="Top Languages" 
     style="width: 300px; height: 200px; object-fit: cover;"
   >
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegokoes&theme=tokyonight&hide_border=true" 
-    alt="Repos Per Language" 
-    style="width: 300px; height: 200px; object-fit: cover;"
-  >
 </div>
 
 
