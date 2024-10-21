@@ -38,11 +38,6 @@
     alt="Repos Per Language" 
     style="width: 300px; height: 200px; object-fit: cover;"
   >
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diegokoes&theme=tokyonight&hide_border=true" 
-    alt="Most Commit Language" 
-    style="width: 300px; height: 200px; object-fit: cover;"
-  >
 </div>
 
 
