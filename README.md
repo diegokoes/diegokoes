@@ -26,20 +26,25 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegokoes&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
   </p>
 </div>
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegokoes&hide=html&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegokoes&theme=tokyonight&hide_border=true" alt="Repos Per Language">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diegokoes&theme=tokyonight&hide_border=true" alt="Most Commit Language">
-    </td>
-  </tr>
-</table>
 
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegokoes&hide=html&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" 
+    alt="Top Languages" 
+    style="width: 300px; height: 200px; object-fit: cover;"
+  >
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegokoes&theme=tokyonight&hide_border=true" 
+    alt="Repos Per Language" 
+    style="width: 300px; height: 200px; object-fit: cover;"
+  >
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diegokoes&theme=tokyonight&hide_border=true" 
+    alt="Most Commit Language" 
+    style="width: 300px; height: 200px; object-fit: cover;"
+  >
 </div>
+
+
+
 
