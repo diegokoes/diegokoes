@@ -18,15 +18,6 @@
 </div>
 
 
-
-  <div style="display: flex; align-items: center; gap: 15px; margin-left: 40px;">
-    <h3 style="margin: 0;">💻Programming Languages I'm learning</h3>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50" height="50"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" height="50"/> <!-- Updated JavaScript Icon -->
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50" height="50"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50" height="50"/>
-  </div>
-
 </div>
 
 ## 📈 GitHub Stats
