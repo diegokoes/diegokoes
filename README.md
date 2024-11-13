@@ -29,14 +29,6 @@
   </p>
 </div>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegokoes&hide=html&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" 
-    alt="Top Languages" 
-    style="width: 300px; height: 200px; object-fit: cover;"
-  >
-</div>
-
 
 
 
