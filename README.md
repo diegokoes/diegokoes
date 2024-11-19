@@ -11,8 +11,5 @@
 
   <!-- Contact Info -->
   <h3 style="margin: 0;">📬Contact</h3>
-  <a href="mailto:diegomo-dev@pm.me">
-    <img src="https://img.shields.io/badge/Email-diegomo--dev@pm.me-0078D4?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"/>
-  </a>
   <img src="https://img.shields.io/badge/Discord-diegokoes-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </div>
