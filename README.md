@@ -6,7 +6,7 @@
 
 <!-- Language switcher -->
 <div align="center">
-  <a >🇬🇧 English (current)</a> · <a href="./README.es.md">🇪🇸 Español</a>
+  <a >🇬🇧 English (current)</a> · <a href="./README_es.md">🇪🇸 Español</a>
 </div>
 
 ## About me
