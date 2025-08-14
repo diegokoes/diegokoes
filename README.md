@@ -8,11 +8,12 @@
 <div align="center">
   <a >🇬🇧 English (current)</a> · <a href="./README_es.md">🇪🇸 Español</a>
 </div>
+<br>
 
-## 💜 About me 
-Hi, I'm Diego, a junior web developer interested in all things programming. 
 
-## ⚙️ What I am currently using
+#### `Hi, I'm Diego, a junior web developer interested in all things programming.`
+
+#### `Tech stack:` 
 
 <!-- Frontend -->
 ![Frontend   ](https://img.shields.io/badge/Front%20%20%20-20232a?style=for-the-badge&logo=terminal&logoColor=white)
@@ -45,7 +46,7 @@ Hi, I'm Diego, a junior web developer interested in all things programming.
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
  
-## 🚧 Working On ... ->  [`my portfolio website`](https://github.com/diegokoes/portfolio)
+#### `Working on ... ->`  [`my portfolio website`](https://github.com/diegokoes/portfolio)
 
 <details>
 <summary>Some GitHub stats</summary>
