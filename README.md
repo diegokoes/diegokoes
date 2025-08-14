@@ -50,49 +50,37 @@
 
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 85 Contributions in the Year 2025
- > 
-> 📦 675.0 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 18 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
-**I'm a Night 🦉** 
+**Soy diurno 🐤** 
 
 ```text
-🌞 Morning    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.87% 
-🌆 Daytime    60 commits     █████████░░░░░░░░░░░░░░░░   39.47% 
-🌃 Evening    46 commits     ███████░░░░░░░░░░░░░░░░░░   30.26% 
-🌙 Night      31 commits     █████░░░░░░░░░░░░░░░░░░░░   20.39%
+🌞 Mañana     15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
+🌆 Día        65 commits     ██████████░░░░░░░░░░░░░░░   41.4% 
+🌃 Tarde      46 commits     ███████░░░░░░░░░░░░░░░░░░   29.3% 
+🌙 Noche      31 commits     █████░░░░░░░░░░░░░░░░░░░░   19.75%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **Esta semana me dediqué a** 
 
 ```text
-⌚︎ Time Zone: Europe/Madrid
+⌚︎ Zona Horaria: Europe/Madrid
 
-💬 Programming Languages: 
-No Activity Tracked This Week
+💬 Lenguajes: 
+Sin actividad registrada esta semana
 
-🔥 Editors: 
-No Activity Tracked This Week
+🔥 Editores: 
+Sin actividad registrada esta semana
 
-🐱‍💻 Projects: 
-No Activity Tracked This Week
+🐱‍💻 Proyectos: 
+Sin actividad registrada esta semana
 
-💻 Operating System: 
-No Activity Tracked This Week
+💻 Sistema Operativo: 
+Sin actividad registrada esta semana
 
 ```
 
-**I Mostly Code in JavaScript** 
+**Programo principalmente en JavaScript** 
 
 ```text
 JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
