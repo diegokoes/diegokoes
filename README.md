@@ -49,7 +49,8 @@
 #### `Working on ... ->`  [`my portfolio website`](https://github.com/diegokoes/portfolio)
 
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka_en-->
+
 **Soy diurno 🐤** 
 
 ```text
@@ -94,16 +95,4 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
  Last Updated on 14/08/2025
-<!--END_SECTION:waka-->
-
-
-<details>
-<summary>Some GitHub stats</summary>
-
-<p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats-azure-ten-65.vercel.app/api/top-langs/?username=diegokoes&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&langs_count=6&hide=html,tex,css,php&exclude_repo=Pacman-AI">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=diegokoes&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&hide_longest_streak=true" alt="GitHub Streak" />
-  <br>
-  <br>
-</p>
-</details>
+<!--END_SECTION:waka_en-->
