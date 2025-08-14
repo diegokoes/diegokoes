@@ -48,6 +48,9 @@
  
 #### `Working on ... ->`  [`my portfolio website`](https://github.com/diegokoes/portfolio)
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 <details>
 <summary>Some GitHub stats</summary>
 
