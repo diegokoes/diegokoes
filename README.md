@@ -48,7 +48,7 @@ Hi, I'm Diego, a junior web developer interested in all things programming.
 ## 🚧 What I'm Working On
 
 - trying to get more used to `jenkins` and implement it in projects I'm doing
-- `creating` a website as an interface to view in the user's timezone `when` sport/cultural events that you configure to follow will happen
+- `creating` my first website for my portfolio
 - Endlessly tweaking my [dotfiles](https://github.com/diegokoes/dotfiles) for fun *(or so I tell myself)*
 
 <details>
