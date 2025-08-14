@@ -52,23 +52,23 @@
 
 
 <!--START_SECTION:waka_es-->
-*Soy diurno 🐤* 
+**Soy diurno 🐤** 
 
 ```text
-🌞 Mañana    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
-🌆 Día    78 commits     ███████████░░░░░░░░░░░░░░   45.88% 
-🌃 Tarde    46 commits     ██████░░░░░░░░░░░░░░░░░░░   27.06% 
-🌙 Noche      31 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.24%
+🌞 Mañana    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.67% 
+🌆 Día    81 commits     ███████████░░░░░░░░░░░░░░   46.82% 
+🌃 Tarde    46 commits     ██████░░░░░░░░░░░░░░░░░░░   26.59% 
+🌙 Noche      31 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.92%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **Esta semana me dediqué a** 
 
 ```text
 ⌚︎ Zona Horaria: Europe/Madrid
 
-💬 Programming Languages: 
+💬 Lenguajes: 
 Sin actividad registrada esta semana
 
 🔥 Editores: 
@@ -77,7 +77,7 @@ Sin actividad registrada esta semana
 🐱‍💻 Proyectos: 
 Sin actividad registrada esta semana
 
-💻 Sistema Operativo: 
+💻 Sistemas Operativos: 
 Sin actividad registrada esta semana
 
 ```
