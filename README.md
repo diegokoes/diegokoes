@@ -50,7 +50,79 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 674.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 85 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 6 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+🌆 Daytime                74 commits          ██████████░░░░░░░░░░░░░░░   38.74 % 
+🌃 Evening                48 commits          ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+🌙 Night                  45 commits          ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Tuesday                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Wednesday                25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Thursday                 59 commits          ████████░░░░░░░░░░░░░░░░░   30.89 % 
+Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Saturday                 15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Sunday                   37 commits          █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Python                   3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/diegokoes/diegokoes/main/assets/bar_graph.png)
+
+
+ Last Updated on 14/08/2025 10:29:04 UTC
 <!--END_SECTION:waka-->
 
 
