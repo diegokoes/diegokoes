@@ -118,7 +118,19 @@ SCSS                     1 repo              ██░░░░░░░░░�
 <p align="center">
 
 
-  <img height="50%" width="auto" src="https://github-readme-stats-azure-ten-65.vercel.app/api/top-langs/?username=diegokoes&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&langs_count=6&hide=html,tex,css,php&exclude_repo=Pacman-AI">
+<picture>
+  <!-- dark mode -->
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-stats-azure-ten-65.vercel.app/api/top-langs/?username=diegokoes&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&langs_count=6&hide=html,tex,css,php&exclude_repo=Pacman-AI">
+
+  <!-- light mode (regular light theme) -->
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://github-readme-stats-azure-ten-65.vercel.app/api/top-langs/?username=diegokoes&layout=compact&hide_border=true&theme=light&langs_count=6&hide=html,tex,css,php&exclude_repo=Pacman-AI">
+
+  <!-- fallback (used by renderers that don't support <picture> or prefers-color-scheme) -->
+  <img alt="Top languages" width="auto" height="50%"
+       src="https://github-readme-stats-azure-ten-65.vercel.app/api/top-langs/?username=diegokoes&layout=compact&hide_border=true&theme=light&langs_count=6&hide=html,tex,css,php&exclude_repo=Pacman-AI" />
+</picture>
 
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=diegokoes&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&hide_longest_streak=true" alt="GitHub Streak" />
