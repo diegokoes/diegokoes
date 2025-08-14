@@ -8,7 +8,6 @@ on:
 
 permissions:
   contents: write
-
 jobs:
   update-readme-es:
     name: Actualizar README_es.md con métricas
