@@ -50,40 +50,7 @@
 
 
 <!--START_SECTION:waka-->
-name: Waka Readme
 
-on:
-  schedule:
-    # Example: runs daily at 00:30 UTC (adjust for your timezone)
-    - cron: "30 0 * * *"
-  workflow_dispatch:
-
-# Allow the workflow to commit changes to your README
-permissions:
-  contents: write
-
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
-          # Optional customizations:
-          LOCALE: "es"                # Show Spanish labels
-          SECTION_NAME: "waka"        # Matches the markers you added
-          SHOW_LINES_OF_CODE: "False" # Heavy operation; enable if you want
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
-          SHOW_PROFILE_VIEWS: "False"
-          COMMIT_MESSAGE: "Actualizado con métricas de desarrollo"
-          # If you want commits under your identity instead of the bot:
-          # COMMIT_BY_ME: "True"
-          # COMMIT_USERNAME: "diegokoes"
-          # COMMIT_EMAIL: "your-email@example.com"
 <!--END_SECTION:waka-->
 
 
