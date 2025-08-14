@@ -101,7 +101,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 <details>
 
 
-<summary>Some more GitHub stats</summary>
+<summary>Más stats de GitHub</summary>
 
 
 
