@@ -19,7 +19,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: "es"
           SECTION_NAME: "waka_es"
-          FILE_PATH: "README_es.md"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_DAYS_OF_WEEK:  "False"
