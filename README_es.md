@@ -9,11 +9,9 @@
   <a href="./README.md">🇬🇧 Inglés</a> · <a>🇪🇸 Español (actual)</a>
 </div>
 
-## 💜 Sobre mí
-¡Hola! Soy Diego, un desarrollador web junior interesado en todo lo relacionado con la programación.
+#### `¡Hola! Soy Diego, un desarrollador web junior interesado en todo lo relacionado con la programación.`
 
-## ⚙️ Lo que estoy usando actualmente
-
+#### `Tech stack:` 
 <!-- Frontend -->
 ![Frontend   ](https://img.shields.io/badge/Frontend-20232a?style=for-the-badge&logo=terminal&logoColor=white)
 ![>](https://img.shields.io/badge/%3E-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=white&labelWidth=20) 
@@ -97,3 +95,25 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
  Última actualización el 14/08/2025
 <!--END_SECTION:waka_es-->
+
+
+
+<details>
+
+
+<summary>Some more GitHub stats</summary>
+
+
+
+
+
+<p align="center">
+
+
+  <img height="50%" width="auto" src="https://github-readme-stats-azure-ten-65.vercel.app/api/top-langs/?username=diegokoes&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&langs_count=6&hide=html,tex,css,php&exclude_repo=Pacman-AI">
+
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=diegokoes&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&hide_longest_streak=true" alt="GitHub Streak" />
+
+
+  <br>
