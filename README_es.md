@@ -52,6 +52,48 @@
 
 
 <!--START_SECTION:waka_es-->
+*Soy diurno 🐤* 
+
+```text
+🌞 Mañana    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
+🌆 Día    78 commits     ███████████░░░░░░░░░░░░░░   45.88% 
+🌃 Tarde    46 commits     ██████░░░░░░░░░░░░░░░░░░░   27.06% 
+🌙 Noche      31 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.24%
+
+```
 
 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Zona Horaria: Europe/Madrid
+
+💬 Programming Languages: 
+Sin actividad registrada esta semana
+
+🔥 Editores: 
+Sin actividad registrada esta semana
+
+🐱‍💻 Proyectos: 
+Sin actividad registrada esta semana
+
+💻 Sistema Operativo: 
+Sin actividad registrada esta semana
+
+```
+
+**Codifico principalmente en Python** 
+
+```text
+Python                   4 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+
+```
+
+
+
+ Última actualización el 14/08/2025
 <!--END_SECTION:waka_es-->
