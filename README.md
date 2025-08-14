@@ -49,8 +49,7 @@
 #### `Working on ... ->`  [`my portfolio website`](https://github.com/diegokoes/portfolio)
 
 
-<!--START_SECTION:waka_en-->
-
+<!--START_SECTION:waka-->
 **Soy diurno 🐤** 
 
 ```text
@@ -95,4 +94,4 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
  Last Updated on 14/08/2025
-<!--END_SECTION:waka_en-->
+<!--END_SECTION:waka-->
