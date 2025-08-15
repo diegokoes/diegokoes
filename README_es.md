@@ -42,11 +42,7 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🚧 En qué estoy trabajando
-
-- Intentando familiarizarme más con **Jenkins** e implementarlo en proyectos personales.
-- Creando mi primer sitio web para mi portafolio.
-- Ajustando sin parar mis [dotfiles](https://github.com/diegokoes/dotfiles) por diversión *(o eso me digo a mí mismo)*
+#### `Working on ... ->`  [`my portfolio website`](https://github.com/diegokoes/portfolio)
 
 
 <!--START_SECTION:waka_es-->
