@@ -66,7 +66,7 @@ def translate_simple_phrases(text: str) -> str:
 
     out = re.sub(
         r"(📊\s*)(\*{0,2})\s*This Week I Spent My Time On\s*(\*{0,2})",
-        r"\1\2Mi actividad semanala\3",
+        r"\1\2Mi actividad semanal\3",
         out,
         flags=re.IGNORECASE,
     )
