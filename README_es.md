@@ -101,25 +101,3 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
  Última actualización el 20/08/2025
 <!--END_SECTION:waka_es-->
-
-
-
-<details>
-
-
-<summary>Más stats de GitHub</summary>
-
-
-
-
-
-<p align="center">
-
-
-  <img height="50%" width="auto" src="https://github-readme-stats-azure-ten-65.vercel.app/api/top-langs/?username=diegokoes&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&locale=es&langs_count=6&hide=html,tex,css,php&exclude_repo=Pacman-AI">
-
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=diegokoes&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=es&background=00000000&hide_longest_streak=true" alt="GitHub Streak" />
-
-
-  <br>
