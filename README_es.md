@@ -63,17 +63,16 @@
 ⌚︎ Zona Horaria: Europe/Madrid
 
 💬 Lenguajes: 
-Python                   4 mins              ████████████████████████░   99.41% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
+Sin actividad registrada esta semana
 
 🔥 Editores: 
-VS Code                  4 mins              █████████████████████████   100.0%
+Sin actividad registrada esta semana
 
 🐱‍💻 Proyectos: 
-courses                  4 mins              █████████████████████████   100.0%
+Sin actividad registrada esta semana
 
 💻 Sistemas Operativos: 
-Linux                    4 mins              █████████████████████████   100.0%
+Sin actividad registrada esta semana
 
 ```
 
