@@ -67,17 +67,16 @@
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   4 mins              ████████████████████████░   99.41% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-courses                  4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
