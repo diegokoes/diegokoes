@@ -63,16 +63,16 @@
 ⌚︎ Zona Horaria: Europe/Madrid
 
 💬 Lenguajes: 
-Sin actividad registrada esta semana
+Markdown                 16 mins             █████████████████████████   100.0%
 
 🔥 Editores: 
-Sin actividad registrada esta semana
+Obsidian                 16 mins             █████████████████████████   100.0%
 
 🐱‍💻 Proyectos: 
-Sin actividad registrada esta semana
+obsidian_programming     16 mins             █████████████████████████   100.0%
 
 💻 Sistemas Operativos: 
-Sin actividad registrada esta semana
+Linux                    16 mins             █████████████████████████   100.0%
 
 ```
 
