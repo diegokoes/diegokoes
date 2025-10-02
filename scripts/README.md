@@ -1,19 +1,16 @@
-# WakaTime Multi-language README Workaround
+---
 
-**Problem:**  
-The [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) action (as of v4) only updates a single file (`README.md`). It supports a `SECTION_NAME` input—but this is only for customizing the marker in that file. There’s no `FILE_PATH` input in the stable version.
+### WakaTime Spanish Sync
 
-**Goal:**  
-Show WakaTime stats in both English (`README.md`) and Spanish (`README_es.md`).
+This repository uses the official `anmol098/waka-readme-stats` action to inject the stats (between `<!--START_SECTION:waka-->` / `<!--END_SECTION:waka-->`) into `README.md` in English. A custom Python helper, `scripts/sync_waka_spanish.py`, then mirrors and translates that block into the Spanish file `README_es.md` using a second marker pair `<!--START_SECTION:waka_es-->` / `<!--END_SECTION:waka_es-->`.
 
-**Solution:**  
-- Run the Waka Readme action as normal; it writes to `README.md`.
-- After it completes, a workflow triggers a Python script (`scripts/sync_waka_spanish.py`).
-- The script:
-  - Extracts the Waka section from `README.md`.
-  - Translates known phrases into Spanish (I took them from the contributor that added them into the project).
-  - Updates the Waka section (using custom markers) in `README_es.md`.
-  - Only commits if there’s a real change.
+Workflow summary:
 
-**Why:**  
-There’s no native way to update multiple files or localize the output using the official action. This workflow automates copying, translating, and syncing the stats block to the Spanish README.
+1. Action updates English stats in `README.md` (default markers).
+2. Python script runs after the action finishes.
+3. Script extracts the raw inner Waka block from `README.md`.
+4. Phrase + heading translations and small inline word replacements are applied (only known, safe tokens are changed; code/text formatting is preserved).
+5. A column alignment pass normalizes spacing in the time-of-day distribution table so labels, commit counts, bars, and percentages line up after translation.
+6. The translated block replaces (or appends) the Spanish markers in `README_es.md` only if any change is detected—avoiding empty commits.
+
+Feel free to reuse or modify the script for other languages for your repo

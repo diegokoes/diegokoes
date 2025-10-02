@@ -2,7 +2,6 @@
 import re
 from pathlib import Path
 
-# Markers
 EN_START = "<!--START_SECTION:waka-->"
 EN_END = "<!--END_SECTION:waka-->"
 ES_START = "<!--START_SECTION:waka_es-->"
@@ -13,11 +12,13 @@ readme_es_path = Path("README_es.md")
 
 
 def extract_waka_section(md: str):
+    """Return the inner WakaTime stats block from the English README."""
     m = re.search(rf"{re.escape(EN_START)}(.*?){re.escape(EN_END)}", md, re.DOTALL)
     return m.group(1) if m else None
 
 
 def translate_heading_most_productive(text: str) -> str:
+    """Translate the 'I'm Most Productive on X' heading to Spanish."""
     day_map = {
         "Monday": "Lunes",
         "Tuesday": "Martes",
@@ -33,7 +34,6 @@ def translate_heading_most_productive(text: str) -> str:
         day_es = day_map.get(day_en, day_en)
         return f"📅 Soy más productivo los {day_es}"
 
-    # Handle variations: with/without emoji, caps, optional punctuation
     patterns = [
         r"📅\s*I'?m Most Productive on\s+([A-Za-z]+)",
         r"I'?m Most Productive on\s+([A-Za-z]+)",
@@ -45,9 +45,7 @@ def translate_heading_most_productive(text: str) -> str:
 
 
 def translate_simple_phrases(text: str) -> str:
-    """
-      !TODO documentar el script
-    """
+        """Translate common multi-word phrases and section headings."""
 
     out = text
 
@@ -130,6 +128,7 @@ def translate_simple_phrases(text: str) -> str:
 
 
 def translate_inline_words(text: str) -> str:
+    """Translate single standalone inline words (days, parts of day)."""
     word_map = {
         "Morning": "Mañana",
         "Daytime": "Día",
@@ -152,6 +151,7 @@ def translate_inline_words(text: str) -> str:
 
 
 def translate_waka_block(inner: str) -> str:
+    """Run the translation & alignment pipeline over the extracted block."""
     t = inner
     t = translate_heading_most_productive(t)
     t = translate_simple_phrases(t)
@@ -161,6 +161,7 @@ def translate_waka_block(inner: str) -> str:
 
 
 def replace_es_section(src_md: str, translated_inner: str) -> str:
+    """Replace or append the Spanish WakaTime section in README_es.md."""
     def do_replace(start_marker: str, end_marker: str, content: str, md: str):
         pattern = re.compile(rf"{re.escape(start_marker)}(.*?){re.escape(end_marker)}", re.DOTALL)
         if pattern.search(md):
@@ -180,35 +181,15 @@ def replace_es_section(src_md: str, translated_inner: str) -> str:
 
 
 def align_time_of_day_distribution(text: str) -> str:
-    """Align the columns for the time-of-day commit distribution in the translated block.
-
-    Looks for code fences (```text ... ```), then inside them finds lines that start with one of the
-    time-of-day emojis and contain the word 'commits'. Rebuilds those lines with consistent spacing
-    so the numbers and 'commits' keyword align nicely after translation (where label lengths change).
-    """
+    """Align columns (labels, counts, bars, percentages) in time-of-day table."""
     code_block_pattern = re.compile(r"(```text)(.*?)(```)", re.DOTALL)
 
-    # Accept either 'commits' (English) or 'commits' already untranslated; don't translate keyword.
     line_pattern = re.compile(
         r"^[ \t]*(🌞|🌆|🌃|🌙)\s+([^\d\n]+?)\s+(\d+)\s+(commits)\s+(.*)$"
     )
 
     def split_rest(rest: str):
-        """Split rest into (bar_graph, percentage) robustly.
-
-        Original implementation failed when the source line had a trailing space
-        after the percentage (common in WakaTime output). In that case the regex
-        `(.*?)(\d+\.\d+%)$` did not match because `%` was not end-of-line, and the
-        entire tail (including the percentage text) was treated as part of the bar.
-        That inflated bar_width (it now included the percentage text for some rows),
-        leading to excessive padding before the percentage on rows where the percent
-        *was* correctly separated (e.g. the Spanish 'Noche' line).
-
-        We fix this by:
-          1. rstrip() the rest segment first so trailing spaces never block the match.
-          2. Using a regex anchored after trimming.
-          3. Falling back cleanly if no percentage is present.
-        """
+        """Split rest tail into bar characters and percentage token (if any)."""
         trimmed = rest.rstrip()
         m = re.search(r"(.*?)(\d+\.\d+%)$", trimmed)
         if m:
@@ -252,6 +233,7 @@ def align_time_of_day_distribution(text: str) -> str:
 
 
 def main() -> int:
+    """Entry point: extract, translate, sync Spanish README section."""
     if not readme_en_path.exists():
         print("README.md not found; aborting.")
         return 1
