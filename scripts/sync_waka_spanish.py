@@ -46,7 +46,7 @@ def translate_heading_most_productive(text: str) -> str:
 
 def translate_simple_phrases(text: str) -> str:
     """
-      !TODO documentar el script 
+      !TODO documentar el script
     """
 
     out = text
@@ -82,20 +82,20 @@ def translate_simple_phrases(text: str) -> str:
         (r"(💬\s*)(\*{0,2})\s*Languages\s*:(\s*)", r"\1\2Lenguajes:\3"),
         (r"(^|\n)(\*{0,2})\s*Programming Languages\s*:(\s*)", r"\1\2Lenguajes:\3"),
         (r"(^|\n)(\*{0,2})\s*Languages\s*:(\s*)", r"\1\2Lenguajes:\3"),
-        
+
         (r"(🔥\s*)(\*{0,2})\s*Editors\s*:(\s*)", r"\1\2Editores:\3"),
         (r"(^|\n)(\*{0,2})\s*Editors\s*:(\s*)", r"\1\2Editores:\3"),
-        
+
         (r"(🐱‍💻\s*)(\*{0,2})\s*Projects\s*:(\s*)", r"\1\2Proyectos:\3"),
         (r"(^|\n)(\*{0,2})\s*Projects\s*:(\s*)", r"\1\2Proyectos:\3"),
-        
+
         (r"(💻\s*)(\*{0,2})\s*Operating Systems?\s*:(\s*)", r"\1\2Sistemas Operativos:\3"),
         (r"(💻\s*)(\*{0,2})\s*Operating System\s*:(\s*)", r"\1\2Sistema Operativo:\3"),
         (r"(^|\n)(\*{0,2})\s*Operating Systems?\s*:(\s*)", r"\1\2Sistemas Operativos:\3"),
         (r"(^|\n)(\*{0,2})\s*Operating System\s*:(\s*)", r"\1\2Sistema Operativo:\3"),
-        
+
         (r"(⌚︎?\s*)(\*{0,2})\s*Time\s*Zone\s*:(\s*)", r"\1\2Zona Horaria:\3"),
-        
+
         (r"(^|\n)(\*{0,2})\s*Code Time\s*(\*{0,2})", r"\1\2Tiempo de código\3"),
         (r"(^|\n)(\*{0,2})\s*Profile Views\s*(\*{0,2})", r"\1\2Vistas de perfil\3"),
         (r"(^|\n)(\*{0,2})\s*Total Time\s*(\*{0,2})", r"\1\2Tiempo total\3"),
@@ -104,6 +104,8 @@ def translate_simple_phrases(text: str) -> str:
         out = re.sub(pat, repl, out, flags=re.IGNORECASE)
 
     out = re.sub(r"Last Updated on", "Última actualización el", out, flags=re.IGNORECASE)
+
+    out = re.sub(r"Europe/", "Europa/", out)
 
     out = re.sub(
         r"No Activity Tracked This Week", "Sin actividad registrada esta semana", out, flags=re.IGNORECASE
@@ -154,6 +156,7 @@ def translate_waka_block(inner: str) -> str:
     t = translate_heading_most_productive(t)
     t = translate_simple_phrases(t)
     t = translate_inline_words(t)
+    t = align_time_of_day_distribution(t)
     return t
 
 
@@ -174,6 +177,62 @@ def replace_es_section(src_md: str, translated_inner: str) -> str:
 
     suffix = f"\n\n{ES_START}{translated_inner}{ES_END}\n"
     return src_md + suffix
+
+
+def align_time_of_day_distribution(text: str) -> str:
+    """Align the columns for the time-of-day commit distribution in the translated block.
+
+    Looks for code fences (```text ... ```), then inside them finds lines that start with one of the
+    time-of-day emojis and contain the word 'commits'. Rebuilds those lines with consistent spacing
+    so the numbers and 'commits' keyword align nicely after translation (where label lengths change).
+    """
+    code_block_pattern = re.compile(r"(```text)(.*?)(```)", re.DOTALL)
+
+    # Accept either 'commits' (English) or 'commits' already untranslated; don't translate keyword.
+    line_pattern = re.compile(
+        r"^[ \t]*(🌞|🌆|🌃|🌙)\s+([^\d\n]+?)\s+(\d+)\s+(commits)\s+(.*)$"
+    )
+
+    def split_rest(rest: str):
+        """Split rest into bar_graph + percentage if possible.
+        Typical rest: '███░░░   12.34%'. We'll detect final percentage pattern.
+        """
+        m = re.search(r"(.*?)(\d+\.\d+%)$", rest)
+        if m:
+            return m.group(1).rstrip(), m.group(2)
+        return rest.rstrip(), ""
+
+    def fix_block(match: re.Match) -> str:
+        prefix, content, suffix = match.groups()
+        lines = content.splitlines()
+        rows = []  # (idx, emoji, label, commits, keyword, bar, pct)
+        for i, line in enumerate(lines):
+            m = line_pattern.match(line)
+            if not m:
+                continue
+            emoji, label, commits, keyword, rest = m.groups()
+            label = label.strip()
+            bar, pct = split_rest(rest)
+            rows.append((i, emoji, label, commits, keyword, bar, pct))
+        if not rows:
+            return match.group(0)
+        label_width = max(len(r[2]) for r in rows)
+        commits_width = max(len(r[3]) for r in rows)
+        bar_width = max(len(r[5]) for r in rows)
+        for i, emoji, label, commits, keyword, bar, pct in rows:
+            bar_fmt = bar.ljust(bar_width)
+            pct_part = f"  {pct}" if pct else ""
+            # Construct with predictable spacing so columns align in monospaced rendering
+            new_line = (
+                f"{emoji} "
+                f"{label.ljust(label_width)}  "
+                f"{commits.rjust(commits_width)} {keyword}  "
+                f"{bar_fmt}{pct_part}"
+            ).rstrip()
+            lines[i] = new_line
+        return f"{prefix}{'\n'.join(lines)}{suffix}"
+
+    return code_block_pattern.sub(fix_block, text)
 
 
 def main() -> int:
