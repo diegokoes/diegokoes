@@ -194,13 +194,29 @@ def align_time_of_day_distribution(text: str) -> str:
     )
 
     def split_rest(rest: str):
-        """Split rest into bar_graph + percentage if possible.
-        Typical rest: '███░░░   12.34%'. We'll detect final percentage pattern.
+        """Split rest into (bar_graph, percentage) robustly.
+
+        Original implementation failed when the source line had a trailing space
+        after the percentage (common in WakaTime output). In that case the regex
+        `(.*?)(\d+\.\d+%)$` did not match because `%` was not end-of-line, and the
+        entire tail (including the percentage text) was treated as part of the bar.
+        That inflated bar_width (it now included the percentage text for some rows),
+        leading to excessive padding before the percentage on rows where the percent
+        *was* correctly separated (e.g. the Spanish 'Noche' line).
+
+        We fix this by:
+          1. rstrip() the rest segment first so trailing spaces never block the match.
+          2. Using a regex anchored after trimming.
+          3. Falling back cleanly if no percentage is present.
         """
-        m = re.search(r"(.*?)(\d+\.\d+%)$", rest)
+        trimmed = rest.rstrip()
+        m = re.search(r"(.*?)(\d+\.\d+%)$", trimmed)
         if m:
-            return m.group(1).rstrip(), m.group(2)
-        return rest.rstrip(), ""
+            bar_part = m.group(1).rstrip()
+            pct_part = m.group(2)
+            return bar_part, pct_part
+        # No percentage found; return trimmed bar and empty pct
+        return trimmed.rstrip(), ""
 
     def fix_block(match: re.Match) -> str:
         prefix, content, suffix = match.groups()
