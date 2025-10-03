@@ -31,7 +31,6 @@
 ![Databases  ](https://img.shields.io/badge/DB's%20-20232a?style=for-the-badge&logo=terminal&logoColor=white)
 ![>](https://img.shields.io/badge/%3E-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=white&labelWidth=20)
 ![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Valkey](https://img.shields.io/badge/valkey-DC382D?style=for-the-badge&logo=valkey&logoColor=white)
 <!-- DevOps -->
