@@ -17,7 +17,6 @@
 <!-- Frontend -->
 ![Frontend   ](https://img.shields.io/badge/Front%20%20%20-20232a?style=for-the-badge&logo=terminal&logoColor=white)
 ![>](https://img.shields.io/badge/%3E-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=white&labelWidth=20)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-7E22CE?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -27,13 +26,11 @@
 ![>](https://img.shields.io/badge/%3E-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=white&labelWidth=20)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 <!-- Databases -->
 ![Databases  ](https://img.shields.io/badge/DB's%20-20232a?style=for-the-badge&logo=terminal&logoColor=white)
 ![>](https://img.shields.io/badge/%3E-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=white&labelWidth=20)
 ![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Valkey](https://img.shields.io/badge/valkey-DC382D?style=for-the-badge&logo=valkey&logoColor=white)
 <!-- DevOps -->
@@ -47,55 +44,61 @@
 #### `Working on ... ->`  [`my portfolio website`](https://github.com/diegokoes/portfolio)
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤**
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning    23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.91%
-🌆 Daytime    111 commits    ████████████░░░░░░░░░░░░░   47.84%
-🌃 Evening    56 commits     ██████░░░░░░░░░░░░░░░░░░░   24.14%
-🌙 Night      42 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.1%
+🌞 Morning    28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.52% 
+🌆 Daytime    116 commits    ████████████░░░░░░░░░░░░░   47.74% 
+🌃 Evening    56 commits     █████░░░░░░░░░░░░░░░░░░░░   23.05% 
+🌙 Night      43 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.7%
 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Europe/Madrid
 
-💬 Programming Languages:
-JavaScript               14 hrs 17 mins      █████████████░░░░░░░░░░░░   51.79%
-Java                     5 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.0%
-Other                    4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   14.54%
-Markdown                 1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.4%
-JSON                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82%
+💬 Programming Languages: 
+JavaScript               11 hrs 39 mins      ██████████░░░░░░░░░░░░░░░   41.33% 
+Java                     5 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.5% 
+Other                    4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.66% 
+Markdown                 2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.13% 
+TOML                     52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.11%
 
-🔥 Editors:
-VS Code                  19 hrs 36 mins      █████████████████░░░░░░░░   71.02%
-IntelliJ IDEA            6 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   22.59%
-Obsidian                 1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.4%
+🔥 Editors: 
+VS Code                  19 hrs 30 mins      █████████████████░░░░░░░░   69.18% 
+IntelliJ IDEA            6 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   22.03% 
+Obsidian                 2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.12% 
+Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34% 
+Visual Studio            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
 
-🐱‍💻 Projects:
-hsn-react-node           14 hrs 46 mins      █████████████░░░░░░░░░░░░   53.51%
-servidor                 6 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   22.59%
-dotfiles                 4 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.4%
-obsidian_programming     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.4%
-carrefour-angular-node   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+🐱‍💻 Projects: 
+hsn-react-node           12 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   42.69% 
+dotfiles                 6 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.5% 
+servidor                 6 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   22.03% 
+obsidian_programming     2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.12% 
+diegokoes                35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
 
-💻 Operating System:
-Linux                    27 hrs 36 mins      █████████████████████████   100.0%
+💻 Operating System: 
+Linux                    28 hrs 6 mins       █████████████████████████   99.68% 
+Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
 
 ```
 
-**I Mostly Code in Python**
+**I Mostly Code in Python** 
 
 ```text
-Python                   5 repos             █████████░░░░░░░░░░░░░░░░   38.46%
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+Python                   5 repos             █████████░░░░░░░░░░░░░░░░   38.46% 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
 Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
 
- Last Updated on 02/10/2025
+
+
+ Last Updated on 03/10/2025
 <!--END_SECTION:waka-->
