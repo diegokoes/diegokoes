@@ -17,7 +17,6 @@
 <!-- Frontend -->
 ![Frontend   ](https://img.shields.io/badge/Front%20%20%20-20232a?style=for-the-badge&logo=terminal&logoColor=white)
 ![>](https://img.shields.io/badge/%3E-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=white&labelWidth=20)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-7E22CE?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -27,7 +26,6 @@
 ![>](https://img.shields.io/badge/%3E-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=white&labelWidth=20)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 <!-- Databases -->
 ![Databases  ](https://img.shields.io/badge/DB's%20-20232a?style=for-the-badge&logo=terminal&logoColor=white)
