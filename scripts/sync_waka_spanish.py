@@ -45,7 +45,7 @@ def translate_heading_most_productive(text: str) -> str:
 
 
 def translate_simple_phrases(text: str) -> str:
-        """Translate common multi-word phrases and section headings."""
+    """Translate common multi-word phrases and section headings."""
 
     out = text
 
