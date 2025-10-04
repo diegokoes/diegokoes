@@ -84,7 +84,7 @@ Template         </td>
         <td>
           <strong><a href="https://github.com/diegokoes/NOTES_programming">obsidian_programming</a></strong>
         </td>
-        <td>Notes and Obsidian vault for programming</td>
+        <td>Notes and Obsidian vault for programming and tech</td>
       </tr>
     </tbody>
   </table>
