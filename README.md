@@ -63,6 +63,33 @@ Template         </td>
   <img alt="Git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </details>
 
+<details>
+  <summary><strong>Homelab/Dotfiles/Notes</strong></summary>
+
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong><a href="https://github.com/diegokoes/proxmox">proxmox</a></strong>
+        </td>
+        <td>Proxmox-related configs and docs</td>
+      </tr>
+      <tr>
+        <td>
+          <strong><a href="https://github.com/diegokoes/dotfiles">dotfiles</a></strong>
+        </td>
+        <td>My dotfiles and environment setup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong><a href="https://github.com/diegokoes/NOTES_programming">obsidian_programming</a></strong>
+        </td>
+        <td>Notes and Obsidian vault for programming</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤**
 
