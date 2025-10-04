@@ -5,7 +5,7 @@
 </picture>
 
 <!-- Language switcher -->
-<div align="center">__
+<div align="center">
   <a >🇬🇧 English (current)</a> · <a href="./README_es.md">🇪🇸 Español</a>
 </div>
 <br>
