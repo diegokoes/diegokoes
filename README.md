@@ -54,6 +54,7 @@ Template         </td>
   <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img alt="Supabase" src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
   <img alt="Valkey" src="https://img.shields.io/badge/valkey-DC382D?style=for-the-badge&logo=valkey&logoColor=white">
+  <img alt="DBeaver" src="https://img.shields.io/badge/dbeaver-2F6BFF?style=for-the-badge&logo=dbeaver&logoColor=white">
 <br>
   <!-- DevOps -->
   <img alt="DevOps" src="https://img.shields.io/badge/DevOps%20%20%20-20232a?style=for-the-badge&logo=terminal&logoColor=white">
