@@ -10,9 +10,7 @@
 </div>
 <br>
 
-#### `Hi! `
-<details>
-  <summary><strong>Projects I've done</strong></summary>
+#### Projects I've done
   <br>
   <table>
     <tbody>
