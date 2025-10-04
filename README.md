@@ -120,4 +120,4 @@ Lua                      1 repo              ██░░░░░░░░░�
  Last Updated on 04/10/2025
 <!--END_SECTION:waka-->
 
-If you need to contact me, message via Discord (@__koes) or through protonmail `diegomanrique.dev@pm.me`
+If you need to contact me, message me on Discord (@__koes) or via ProtonMail at `diegomanrique.dev@pm.me`
