@@ -10,11 +10,12 @@
 </div>
 <br>
 
-<picture style="vertical-align:middle;margin-right:8px;display:inline-block">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/programming-code-signs-svgrepo-com.svg">
-  <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;">
-</picture> #### Projects I've done
+<details>
+  <summary><picture style="vertical-align:middle;margin-right:8px;display:inline-block">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/programming-code-signs-svgrepo-com.svg">
+    <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;transform:translateY(4px);">
+  </picture><strong>Projects I've done</strong></summary>
 
   <br>
   <table>
@@ -38,7 +39,7 @@ Template         </td>
   <summary><picture style="vertical-align:middle;margin-right:8px;display:inline-block">
     <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/programming-code-signs-svgrepo-com.svg">
-    <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;">
+    <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;transform:translateY(4px);">
   </picture><strong>Tech stack</strong></summary>
 
   <!-- Frontend -->
@@ -75,7 +76,7 @@ Template         </td>
   <summary><picture style="vertical-align:middle;margin-right:8px;display:inline-block">
     <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/programming-code-signs-svgrepo-com.svg">
-    <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;">
+    <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;transform:translateY(4px);">
   </picture><strong>Homelab/Dotfiles/Notes</strong></summary>
 
   <table>
