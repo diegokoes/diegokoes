@@ -95,9 +95,12 @@ Template         </td>
     </tbody>
   </table>
 </details>
-
-#### Weekly coding stats
-
+<details>
+  <summary><picture style="vertical-align:middle;margin-right:8px;display:inline-block">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/programming-code-signs-svgrepo-com.svg">
+    <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;transform:translateY(4px);">
+  </picture><strong>Weekly coding stats</strong></summary>
 <!--START_SECTION:waka-->
 **I'm an Early 🐤**
 
@@ -154,5 +157,6 @@ Lua                      1 repo              ██░░░░░░░░░�
 
  Last Updated on 07/10/2025
 <!--END_SECTION:waka-->
+</details>
 
 If you need to contact me, message me on Discord (@__koes) or via ProtonMail at `diegomanrique.dev@pm.me`
