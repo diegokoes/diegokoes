@@ -1,12 +1,14 @@
 <div align="center">
   <a href="./README.md">🇬🇧 Inglés</a> · <a>🇪🇸 Español (actual)</a>
 </div>
+<br>
 
-<picture style="vertical-align:middle;margin-right:8px;display:inline-block;transform:translateY(4px)">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/programming-code-signs-svgrepo-com.svg">
-  <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;transform:translateY(4px);">
-</picture> #### Proyectos que he hecho
+<details>
+  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.1em;line-height:1;"><picture style="display:inline-block;margin:0">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/programming-code-signs-svgrepo-com.svg">
+    <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
+  </picture><strong>Proyectos que he hecho</strong></span></summary>
 
   <br>
   <table>
@@ -18,17 +20,19 @@
           </em>
         </td>
         <td>
-Template         </td>
+          Template
+        </td>
       </tr>
-  </tbody>
+    </tbody>
   </table>
+</details>
 
 <details>
-  <summary><picture style="vertical-align:middle;margin-right:8px;display:inline-block;transform:translateY(4px)">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/programming-code-signs-svgrepo-com.svg">
-    <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;transform:translateY(4px);">
-  </picture><strong>Tech stack</strong></summary>
+  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.1em;line-height:1;"><picture style="display:inline-block;margin:0">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/knowledge-graph-svgrepo-com-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/knowledge-graph-svgrepo-com.svg">
+    <img src="assets/knowledge-graph-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
+  </picture><strong>Stack tecnológico</strong></span></summary>
 
   <!-- Frontend -->
   <img alt="Frontend" src="https://img.shields.io/badge/Front%20%20%20-20232a?style=for-the-badge&logo=terminal&logoColor=white">
@@ -36,14 +40,14 @@ Template         </td>
   <img alt="React" src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img alt="SCSS/SASS" src="https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-<br>
+  <br>
 
   <!-- Backend -->
   <img alt="Backend" src="https://img.shields.io/badge/Back%20%20%20%20-20232a?style=for-the-badge&logo=terminal&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img alt="Express" src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img alt="Spring" src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<br>
+  <br>
 
   <!-- Databases -->
   <img alt="Databases" src="https://img.shields.io/badge/DB's%20-20232a?style=for-the-badge&logo=terminal&logoColor=white">
@@ -51,7 +55,8 @@ Template         </td>
   <img alt="Supabase" src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
   <img alt="Valkey" src="https://img.shields.io/badge/valkey-DC382D?style=for-the-badge&logo=valkey&logoColor=white">
   <img alt="DBeaver" src="https://img.shields.io/badge/dbeaver-2F6BFF?style=for-the-badge&logo=dbeaver&logoColor=white">
-<br>
+  <br>
+
   <!-- DevOps -->
   <img alt="DevOps" src="https://img.shields.io/badge/DevOps%20%20%20-20232a?style=for-the-badge&logo=terminal&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -61,11 +66,11 @@ Template         </td>
 </details>
 
 <details>
-  <summary><picture style="vertical-align:middle;margin-right:8px;display:inline-block;transform:translateY(4px)">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/programming-code-signs-svgrepo-com.svg">
-    <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;transform:translateY(4px);">
-  </picture><strong>Homelab/Dotfiles/Notas</strong></summary>
+  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.1em;line-height:1;"><picture style="display:inline-block;margin:0">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/atom-svgrepo-com-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/atom-svgrepo-com.svg">
+    <img src="assets/atom-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
+  </picture><strong>Homelab/Dotfiles/Notas</strong></span></summary>
 
   <table>
     <tbody>
@@ -88,8 +93,15 @@ Template         </td>
         <td>Notas y vault de Obsidian sobre programación/tecnología</td>
       </tr>
     </tbody>
-    <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.05em"><picture style="display:inline-block;margin:0">
+  </table>
 </details>
+
+<details>
+  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.1em;line-height:1;"><picture style="display:inline-block;margin:0">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stats-chart-sharp-svgrepo-com-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/stats-chart-sharp-svgrepo-com.svg">
+    <img src="assets/stats-chart-sharp-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
+  </picture><strong>Estadísticas semanales de programación</strong></span></summary>
 
 <!--START_SECTION:waka_es-->
 **Soy diurno 🐤**
@@ -146,3 +158,4 @@ Lua                      1 repo              ██░░░░░░░░░�
 
  Última actualización el 07/10/2025
 <!--END_SECTION:waka_es-->
+</details>

@@ -4,10 +4,10 @@
 <br>
 
 <details>
-  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.05em"><picture style="display:inline-block;margin:0">
+  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.1em;line-height:1;"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/programming-code-signs-svgrepo-com.svg">
-    <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:block">
+    <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
   </picture><strong>Projects I've done</strong></span></summary>
 
   <br>
@@ -29,10 +29,10 @@ Template         </td>
   </table>
 </details>
 <details>
-  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.05em"><picture style="display:inline-block;margin:0">
+  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.1em;line-height:1;"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/knowledge-graph-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/knowledge-graph-svgrepo-com.svg">
-    <img src="assets/knowledge-graph-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:block">
+    <img src="assets/knowledge-graph-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
   </picture><strong>Tech stack</strong></span></summary>
 
   <!-- Frontend -->
@@ -66,10 +66,10 @@ Template         </td>
 </details>
 
 <details>
-  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.05em"><picture style="display:inline-block;margin:0">
+  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.1em;line-height:1;"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/atom-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/atom-svgrepo-com.svg">
-    <img src="assets/atom-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:block">
+    <img src="assets/atom-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
   </picture><strong>Homelab/Dotfiles/Notes</strong></span></summary>
 
   <table>
@@ -97,10 +97,10 @@ Template         </td>
 </details>
 
 <details>
-  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.05em"><picture style="display:inline-block;margin:0">
+  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.1em;line-height:1;"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/stats-chart-sharp-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/stats-chart-sharp-svgrepo-com.svg">
-    <img src="assets/stats-chart-sharp-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:block">
+    <img src="assets/stats-chart-sharp-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
   </picture><strong>Weekly coding stats</strong></span></summary>
 <!--START_SECTION:waka-->
 **I'm an Early 🐤**
@@ -160,4 +160,4 @@ Lua                      1 repo              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
-<small>If you need to contact me, message me on <strong>Discord</strong> (<code>@__koes</code>) or via <strong>Email</strong> at <code>diegomanrique.dev@pm.me</code></small>
+<small><small>If you need to contact me, message me on <strong>Discord</strong> (<code>@__koes</code>) or via <strong>Email</strong> at <code>diegomanrique.dev@pm.me</code></small></small>
