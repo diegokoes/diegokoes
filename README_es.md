@@ -9,7 +9,7 @@
   <a href="./README.md">🇬🇧 Inglés</a> · <a>🇪🇸 Español (actual)</a>
 </div>
 
-#### Proyectos que he hecho
+<img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;margin-right:8px"> #### Proyectos que he hecho
 
   <br>
   <table>
@@ -27,7 +27,7 @@ Template         </td>
   </table>
 
 <details>
-  <summary><strong>Tech stack</strong></summary>
+  <summary><img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;margin-right:8px"><strong>Tech stack</strong></summary>
 
   <!-- Frontend -->
   <img alt="Frontend" src="https://img.shields.io/badge/Front%20%20%20-20232a?style=for-the-badge&logo=terminal&logoColor=white">
@@ -60,7 +60,7 @@ Template         </td>
 </details>
 
 <details>
-  <summary><strong>Homelab/Dotfiles/Notas</strong></summary>
+  <summary><img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;margin-right:8px"><strong>Homelab/Dotfiles/Notas</strong></summary>
 
   <table>
     <tbody>
@@ -78,7 +78,7 @@ Template         </td>
       </tr>
       <tr>
         <td>
-          <strong><a href="https://github.com/diegokoes/NOTES_programming">obsidian_programming</a></strong>
+          <strong><a href="https://github.com/diegokoes/obsidian_programming">obsidian_programming</a></strong>
         </td>
         <td>Notas y vault de Obsidian sobre programación/tecnología</td>
       </tr>
@@ -87,7 +87,7 @@ Template         </td>
 </details>
 
 <!--START_SECTION:waka_es-->
-**Soy diurno 🐤** 
+**Soy diurno 🐤**
 
 ```text
 🌞 Mañana   29 commits  ██░░░░░░░░░░░░░░░░░░░░░░░  10.14%
@@ -96,51 +96,48 @@ Template         </td>
 🌙 Noche    43 commits  ███░░░░░░░░░░░░░░░░░░░░░░  15.03%
 ```
 
-
-📊 **Mi actividad semanal** 
+📊 **Mi actividad semanal**
 
 ```text
 ⌚︎ Zona Horaria: Europa/Madrid
 
-💬 Lenguajes: 
-JavaScript               22 hrs 16 mins      █████████████░░░░░░░░░░░░   52.12% 
-Java                     6 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.8% 
-Markdown                 5 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
-Other                    3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.13% 
+💬 Lenguajes:
+JavaScript               22 hrs 16 mins      █████████████░░░░░░░░░░░░   52.12%
+Java                     6 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.8%
+Markdown                 5 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.77%
+Other                    3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.13%
 TOML                     52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.05%
 
-🔥 Editores: 
-VS Code                  32 hrs 21 mins      ███████████████████░░░░░░   75.69% 
-IntelliJ IDEA            7 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18% 
-Obsidian                 2 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.7% 
-Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
+🔥 Editores:
+VS Code                  32 hrs 21 mins      ███████████████████░░░░░░   75.69%
+IntelliJ IDEA            7 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18%
+Obsidian                 2 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.7%
+Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
 Visual Studio            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
-🐱‍💻 Proyectos: 
-hsn-react-node           23 hrs 25 mins      █████████████░░░░░░░░░░░░   54.81% 
-servidor                 7 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18% 
-dotfiles                 6 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.7% 
-obsidian_programming     3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.44% 
+🐱‍💻 Proyectos:
+hsn-react-node           23 hrs 25 mins      █████████████░░░░░░░░░░░░   54.81%
+servidor                 7 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18%
+dotfiles                 6 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.7%
+obsidian_programming     3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.44%
 diegokoes                1 hr 25 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
 
-💻 Sistemas Operativos: 
-Linux                    42 hrs 39 mins      █████████████████████████   99.79% 
+💻 Sistemas Operativos:
+Linux                    42 hrs 39 mins      █████████████████████████   99.79%
 Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
 ```
 
-**Programo principalmente en Python** 
+**Programo principalmente en Python**
 
 ```text
-Python                   5 repos             █████████░░░░░░░░░░░░░░░░   38.46% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+Python                   5 repos             █████████░░░░░░░░░░░░░░░░   38.46%
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
-
-
 
  Última actualización el 07/10/2025
 <!--END_SECTION:waka_es-->
