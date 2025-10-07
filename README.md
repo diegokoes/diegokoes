@@ -102,6 +102,7 @@ Template         </td>
     <source media="(prefers-color-scheme: light)" srcset="assets/stats-chart-sharp-svgrepo-com.svg">
     <img src="assets/stats-chart-sharp-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
   </picture><strong>Weekly coding stats</strong></span></summary>
+  <br>
 <!--START_SECTION:waka-->
 **I'm an Early 🐤**
 
