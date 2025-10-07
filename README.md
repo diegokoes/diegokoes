@@ -7,7 +7,7 @@
   <summary><span style="display:inline-flex;align-items:center;gap:8px;line-height:1;"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/programming-code-signs-svgrepo-com.svg">
-    <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
+    <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="22" height="22" style="display:inline-block;vertical-align:middle">
   </picture><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/summary-projects-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/summary-projects.svg">
@@ -36,7 +36,7 @@ Template         </td>
   <summary><span style="display:inline-flex;align-items:center;gap:8px;line-height:1;"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/knowledge-graph-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/knowledge-graph-svgrepo-com.svg">
-    <img src="assets/knowledge-graph-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
+    <img src="assets/knowledge-graph-svgrepo-com.svg" alt="icon" width="22" height="22" style="display:inline-block;vertical-align:middle">
   </picture><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/summary-stack-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/summary-stack.svg">
@@ -77,7 +77,7 @@ Template         </td>
   <summary><span style="display:inline-flex;align-items:center;gap:8px;line-height:1;"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/atom-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/atom-svgrepo-com.svg">
-    <img src="assets/atom-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
+    <img src="assets/atom-svgrepo-com.svg" alt="icon" width="22" height="22" style="display:inline-block;vertical-align:middle">
   </picture><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/summary-homelab-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/summary-homelab.svg">
@@ -112,7 +112,7 @@ Template         </td>
   <summary><span style="display:inline-flex;align-items:center;gap:8px;line-height:1;"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/stats-chart-sharp-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/stats-chart-sharp-svgrepo-com.svg">
-    <img src="assets/stats-chart-sharp-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
+    <img src="assets/stats-chart-sharp-svgrepo-com.svg" alt="icon" width="22" height="22" style="display:inline-block;vertical-align:middle">
   </picture><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/summary-stats-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/summary-stats.svg">
