@@ -4,7 +4,7 @@
 <br>
 
 <details>
-  <summary><span style="display:inline-flex;align-items:center;gap:8px"><picture style="display:inline-block;margin:0">
+  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.05em"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/programming-code-signs-svgrepo-com.svg">
     <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:block">
@@ -29,7 +29,7 @@ Template         </td>
   </table>
 </details>
 <details>
-  <summary><span style="display:inline-flex;align-items:center;gap:8px"><picture style="display:inline-block;margin:0">
+  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.05em"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/knowledge-graph-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/knowledge-graph-svgrepo-com.svg">
     <img src="assets/knowledge-graph-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:block">
@@ -66,7 +66,7 @@ Template         </td>
 </details>
 
 <details>
-  <summary><span style="display:inline-flex;align-items:center;gap:8px"><picture style="display:inline-block;margin:0">
+  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.05em"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/atom-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/atom-svgrepo-com.svg">
     <img src="assets/atom-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:block">
@@ -97,7 +97,7 @@ Template         </td>
 </details>
 
 <details>
-  <summary><span style="display:inline-flex;align-items:center;gap:8px"><picture style="display:inline-block;margin:0">
+  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.05em"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/stats-chart-sharp-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/stats-chart-sharp-svgrepo-com.svg">
     <img src="assets/stats-chart-sharp-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:block">
@@ -160,4 +160,4 @@ Lua                      1 repo              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
-If you need to contact me, message me on **Discord** (`@__koes`) or via **Email** at `diegomanrique.dev@pm.me`
+<small>If you need to contact me, message me on <strong>Discord</strong> (<code>@__koes</code>) or via <strong>Email</strong> at <code>diegomanrique.dev@pm.me</code></small>

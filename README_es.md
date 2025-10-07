@@ -88,7 +88,7 @@ Template         </td>
         <td>Notas y vault de Obsidian sobre programación/tecnología</td>
       </tr>
     </tbody>
-  </table>
+    <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.05em"><picture style="display:inline-block;margin:0">
 </details>
 
 <!--START_SECTION:waka_es-->
