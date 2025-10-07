@@ -34,7 +34,7 @@ Template         </td>
     <source media="(prefers-color-scheme: light)" srcset="assets/knowledge-graph-svgrepo-com.svg">
     <img src="assets/knowledge-graph-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
   </picture><strong>Tech stack</strong></span></summary>
-
+<br>
   <!-- Frontend -->
   <img alt="Frontend" src="https://img.shields.io/badge/Front%20%20%20-20232a?style=for-the-badge&logo=terminal&logoColor=white">
   <img alt="Angular" src="https://img.shields.io/badge/angular-7E22CE?style=for-the-badge&logo=angular&logoColor=white">
@@ -71,7 +71,7 @@ Template         </td>
     <source media="(prefers-color-scheme: light)" srcset="assets/atom-svgrepo-com.svg">
     <img src="assets/atom-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
   </picture><strong>Homelab/Dotfiles/Notes</strong></span></summary>
-
+<br>
   <table>
     <tbody>
       <tr>
