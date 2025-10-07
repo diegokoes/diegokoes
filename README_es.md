@@ -63,7 +63,6 @@
   <img alt="Proxmox" src="https://img.shields.io/badge/proxmox-e57000?style=for-the-badge&logo=proxmox&logoColor=white">
   <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    <br>
 </details>
 <details>
   <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.1em;line-height:1;"><picture style="display:inline-block;margin:0">
@@ -94,7 +93,6 @@
       </tr>
     </tbody>
   </table>
-    <br>
 </details>
 
 <details>
@@ -160,4 +158,4 @@ Lua                      1 repo              ██░░░░░░░░░�
  Última actualización el 07/10/2025
 <!--END_SECTION:waka_es-->
 </details>
-<small><small>If you need to contact me, message me on <strong>Discord</strong> (<code>@__koes</code>) or via <strong>Email</strong> at <code>diegomanrique.dev@pm.me</code></small></small>
+<small><small>Si necesitas contactarme, envíame un mensaje por <strong>Discord</strong> (<code>@__koes</code>) o por <strong>correo</strong> a <code>diegomanrique.dev@pm.me</code></small></small>
