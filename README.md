@@ -10,7 +10,11 @@
 </div>
 <br>
 
-<img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;margin-right:8px"> #### Projects I've done
+<picture style="vertical-align:middle;margin-right:8px;display:inline-block">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/programming-code-signs-svgrepo-com.svg">
+  <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;">
+</picture> #### Projects I've done
 
   <br>
   <table>
@@ -31,7 +35,11 @@ Template         </td>
   </table>
 </details>
 <details>
-  <summary><img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;margin-right:8px"><strong>Tech stack</strong></summary>
+  <summary><picture style="vertical-align:middle;margin-right:8px;display:inline-block">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/programming-code-signs-svgrepo-com.svg">
+    <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;">
+  </picture><strong>Tech stack</strong></summary>
 
   <!-- Frontend -->
   <img alt="Frontend" src="https://img.shields.io/badge/Front%20%20%20-20232a?style=for-the-badge&logo=terminal&logoColor=white">
@@ -64,7 +72,11 @@ Template         </td>
 </details>
 
 <details>
-  <summary><img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;margin-right:8px"><strong>Homelab/Dotfiles/Notes</strong></summary>
+  <summary><picture style="vertical-align:middle;margin-right:8px;display:inline-block">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/programming-code-signs-svgrepo-com.svg">
+    <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;">
+  </picture><strong>Homelab/Dotfiles/Notes</strong></summary>
 
   <table>
     <tbody>
