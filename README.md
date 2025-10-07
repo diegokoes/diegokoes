@@ -4,11 +4,11 @@
 <br>
 
 <details>
-  <summary><picture style="vertical-align:middle;margin-right:8px;display:inline-block;transform:translateY(4px)">
+  <summary><span style="display:inline-flex;align-items:center;gap:8px"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/programming-code-signs-svgrepo-com.svg">
-    <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;transform:translateY(4px);">
-  </picture><strong>Projects I've done</strong></summary>
+    <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:block">
+  </picture><strong>Projects I've done</strong></span></summary>
 
   <br>
   <table>
@@ -29,11 +29,11 @@ Template         </td>
   </table>
 </details>
 <details>
-  <summary><picture style="vertical-align:middle;margin-right:8px;display:inline-block;transform:translateY(4px)">
+  <summary><span style="display:inline-flex;align-items:center;gap:8px"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/knowledge-graph-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/knowledge-graph-svgrepo-com.svg">
-    <img src="assets/knowledge-graph-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;transform:translateY(4px);">
-  </picture><strong>Tech stack</strong></summary>
+    <img src="assets/knowledge-graph-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:block">
+  </picture><strong>Tech stack</strong></span></summary>
 
   <!-- Frontend -->
   <img alt="Frontend" src="https://img.shields.io/badge/Front%20%20%20-20232a?style=for-the-badge&logo=terminal&logoColor=white">
@@ -66,11 +66,11 @@ Template         </td>
 </details>
 
 <details>
-  <summary><picture style="vertical-align:middle;margin-right:8px;display:inline-block;transform:translateY(4px)">
+  <summary><span style="display:inline-flex;align-items:center;gap:8px"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/atom-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/atom-svgrepo-com.svg">
-    <img src="assets/atom-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;transform:translateY(4px);">
-  </picture><strong>Homelab/Dotfiles/Notes</strong></summary>
+    <img src="assets/atom-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:block">
+  </picture><strong>Homelab/Dotfiles/Notes</strong></span></summary>
 
   <table>
     <tbody>
@@ -97,67 +97,64 @@ Template         </td>
 </details>
 
 <details>
-  <summary><picture style="vertical-align:middle;margin-right:8px;display:inline-block;transform:translateY(4px)">
+  <summary><span style="display:inline-flex;align-items:center;gap:8px"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/stats-chart-sharp-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/stats-chart-sharp-svgrepo-com.svg">
-    <img src="assets/stats-chart-sharp-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;transform:translateY(4px);">
-  </picture><strong>Weekly coding stats</strong></summary>
+    <img src="assets/stats-chart-sharp-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:block">
+  </picture><strong>Weekly coding stats</strong></span></summary>
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.1% 
-🌆 Daytime    143 commits    ████████████░░░░░░░░░░░░░   49.83% 
-🌃 Evening    78 commits     ██████░░░░░░░░░░░░░░░░░░░   27.18% 
+🌞 Morning    29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.1%
+🌆 Daytime    143 commits    ████████████░░░░░░░░░░░░░   49.83%
+🌃 Evening    78 commits     ██████░░░░░░░░░░░░░░░░░░░   27.18%
 🌙 Night      37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Europe/Madrid
 
-💬 Programming Languages: 
-JavaScript               22 hrs 16 mins      █████████████░░░░░░░░░░░░   52.12% 
-Java                     6 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.8% 
-Markdown                 5 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
-Other                    3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.13% 
+💬 Programming Languages:
+JavaScript               22 hrs 16 mins      █████████████░░░░░░░░░░░░   52.12%
+Java                     6 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.8%
+Markdown                 5 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.77%
+Other                    3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.13%
 TOML                     52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.05%
 
-🔥 Editors: 
-VS Code                  32 hrs 21 mins      ███████████████████░░░░░░   75.69% 
-IntelliJ IDEA            7 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18% 
-Obsidian                 2 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.7% 
-Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
+🔥 Editors:
+VS Code                  32 hrs 21 mins      ███████████████████░░░░░░   75.69%
+IntelliJ IDEA            7 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18%
+Obsidian                 2 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.7%
+Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
 Visual Studio            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
-🐱‍💻 Projects: 
-hsn-react-node           23 hrs 25 mins      █████████████░░░░░░░░░░░░   54.81% 
-servidor                 7 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18% 
-dotfiles                 6 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.7% 
-obsidian_programming     3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.44% 
+🐱‍💻 Projects:
+hsn-react-node           23 hrs 25 mins      █████████████░░░░░░░░░░░░   54.81%
+servidor                 7 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18%
+dotfiles                 6 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.7%
+obsidian_programming     3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.44%
 diegokoes                1 hr 25 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
 
-💻 Operating System: 
-Linux                    42 hrs 39 mins      █████████████████████████   99.79% 
+💻 Operating System:
+Linux                    42 hrs 39 mins      █████████████████████████   99.79%
 Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   5 repos             █████████░░░░░░░░░░░░░░░░   38.46% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+Python                   5 repos             █████████░░░░░░░░░░░░░░░░   38.46%
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
-
-
 
  Last Updated on 07/10/2025
 <!--END_SECTION:waka-->
