@@ -4,11 +4,15 @@
 <br>
 
 <details>
-  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.1em;line-height:1;"><picture style="display:inline-block;margin:0">
+  <summary><span style="display:inline-flex;align-items:center;gap:8px;line-height:1;"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/programming-code-signs-svgrepo-com.svg">
     <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
-  </picture><strong>Projects I've done</strong></span></summary>
+  </picture><picture style="display:inline-block;margin:0">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/summary-projects-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/summary-projects.svg">
+    <img src="assets/summary-projects.svg" alt="Projects I've done" width="176" height="20" style="display:inline-block;vertical-align:middle">
+  </picture></span></summary>
 
   <br>
   <table>
@@ -29,11 +33,15 @@ Template         </td>
   </table>
 </details>
 <details>
-  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.1em;line-height:1;"><picture style="display:inline-block;margin:0">
+  <summary><span style="display:inline-flex;align-items:center;gap:8px;line-height:1;"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/knowledge-graph-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/knowledge-graph-svgrepo-com.svg">
     <img src="assets/knowledge-graph-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
-  </picture><strong>Tech stack</strong></span></summary>
+  </picture><picture style="display:inline-block;margin:0">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/summary-stack-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/summary-stack.svg">
+    <img src="assets/summary-stack.svg" alt="Tech stack" width="86" height="20" style="display:inline-block;vertical-align:middle">
+  </picture></span></summary>
 <br>
   <!-- Frontend -->
   <img alt="Frontend" src="https://img.shields.io/badge/Front%20%20%20-20232a?style=for-the-badge&logo=terminal&logoColor=white">
@@ -66,11 +74,15 @@ Template         </td>
 </details>
 
 <details>
-  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.1em;line-height:1;"><picture style="display:inline-block;margin:0">
+  <summary><span style="display:inline-flex;align-items:center;gap:8px;line-height:1;"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/atom-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/atom-svgrepo-com.svg">
     <img src="assets/atom-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
-  </picture><strong>Homelab/Dotfiles/Notes</strong></span></summary>
+  </picture><picture style="display:inline-block;margin:0">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/summary-homelab-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/summary-homelab.svg">
+    <img src="assets/summary-homelab.svg" alt="Homelab/Dotfiles/Notes" width="188" height="20" style="display:inline-block;vertical-align:middle">
+  </picture></span></summary>
 <br>
   <table>
     <tbody>
@@ -97,11 +109,15 @@ Template         </td>
 </details>
 
 <details>
-  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.1em;line-height:1;"><picture style="display:inline-block;margin:0">
+  <summary><span style="display:inline-flex;align-items:center;gap:8px;line-height:1;"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/stats-chart-sharp-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/stats-chart-sharp-svgrepo-com.svg">
     <img src="assets/stats-chart-sharp-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
-  </picture><strong>Weekly coding stats</strong></span></summary>
+  </picture><picture style="display:inline-block;margin:0">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/summary-stats-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/summary-stats.svg">
+    <img src="assets/summary-stats.svg" alt="Weekly coding stats" width="158" height="20" style="display:inline-block;vertical-align:middle">
+  </picture></span></summary>
   <br>
 <!--START_SECTION:waka-->
 **I'm an Early 🐤**

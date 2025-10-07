@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="20" viewBox="0 0 86 20" role="img"
+  aria-label="Tech stack">
+  <title>Tech stack</title>
+  <rect width="100%" height="100%" fill="transparent" />
+  <text x="0" y="50%" dominant-baseline="middle" fill="#ffffff" font-size="14"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'">
+    Tech stack
+  </text>
+</svg>

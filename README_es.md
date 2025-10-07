@@ -4,11 +4,15 @@
 <br>
 
 <details>
-  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.1em;line-height:1;"><picture style="display:inline-block;margin:0">
+  <summary><span style="display:inline-flex;align-items:center;gap:8px;line-height:1;"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/programming-code-signs-svgrepo-com.svg">
     <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
-  </picture><strong>Proyectos que he hecho</strong></span></summary>
+  </picture><picture style="display:inline-block;margin:0">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/summary-projects-es-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/summary-projects-es.svg">
+    <img src="assets/summary-projects-es.svg" alt="Proyectos que he hecho" width="200" height="20" style="display:inline-block;vertical-align:middle">
+  </picture></span></summary>
 
   <br>
   <table>
@@ -28,11 +32,15 @@
 </details>
 
 <details>
-  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.1em;line-height:1;"><picture style="display:inline-block;margin:0">
+  <summary><span style="display:inline-flex;align-items:center;gap:8px;line-height:1;"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/knowledge-graph-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/knowledge-graph-svgrepo-com.svg">
     <img src="assets/knowledge-graph-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
-  </picture><strong>Stack</strong></span></summary>
+  </picture><picture style="display:inline-block;margin:0">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/summary-stack-es-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/summary-stack-es.svg">
+    <img src="assets/summary-stack-es.svg" alt="Stack" width="46" height="20" style="display:inline-block;vertical-align:middle">
+  </picture></span></summary>
   <br>
   <!-- Frontend -->
   <img alt="Frontend" src="https://img.shields.io/badge/Front%20%20%20-20232a?style=for-the-badge&logo=terminal&logoColor=white">
@@ -65,11 +73,15 @@
   <img alt="Git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </details>
 <details>
-  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.1em;line-height:1;"><picture style="display:inline-block;margin:0">
+  <summary><span style="display:inline-flex;align-items:center;gap:8px;line-height:1;"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/atom-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/atom-svgrepo-com.svg">
     <img src="assets/atom-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
-  </picture><strong>Homelab/Dotfiles/Notas</strong></span></summary>
+  </picture><picture style="display:inline-block;margin:0">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/summary-homelab-es-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/summary-homelab-es.svg">
+    <img src="assets/summary-homelab-es.svg" alt="Homelab/Dotfiles/Notas" width="210" height="20" style="display:inline-block;vertical-align:middle">
+  </picture></span></summary>
   <br>
   <table>
     <tbody>
@@ -96,11 +108,15 @@
 </details>
 
 <details>
-  <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.1em;line-height:1;"><picture style="display:inline-block;margin:0">
+  <summary><span style="display:inline-flex;align-items:center;gap:8px;line-height:1;"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/stats-chart-sharp-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/stats-chart-sharp-svgrepo-com.svg">
     <img src="assets/stats-chart-sharp-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
-  </picture><strong>Estadísticas semanales</strong></span></summary>
+  </picture><picture style="display:inline-block;margin:0">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/summary-stats-es-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/summary-stats-es.svg">
+    <img src="assets/summary-stats-es.svg" alt="Estadísticas semanales" width="148" height="20" style="display:inline-block;vertical-align:middle">
+  </picture></span></summary>
   <br>
 <!--START_SECTION:waka_es-->
 **Soy diurno 🐤**
