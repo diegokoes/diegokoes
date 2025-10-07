@@ -90,6 +90,8 @@ Template         </td>
   </table>
 </details>
 
+#### Weekly coding stats
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
