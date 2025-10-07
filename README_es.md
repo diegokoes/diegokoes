@@ -32,8 +32,8 @@
     <source media="(prefers-color-scheme: dark)" srcset="assets/knowledge-graph-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/knowledge-graph-svgrepo-com.svg">
     <img src="assets/knowledge-graph-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
-  </picture><strong>Stack tecnológico</strong></span></summary>
-
+  </picture><strong>Stack</strong></span></summary>
+  <br>
   <!-- Frontend -->
   <img alt="Frontend" src="https://img.shields.io/badge/Front%20%20%20-20232a?style=for-the-badge&logo=terminal&logoColor=white">
   <img alt="Angular" src="https://img.shields.io/badge/angular-7E22CE?style=for-the-badge&logo=angular&logoColor=white">
@@ -63,15 +63,15 @@
   <img alt="Proxmox" src="https://img.shields.io/badge/proxmox-e57000?style=for-the-badge&logo=proxmox&logoColor=white">
   <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <br>
 </details>
-
 <details>
   <summary><span style="display:inline-flex;align-items:center;gap:8px;font-size:1.1em;line-height:1;"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/atom-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/atom-svgrepo-com.svg">
     <img src="assets/atom-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
   </picture><strong>Homelab/Dotfiles/Notas</strong></span></summary>
-
+  <br>
   <table>
     <tbody>
       <tr>
@@ -94,6 +94,7 @@
       </tr>
     </tbody>
   </table>
+    <br>
 </details>
 
 <details>
@@ -101,8 +102,8 @@
     <source media="(prefers-color-scheme: dark)" srcset="assets/stats-chart-sharp-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/stats-chart-sharp-svgrepo-com.svg">
     <img src="assets/stats-chart-sharp-svgrepo-com.svg" alt="icon" width="20" height="20" style="display:inline-block;vertical-align:middle">
-  </picture><strong>Estadísticas semanales de programación</strong></span></summary>
-
+  </picture><strong>Estadísticas semanales</strong></span></summary>
+  <br>
 <!--START_SECTION:waka_es-->
 **Soy diurno 🐤**
 
@@ -159,3 +160,4 @@ Lua                      1 repo              ██░░░░░░░░░�
  Última actualización el 07/10/2025
 <!--END_SECTION:waka_es-->
 </details>
+<small><small>If you need to contact me, message me on <strong>Discord</strong> (<code>@__koes</code>) or via <strong>Email</strong> at <code>diegomanrique.dev@pm.me</code></small></small>
