@@ -4,7 +4,7 @@
 <br>
 
 <details>
-  <summary><picture style="vertical-align:middle;margin-right:8px;display:inline-block">
+  <summary><picture style="vertical-align:middle;margin-right:8px;display:inline-block;transform:translateY(4px)">
     <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/programming-code-signs-svgrepo-com.svg">
     <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;transform:translateY(4px);">
@@ -29,10 +29,10 @@ Template         </td>
   </table>
 </details>
 <details>
-  <summary><picture style="vertical-align:middle;margin-right:8px;display:inline-block">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/programming-code-signs-svgrepo-com.svg">
-    <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;transform:translateY(4px);">
+  <summary><picture style="vertical-align:middle;margin-right:8px;display:inline-block;transform:translateY(4px)">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/knowledge-graph-svgrepo-com-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/knowledge-graph-svgrepo-com.svg">
+    <img src="assets/knowledge-graph-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;transform:translateY(4px);">
   </picture><strong>Tech stack</strong></summary>
 
   <!-- Frontend -->
@@ -66,10 +66,10 @@ Template         </td>
 </details>
 
 <details>
-  <summary><picture style="vertical-align:middle;margin-right:8px;display:inline-block">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/programming-code-signs-svgrepo-com.svg">
-    <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;transform:translateY(4px);">
+  <summary><picture style="vertical-align:middle;margin-right:8px;display:inline-block;transform:translateY(4px)">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/atom-svgrepo-com-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/atom-svgrepo-com.svg">
+    <img src="assets/atom-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;transform:translateY(4px);">
   </picture><strong>Homelab/Dotfiles/Notes</strong></summary>
 
   <table>
@@ -88,18 +88,19 @@ Template         </td>
       </tr>
       <tr>
         <td>
-          <strong><a href="https://github.com/diegokoes/NOTES_programming">obsidian_programming</a></strong>
+          <strong><a href="https://github.com/diegokoes/obsidian_programming">obsidian_programming</a></strong>
         </td>
         <td>Notes and Obsidian vault for programming and tech</td>
       </tr>
     </tbody>
   </table>
 </details>
+
 <details>
-  <summary><picture style="vertical-align:middle;margin-right:8px;display:inline-block">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/programming-code-signs-svgrepo-com.svg">
-    <img src="assets/programming-code-signs-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;transform:translateY(4px);">
+  <summary><picture style="vertical-align:middle;margin-right:8px;display:inline-block;transform:translateY(4px)">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stats-chart-sharp-svgrepo-com-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/stats-chart-sharp-svgrepo-com.svg">
+    <img src="assets/stats-chart-sharp-svgrepo-com.svg" alt="icon" width="20" height="20" style="vertical-align:middle;transform:translateY(4px);">
   </picture><strong>Weekly coding stats</strong></summary>
 <!--START_SECTION:waka-->
 **I'm an Early 🐤**
@@ -159,4 +160,4 @@ Lua                      1 repo              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
-If you need to contact me, message me on Discord (@__koes) or via ProtonMail at `diegomanrique.dev@pm.me`
+If you need to contact me, message me on **Discord** (`@__koes`) or via **Email** at `diegomanrique.dev@pm.me`
