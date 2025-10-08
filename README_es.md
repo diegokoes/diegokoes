@@ -1,4 +1,4 @@
-</div>English · <a href="./README_es.md" title="Leer en Español"><strong>Español</strong><small>(actual)</small></a>
+<a href="./README.md" title="Read in english">Inglés</a> · <strong>Español</strong><small>(actual)</small>
 <br>
 
 <details>
