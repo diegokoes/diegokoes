@@ -1,7 +1,5 @@
-<a ><small>🇬🇧 English (current)</small></a> · <a href="./README_es.md"><small>🇪🇸 Español</small></a>
-
+<strong>English</strong> <small>(current)</small> · <a href="./README_es.md" title="Leer en Español">Español</a>
 <br>
-
 <details>
   <summary><span style="display:inline-flex;align-items:center;gap:8px;line-height:1;"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
