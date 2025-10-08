@@ -1,5 +1,3 @@
-<div align="center">
-  <a href="./README.md">🇬🇧 Inglés</a> · <a>🇪🇸 Español (actual)</a>
 </div>English · <a href="./README_es.md" title="Leer en Español"><strong>Español</strong><small>(actual)</small></a>
 <br>
 
