@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD033 -->
 <strong>English</strong> <small>(current)</small> · <a href="./README_es.md" title="Leer en Español">Español</a>
 <br>
 <details>
@@ -16,14 +17,41 @@
     <tbody>
       <tr>
         <td>
-          <em>
-            <strong><a href="#">Template</a></strong>
-          </em>
+          <em><strong><a href="https://github.com/diegokoes/template">Template</a></strong></em>
         </td>
+        <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
         <td>
-Template         </td>
+          <img alt="React" src="https://cdn.simpleicons.org/react/61DAFB" width="22" height="22" title="React" style="margin-right:6px;vertical-align:middle;"/>
+          <img alt="Angular" src="https://cdn.simpleicons.org/angular/DD0031" width="22" height="22" title="Angular" style="margin-right:6px;vertical-align:middle;"/>
+          <img alt="Node.js" src="https://cdn.simpleicons.org/nodedotjs/339933" width="22" height="22" title="Node.js" style="margin-right:6px;vertical-align:middle;"/>
+          <img alt="Express" src="https://cdn.simpleicons.org/express/000000" width="22" height="22" title="Express" style="margin-right:6px;vertical-align:middle;"/>
+          <img alt="MongoDB" src="https://cdn.simpleicons.org/mongodb/47A248" width="22" height="22" title="MongoDB" style="vertical-align:middle;"/>
+        </td>
+      </tr>
+      <tr>
         <td>
-          <img alt="NodeJs/React/MongoDB" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png" width="22">
+          <em><strong><a href="https://github.com/diegokoes/template">Template</a></strong></em>
+        </td>
+        <td>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</td>
+        <td>
+          <img alt="React" src="https://cdn.simpleicons.org/react/61DAFB" width="22" height="22" title="React" style="margin-right:6px;vertical-align:middle;"/>
+          <img alt="Angular" src="https://cdn.simpleicons.org/angular/DD0031" width="22" height="22" title="Angular" style="margin-right:6px;vertical-align:middle;"/>
+          <img alt="Node.js" src="https://cdn.simpleicons.org/nodedotjs/339933" width="22" height="22" title="Node.js" style="margin-right:6px;vertical-align:middle;"/>
+          <img alt="Express" src="https://cdn.simpleicons.org/express/000000" width="22" height="22" title="Express" style="margin-right:6px;vertical-align:middle;"/>
+          <img alt="MongoDB" src="https://cdn.simpleicons.org/mongodb/47A248" width="22" height="22" title="MongoDB" style="vertical-align:middle;"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <em><strong><a href="https://github.com/diegokoes/template">Template</a></strong></em>
+        </td>
+        <td>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</td>
+        <td>
+          <img alt="React" src="https://cdn.simpleicons.org/react/61DAFB" width="22" height="22" title="React" style="margin-right:6px;vertical-align:middle;"/>
+          <img alt="Angular" src="https://cdn.simpleicons.org/angular/DD0031" width="22" height="22" title="Angular" style="margin-right:6px;vertical-align:middle;"/>
+          <img alt="Node.js" src="https://cdn.simpleicons.org/nodedotjs/339933" width="22" height="22" title="Node.js" style="margin-right:6px;vertical-align:middle;"/>
+          <img alt="Express" src="https://cdn.simpleicons.org/express/000000" width="22" height="22" title="Express" style="margin-right:6px;vertical-align:middle;"/>
+          <img alt="MongoDB" src="https://cdn.simpleicons.org/mongodb/47A248" width="22" height="22" title="MongoDB" style="vertical-align:middle;"/>
         </td>
       </tr>
   </tbody>
@@ -117,61 +145,58 @@ Template         </td>
   </picture></span></summary>
   <br>
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
-🌆 Daytime    136 commits    ███████████░░░░░░░░░░░░░░   46.26% 
-🌃 Evening    94 commits     ████████░░░░░░░░░░░░░░░░░   31.97% 
+🌞 Morning    29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.86%
+🌆 Daytime    136 commits    ███████████░░░░░░░░░░░░░░   46.26%
+🌃 Evening    94 commits     ████████░░░░░░░░░░░░░░░░░   31.97%
 🌙 Night      35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.9%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Europe/Madrid
 
-💬 Programming Languages: 
-JavaScript               22 hrs 8 mins       ████████████░░░░░░░░░░░░░   51.4% 
-Java                     7 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.38% 
-Markdown                 6 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.08% 
-Other                    2 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.88% 
+💬 Programming Languages:
+JavaScript               22 hrs 8 mins       ████████████░░░░░░░░░░░░░   51.4%
+Java                     7 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.38%
+Markdown                 6 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.08%
+Other                    2 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.88%
 TOML                     54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.09%
 
-🔥 Editors: 
-VS Code                  32 hrs 8 mins       ██████████████████░░░░░░░   74.63% 
-IntelliJ IDEA            7 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Obsidian                 2 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.76% 
-Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
+🔥 Editors:
+VS Code                  32 hrs 8 mins       ██████████████████░░░░░░░   74.63%
+IntelliJ IDEA            7 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.18%
+Obsidian                 2 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.76%
+Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
 Visual Studio            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
-🐱‍💻 Projects: 
-hsn-react-node           23 hrs 17 mins      █████████████░░░░░░░░░░░░   54.07% 
-servidor                 7 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-dotfiles                 4 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.12% 
-obsidian_programming     3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.74% 
+🐱‍💻 Projects:
+hsn-react-node           23 hrs 17 mins      █████████████░░░░░░░░░░░░   54.07%
+servidor                 7 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.18%
+dotfiles                 4 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.12%
+obsidian_programming     3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.74%
 diegokoes                2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.36%
 
-💻 Operating System: 
-Linux                    42 hrs 59 mins      █████████████████████████   99.79% 
+💻 Operating System:
+Linux                    42 hrs 59 mins      █████████████████████████   99.79%
 Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   5 repos             █████████░░░░░░░░░░░░░░░░   38.46% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+Python                   5 repos             █████████░░░░░░░░░░░░░░░░   38.46%
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
-
-
 
  Last Updated on 08/10/2025
 <!--END_SECTION:waka-->
