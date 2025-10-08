@@ -1,6 +1,5 @@
-<div align="center">
-  <a >🇬🇧 English (current)</a> · <a href="./README_es.md">🇪🇸 Español</a>
-</div>
+<a ><small>🇬🇧 English (current)</small></a> · <a href="./README_es.md"><small>🇪🇸 Español</small></a>
+
 <br>
 
 <details>
