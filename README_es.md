@@ -1,4 +1,4 @@
-<a href="./README.md" title="Read in english">Inglés</a> · <strong>Español</strong><small>(actual)</small>
+<a href="./README.md" title="Read in english">Inglés</a> · <strong>Español</strong><small> (actual)</small>
 <br>
 
 <details>
