@@ -1,6 +1,6 @@
 <a href="./README.md" title="Read in english">Inglés</a> · <strong>Español</strong><small> (actual)</small>
 <br>
-
+<br>
 <details>
   <summary><span style="display:inline-flex;align-items:center;gap:8px;line-height:1;"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/programming-code-signs-svgrepo-com-white.svg">
