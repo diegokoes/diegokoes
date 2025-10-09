@@ -72,6 +72,31 @@
 </details>
 <details>
   <summary><span style="display:inline-flex;align-items:center;gap:8px;line-height:1;"><picture style="display:inline-block;margin:0">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/course-svgrepo-com-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/course-svgrepo-com.svg">
+    <img src="assets/course-svgrepo-com.svg" alt="icon" width="22" height="22" style="display:inline-block;vertical-align:middle">
+  </picture><picture style="display:inline-block;margin:0">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/summary-courses-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/summary-courses.svg">
+    <img src="assets/summary-courses.svg" alt="Courses / Certificates" width="188" height="20" style="display:inline-block;vertical-align:middle">
+  </picture></span></summary>
+
+  <br>
+  <table>
+    <tr><th align="left">Course</th><th align="left">Description</th><th align="left">Tech</th></tr>
+    <tr><td colspan="3" align="left"><strong>Coursera</strong></td></tr>
+    <tr><td><em><strong><a href="Coursera/Meta_Backend_Certificate/course-2-programming-in-python">Meta Backend Certificate — Programming in Python (Course 2)</a></strong></em></td><td>Exercises for modules on basic Python, programming paradigms, and packages/libraries/tools.</td><td><img alt="Python" src="https://cdn.simpleicons.org/python/3776AB" width="22" height="22" title="Python" style="vertical-align:middle;"/></td></tr>
+    <tr><td colspan="3" align="left"><strong>EDX</strong></td></tr>
+    <tr><td><em><strong><a href="EDX/CS50Python">CS50 Python</a></strong></em></td><td>Assorted Python exercises.</td><td><img alt="Python" src="https://cdn.simpleicons.org/python/3776AB" width="22" height="22" title="Python" style="vertical-align:middle;"/></td></tr>
+    <tr><td colspan="3" align="left"><strong>OpenWebinars</strong></td></tr>
+    <tr><td><em><strong><a href="OpenWebinars/curso_typescript">Curso TypeScript</a></strong></em></td><td>Tipos y fundamentos del lenguaje (carpeta 04-tipos).</td><td><img alt="TypeScript" src="https://cdn.simpleicons.org/typescript/3178C6" width="22" height="22" title="TypeScript" style="margin-right:6px;vertical-align:middle;"/> </td></tr>
+    <tr><td><em><strong><a href="OpenWebinars/Java%20desde%200%20-%20Records,%20Gen%C3%A9ricos%20y%20Colecciones">Java desde 0 — Records, Genéricos y Colecciones</a></strong></em></td><td>Ejercicios sobre records, genéricos y colecciones.</td><td><img alt="Java" src="https://cdn.simpleicons.org/java/007396" width="22" height="22" title="Java" style="vertical-align:middle;"/></td></tr>
+    <tr><td colspan="3" align="left"><strong>Udemy</strong></td></tr>
+    <tr><td><em><strong><a href="Coursera/Udemy/Angular_Complete_Guide">Angular — The Complete Guide</a></strong></em></td><td>56 hours</td><td><img alt="Angular" src="https://cdn.simpleicons.org/angular/DD0031" width="22" height="22" title="Angular" style="margin-right:6px;vertical-align:middle;"/> <img alt="TypeScript" src="https://cdn.simpleicons.org/typescript/3178C6" width="22" height="22" title="TypeScript" style="vertical-align:middle;"/></td></tr>
+  </table>
+</details>
+<details>
+  <summary><span style="display:inline-flex;align-items:center;gap:8px;line-height:1;"><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/knowledge-graph-svgrepo-com-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/knowledge-graph-svgrepo-com.svg">
     <img src="assets/knowledge-graph-svgrepo-com.svg" alt="icon" width="22" height="22" style="display:inline-block;vertical-align:middle">
@@ -158,61 +183,58 @@
   </picture></span></summary>
   <br>
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
-🌆 Daytime    136 commits    ███████████░░░░░░░░░░░░░░   46.26% 
-🌃 Evening    100 commits    ████████░░░░░░░░░░░░░░░░░   34.01% 
+🌞 Morning    29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.86%
+🌆 Daytime    136 commits    ███████████░░░░░░░░░░░░░░   46.26%
+🌃 Evening    100 commits    ████████░░░░░░░░░░░░░░░░░   34.01%
 🌙 Night      29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.86%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Europe/Madrid
 
-💬 Programming Languages: 
-JavaScript               19 hrs 4 mins       ███████████░░░░░░░░░░░░░░   47.17% 
-Markdown                 8 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.82% 
-Java                     8 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.01% 
-Other                    1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.46% 
+💬 Programming Languages:
+JavaScript               19 hrs 4 mins       ███████████░░░░░░░░░░░░░░   47.17%
+Markdown                 8 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.82%
+Java                     8 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.01%
+Other                    1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.46%
 TOML                     54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23%
 
-🔥 Editors: 
-VS Code                  28 hrs 20 mins      █████████████████░░░░░░░░   70.06% 
-IntelliJ IDEA            8 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.52% 
-Obsidian                 3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
-Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24% 
+🔥 Editors:
+VS Code                  28 hrs 20 mins      █████████████████░░░░░░░░   70.06%
+IntelliJ IDEA            8 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.52%
+Obsidian                 3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.96%
+Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 Visual Studio            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
 
-🐱‍💻 Projects: 
-hsn-react-node           19 hrs 57 mins      ████████████░░░░░░░░░░░░░   49.34% 
-servidor                 8 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.52% 
-obsidian_programming     4 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.5% 
-dotfiles                 3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.77% 
+🐱‍💻 Projects:
+hsn-react-node           19 hrs 57 mins      ████████████░░░░░░░░░░░░░   49.34%
+servidor                 8 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.52%
+obsidian_programming     4 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.5%
+dotfiles                 3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.77%
 diegokoes                3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.2%
 
-💻 Operating System: 
-Linux                    40 hrs 21 mins      █████████████████████████   99.77% 
+💻 Operating System:
+Linux                    40 hrs 21 mins      █████████████████████████   99.77%
 Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   5 repos             █████████░░░░░░░░░░░░░░░░   38.46% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+Python                   5 repos             █████████░░░░░░░░░░░░░░░░   38.46%
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
-
-
 
  Last Updated on 09/10/2025
 <!--END_SECTION:waka-->
