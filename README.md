@@ -83,16 +83,18 @@
 
   <br>
   <table>
-    <tr><th align="left">Course</th><th align="left">Description</th><th align="left">Tech</th></tr>
+    <tr><th align="left">Course</th><th align="left">Hours</th><th align="left">Description</th></tr>
     <tr><td colspan="3" align="left"><strong>Coursera</strong></td></tr>
-    <tr><td><em><strong><a href="Coursera/Meta_Backend_Certificate/course-2-programming-in-python">Meta Backend Certificate — Programming in Python (Course 2)</a></strong></em></td><td>Exercises for modules on basic Python, programming paradigms, and packages/libraries/tools.</td><td><img alt="Python" src="https://cdn.simpleicons.org/python/3776AB" width="22" height="22" title="Python" style="vertical-align:middle;"/></td></tr>
+    <tr><td><em><strong><a href="Coursera/Meta_Backend_Certificate/course-2-programming-in-python">Meta Backend Certificate</a></strong></em></td><td>196</td><td>
+    <small>Django - SQL - RESTful API design</small>
+    </td></tr>
     <tr><td colspan="3" align="left"><strong>EDX</strong></td></tr>
-    <tr><td><em><strong><a href="EDX/CS50Python">CS50 Python</a></strong></em></td><td>Assorted Python exercises.</td><td><img alt="Python" src="https://cdn.simpleicons.org/python/3776AB" width="22" height="22" title="Python" style="vertical-align:middle;"/></td></tr>
+    <tr><td><em><strong><a href="EDX/CS50Python">CS50 Python</a></strong></em></td><td>XX</td><td><img alt="Python" src="https://cdn.simpleicons.org/python/3776AB" width="22" height="22" title="Python" style="vertical-align:middle;"/></td></tr>
     <tr><td colspan="3" align="left"><strong>OpenWebinars</strong></td></tr>
-    <tr><td><em><strong><a href="OpenWebinars/curso_typescript">Curso TypeScript</a></strong></em></td><td>Tipos y fundamentos del lenguaje (carpeta 04-tipos).</td><td><img alt="TypeScript" src="https://cdn.simpleicons.org/typescript/3178C6" width="22" height="22" title="TypeScript" style="margin-right:6px;vertical-align:middle;"/> </td></tr>
-    <tr><td><em><strong><a href="OpenWebinars/Java%20desde%200%20-%20Records,%20Gen%C3%A9ricos%20y%20Colecciones">Java desde 0 — Records, Genéricos y Colecciones</a></strong></em></td><td>Ejercicios sobre records, genéricos y colecciones.</td><td><img alt="Java" src="https://cdn.simpleicons.org/java/007396" width="22" height="22" title="Java" style="vertical-align:middle;"/></td></tr>
+    <tr><td><em><strong><a href="OpenWebinars/curso_typescript">Curso TypeScript</a></strong></em></td><td>XX</td><td><img alt="TypeScript" src="https://cdn.simpleicons.org/typescript/3178C6" width="22" height="22" title="TypeScript" style="margin-right:6px;vertical-align:middle;"/> </td></tr>
+    <tr><td><em><strong><a href="OpenWebinars/Java%20desde%200%20-%20Records,%20Gen%C3%A9ricos%20y%20Colecciones">Java desde 0 — Records, Genéricos y Colecciones</a></strong></em></td><td>XX</td><td><img alt="Java" src="https://cdn.simpleicons.org/java/007396" width="22" height="22" title="Java" style="vertical-align:middle;"/></td></tr>
     <tr><td colspan="3" align="left"><strong>Udemy</strong></td></tr>
-    <tr><td><em><strong><a href="Coursera/Udemy/Angular_Complete_Guide">Angular — The Complete Guide</a></strong></em></td><td>56 hours</td><td><img alt="Angular" src="https://cdn.simpleicons.org/angular/DD0031" width="22" height="22" title="Angular" style="margin-right:6px;vertical-align:middle;"/> <img alt="TypeScript" src="https://cdn.simpleicons.org/typescript/3178C6" width="22" height="22" title="TypeScript" style="vertical-align:middle;"/></td></tr>
+    <tr><td><em><strong><a href="Coursera/Udemy/Angular_Complete_Guide">Angular — The Complete Guide</a></strong></em></td><td>56</td><td><img alt="Angular" src="https://cdn.simpleicons.org/angular/DD0031" width="22" height="22" title="Angular" style="margin-right:6px;vertical-align:middle;"/> <img alt="TypeScript" src="https://cdn.simpleicons.org/typescript/3178C6" width="22" height="22" title="TypeScript" style="vertical-align:middle;"/></td></tr>
   </table>
 </details>
 <details>
@@ -183,58 +185,55 @@
   </picture></span></summary>
   <br>
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
-🌆 Daytime    142 commits    ███████████░░░░░░░░░░░░░░   44.24% 
-🌃 Evening    108 commits    ████████░░░░░░░░░░░░░░░░░   33.64% 
+🌞 Morning    44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71%
+🌆 Daytime    142 commits    ███████████░░░░░░░░░░░░░░   44.24%
+🌃 Evening    108 commits    ████████░░░░░░░░░░░░░░░░░   33.64%
 🌙 Night      27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.41%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Europe/Madrid
 
-💬 Programming Languages: 
-Java                     10 hrs 51 mins      ███████████░░░░░░░░░░░░░░   45.72% 
-JavaScript               5 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   23.3% 
-Markdown                 5 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.86% 
-Other                    48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39% 
+💬 Programming Languages:
+Java                     10 hrs 51 mins      ███████████░░░░░░░░░░░░░░   45.72%
+JavaScript               5 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   23.3%
+Markdown                 5 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.86%
+Other                    48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39%
 CSS                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75%
 
-🔥 Editors: 
-VS Code                  12 hrs 9 mins       ████████████░░░░░░░░░░░░░   51.2% 
-IntelliJ IDEA            8 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.68% 
+🔥 Editors:
+VS Code                  12 hrs 9 mins       ████████████░░░░░░░░░░░░░   51.2%
+IntelliJ IDEA            8 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.68%
 Obsidian                 2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.13%
 
-🐱‍💻 Projects: 
-servidor                 11 hrs 28 mins      ████████████░░░░░░░░░░░░░   48.27% 
-hsn-react-node           5 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   24.1% 
-obsidian_programming     3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.01% 
-courses                  1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.64% 
+🐱‍💻 Projects:
+servidor                 11 hrs 28 mins      ████████████░░░░░░░░░░░░░   48.27%
+hsn-react-node           5 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   24.1%
+obsidian_programming     3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.01%
+courses                  1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.64%
 dotfiles                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
 
-💻 Operating System: 
+💻 Operating System:
 Linux                    23 hrs 45 mins      █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   5 repos             █████████░░░░░░░░░░░░░░░░   38.46% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+Python                   5 repos             █████████░░░░░░░░░░░░░░░░   38.46%
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
-
-
 
  Last Updated on 16/10/2025
 <!--END_SECTION:waka-->
