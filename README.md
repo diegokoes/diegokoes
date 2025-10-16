@@ -85,7 +85,7 @@
   <table>
     <tr><th align="left">Course</th><th align="left">Hours</th><th align="left">Description</th></tr>
     <tr><td colspan="3" align="left"><strong>Coursera</strong></td></tr>
-    <tr><td><em><strong><a href="Coursera/Meta_Backend_Certificate/course-2-programming-in-python">Meta Backend Certificate</a></strong></em></td><td>196</td><td>
+    <tr><td><em><strong><a href="https://github.com/diegokoes/Courses/tree/main/Coursera/Meta_Backend_Certificate/">Meta Backend Certificate</a></strong></em></td><td>196</td><td>
     <small>Django - SQL - RESTful API design</small>
     </td></tr>
     <tr><td colspan="3" align="left"><strong>EDX</strong></td></tr>
