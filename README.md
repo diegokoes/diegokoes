@@ -169,6 +169,16 @@
         </td>
         <td>Notes and Obsidian vault for programming and tech</td>
       </tr>
+      <tr>
+        <td>
+          <strong><a href="https://github.com/stars/diegokoes/lists/computer-installed">installed tools starred</a></strong>
+        </td>
+      </tr>
+         <tr>
+        <td>
+          <strong><a href="https://github.com/stars/diegokoes/lists/wrench-interesting">interesting repos starred</a></strong>
+        </td>
+      </tr>
     </tbody>
   </table>
 </details>
