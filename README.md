@@ -179,7 +179,7 @@
         <td>
           <strong><a href="https://github.com/stars/diegokoes/lists/wrench-interesting">Interesting</a></strong>
         </td>
-        <td>Starred projects I find useful/interesting</td>
+        <td>Starred repos I find useful/interesting</td>
       </tr>
     </tbody>
   </table>
