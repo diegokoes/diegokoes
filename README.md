@@ -174,7 +174,7 @@
         <td>
           <strong><a href="https://github.com/diegokoes/proxmox">proxmox</a></strong>
         </td>
-        <td>Proxmox  configs and docs so that I don't forget painful lessons</td>
+        <td>My Proxmox  configs and docs</td>
       </tr>
       <tr>
         <td>
