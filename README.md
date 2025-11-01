@@ -108,34 +108,53 @@
     <img src="assets/summary-stack.svg" alt="Tech stack" width="86" height="20" style="display:inline-block;vertical-align:middle">
   </picture></span></summary>
 <br>
-  <!-- Frontend -->
-  <img alt="Frontend" src="https://img.shields.io/badge/Front%20%20%20-20232a?style=for-the-badge&logo=terminal&logoColor=white">
-  <img alt="Angular" src="https://img.shields.io/badge/angular-7E22CE?style=for-the-badge&logo=angular&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <img alt="SCSS/SASS" src="https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-<br>
-
-  <!-- Backend -->
-  <img alt="Backend" src="https://img.shields.io/badge/Back%20%20%20%20-20232a?style=for-the-badge&logo=terminal&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img alt="Express" src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img alt="Spring" src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<br>
-
-  <!-- Databases -->
-  <img alt="Databases" src="https://img.shields.io/badge/DB's%20-20232a?style=for-the-badge&logo=terminal&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img alt="Supabase" src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  <img alt="Valkey" src="https://img.shields.io/badge/valkey-DC382D?style=for-the-badge&logo=valkey&logoColor=white">
-  <img alt="DBeaver" src="https://img.shields.io/badge/dbeaver-2F6BFF?style=for-the-badge&logo=dbeaver&logoColor=white">
-<br>
-  <!-- DevOps -->
-  <img alt="DevOps" src="https://img.shields.io/badge/DevOps%20%20%20-20232a?style=for-the-badge&logo=terminal&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img alt="Proxmox" src="https://img.shields.io/badge/proxmox-e57000?style=for-the-badge&logo=proxmox&logoColor=white">
-  <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <table>
+    <tr><th align="left">Category</th><th align="left">Technologies</th></tr>
+    <tr>
+      <td>Frontend</td>
+      <td>
+        <img alt="Angular" src="https://cdn.simpleicons.org/angular/DD0031" width="22" height="22" title="Angular" style="vertical-align:middle;"/> Angular
+        &nbsp;&nbsp;
+        <img alt="React" src="https://cdn.simpleicons.org/react/61DAFB" width="22" height="22" title="React" style="vertical-align:middle;"/> React
+        &nbsp;&nbsp;
+        <img alt="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="22" height="22" title="Tailwind CSS" style="vertical-align:middle;"/> Tailwind CSS
+        &nbsp;&nbsp;
+        <img alt="SCSS/SASS" src="https://cdn.simpleicons.org/sass/CC6699" width="22" height="22" title="SCSS/SASS" style="vertical-align:middle;"/> SCSS/SASS
+      </td>
+    </tr>
+    <tr>
+      <td>Backend</td>
+      <td>
+        <img alt="Node.js" src="https://cdn.simpleicons.org/nodedotjs/339933" width="22" height="22" title="Node.js" style="vertical-align:middle;"/> Node.js
+        &nbsp;&nbsp;
+        <img alt="Express" src="https://cdn.simpleicons.org/express/000000" width="22" height="22" title="Express" style="vertical-align:middle;"/> Express
+        &nbsp;&nbsp;
+        <img alt="Spring" src="https://cdn.simpleicons.org/spring/6DB33F" width="22" height="22" title="Spring" style="vertical-align:middle;"/> Spring
+      </td>
+    </tr>
+    <tr>
+      <td>Databases</td>
+      <td>
+        <img alt="MongoDB" src="https://cdn.simpleicons.org/mongodb/47A248" width="22" height="22" title="MongoDB" style="vertical-align:middle;"/> MongoDB
+        &nbsp;&nbsp;
+        <img alt="Supabase" src="https://cdn.simpleicons.org/supabase/3ECF8E" width="22" height="22" title="Supabase" style="vertical-align:middle;"/> Supabase
+        &nbsp;&nbsp;
+        <img alt="DBeaver" src="https://cdn.simpleicons.org/dbeaver/2F6BFF" width="22" height="22" title="DBeaver" style="vertical-align:middle;"/> DBeaver
+      </td>
+    </tr>
+    <tr>
+      <td>DevOps</td>
+      <td>
+        <img alt="Docker" src="https://cdn.simpleicons.org/docker/2496ED" width="22" height="22" title="Docker" style="vertical-align:middle;"/> Docker
+        &nbsp;&nbsp;
+        <img alt="Proxmox" src="https://cdn.simpleicons.org/proxmox/e57000" width="22" height="22" title="Proxmox" style="vertical-align:middle;"/> Proxmox
+        &nbsp;&nbsp;
+        <img alt="Jenkins" src="https://cdn.simpleicons.org/jenkins/D24939" width="22" height="22" title="Jenkins" style="vertical-align:middle;"/> Jenkins
+        &nbsp;&nbsp;
+        <img alt="Git" src="https://cdn.simpleicons.org/git/F05032" width="22" height="22" title="Git" style="vertical-align:middle;"/> Git
+      </td>
+    </tr>
+  </table>
 </details>
 
 <details>
@@ -197,59 +216,56 @@
   </picture></span></summary>
   <br>
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.41% 
-🌆 Daytime    137 commits    ██████████░░░░░░░░░░░░░░░   41.14% 
-🌃 Evening    129 commits    █████████░░░░░░░░░░░░░░░░   38.74% 
+🌞 Morning    48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.41%
+🌆 Daytime    137 commits    ██████████░░░░░░░░░░░░░░░   41.14%
+🌃 Evening    129 commits    █████████░░░░░░░░░░░░░░░░   38.74%
 🌙 Night      19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.71%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Europe/Madrid
 
-💬 Programming Languages: 
-Java                     14 hrs 19 mins      ██████████░░░░░░░░░░░░░░░   41.08% 
-Markdown                 11 hrs 29 mins      ████████░░░░░░░░░░░░░░░░░   32.93% 
-Other                    4 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
-JavaScript               55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.64% 
+💬 Programming Languages:
+Java                     14 hrs 19 mins      ██████████░░░░░░░░░░░░░░░   41.08%
+Markdown                 11 hrs 29 mins      ████████░░░░░░░░░░░░░░░░░   32.93%
+Other                    4 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.71%
+JavaScript               55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.64%
 Python                   44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
 
-🔥 Editors: 
-IntelliJ IDEA            14 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   41.27% 
-Obsidian                 10 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   31.15% 
-VS Code                  9 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   26.78% 
+🔥 Editors:
+IntelliJ IDEA            14 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   41.27%
+Obsidian                 10 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   31.15%
+VS Code                  9 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   26.78%
 Cursor                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
 
-🐱‍💻 Projects: 
-servidor                 15 hrs 43 mins      ███████████░░░░░░░░░░░░░░   45.09% 
-obsidian_programming     8 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   23.98% 
-dotfiles                 5 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.99% 
-Unknown Project          2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.97% 
+🐱‍💻 Projects:
+servidor                 15 hrs 43 mins      ███████████░░░░░░░░░░░░░░   45.09%
+obsidian_programming     8 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   23.98%
+dotfiles                 5 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.99%
+Unknown Project          2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.97%
 hsn-react-node           1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
 
-💻 Operating System: 
+💻 Operating System:
 Linux                    34 hrs 52 mins      █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   5 repos             █████████░░░░░░░░░░░░░░░░   38.46% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+Python                   5 repos             █████████░░░░░░░░░░░░░░░░   38.46%
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
-
-
 
  Last Updated on 01/11/2025
 <!--END_SECTION:waka-->
