@@ -20,7 +20,6 @@
         <td>
           <em><strong><a href="https://github.com/diegokoes/template">Template</a></strong></em>
         </td>
-        <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
         <td>
           <img alt="React" src="https://cdn.simpleicons.org/react/61DAFB" width="22" height="22" title="React" style="margin-right:6px;vertical-align:middle;"/>
           <img alt="Angular" src="https://cdn.simpleicons.org/angular/DD0031" width="22" height="22" title="Angular" style="margin-right:6px;vertical-align:middle;"/>
@@ -37,7 +36,6 @@
         <td>
           <em><strong><a href="https://github.com/diegokoes/template">Template</a></strong></em>
         </td>
-        <td>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</td>
         <td>
           <img alt="React" src="https://cdn.simpleicons.org/react/61DAFB" width="22" height="22" title="React" style="margin-right:6px;vertical-align:middle;"/>
           <img alt="Angular" src="https://cdn.simpleicons.org/angular/DD0031" width="22" height="22" title="Angular" style="margin-right:6px;vertical-align:middle;"/>
@@ -54,7 +52,6 @@
         <td>
           <em><strong><a href="https://github.com/diegokoes/template">Template</a></strong></em>
         </td>
-        <td>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</td>
         <td>
           <img alt="React" src="https://cdn.simpleicons.org/react/61DAFB" width="22" height="22" title="React" style="margin-right:6px;vertical-align:middle;"/>
           <img alt="Angular" src="https://cdn.simpleicons.org/angular/DD0031" width="22" height="22" title="Angular" style="margin-right:6px;vertical-align:middle;"/>
