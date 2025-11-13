@@ -18,44 +18,10 @@
     <tbody>
       <tr>
         <td>
-          <em><strong><a href="https://github.com/diegokoes/template">Template</a></strong></em>
+          <em><strong><a href="https://github.com/diegokoes/hsn-angular-node">HSN-Store</a></strong></em>
         </td>
         <td>
-          <img alt="React" src="https://cdn.simpleicons.org/react/61DAFB" width="22" height="22" title="React" style="margin-right:6px;vertical-align:middle;"/>
           <img alt="Angular" src="https://cdn.simpleicons.org/angular/DD0031" width="22" height="22" title="Angular" style="margin-right:6px;vertical-align:middle;"/>
-          <img alt="Node.js" src="https://cdn.simpleicons.org/nodedotjs/339933" width="22" height="22" title="Node.js" style="margin-right:6px;vertical-align:middle;"/>
-          <picture style="display:inline-block;margin:0">
-            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff">
-            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000">
-            <img alt="Express" src="https://cdn.simpleicons.org/express/000000" width="22" height="22" title="Express" style="margin-right:6px;vertical-align:middle;"/>
-          </picture>
-          <img alt="MongoDB" src="https://cdn.simpleicons.org/mongodb/47A248" width="22" height="22" title="MongoDB" style="vertical-align:middle;"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <em><strong><a href="https://github.com/diegokoes/template">Template</a></strong></em>
-        </td>
-        <td>
-          <img alt="React" src="https://cdn.simpleicons.org/react/61DAFB" width="22" height="22" title="React" style="margin-right:6px;vertical-align:middle;"/>
-          <img alt="Angular" src="https://cdn.simpleicons.org/angular/DD0031" width="22" height="22" title="Angular" style="margin-right:6px;vertical-align:middle;"/>
-          <img alt="Node.js" src="https://cdn.simpleicons.org/nodedotjs/339933" width="22" height="22" title="Node.js" style="margin-right:6px;vertical-align:middle;"/>
-          <picture style="display:inline-block;margin:0">
-            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff">
-            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000">
-            <img alt="Express" src="https://cdn.simpleicons.org/express/000000" width="22" height="22" title="Express" style="margin-right:6px;vertical-align:middle;"/>
-          </picture>
-          <img alt="MongoDB" src="https://cdn.simpleicons.org/mongodb/47A248" width="22" height="22" title="MongoDB" style="vertical-align:middle;"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <em><strong><a href="https://github.com/diegokoes/template">Template</a></strong></em>
-        </td>
-        <td>
-          <img alt="React" src="https://cdn.simpleicons.org/react/61DAFB" width="22" height="22" title="React" style="margin-right:6px;vertical-align:middle;"/>
-          <img alt="Angular" src="https://cdn.simpleicons.org/angular/DD0031" width="22" height="22" title="Angular" style="margin-right:6px;vertical-align:middle;"/>
-          <img alt="Node.js" src="https://cdn.simpleicons.org/nodedotjs/339933" width="22" height="22" title="Node.js" style="margin-right:6px;vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff">
             <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000">
