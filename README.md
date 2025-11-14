@@ -161,9 +161,9 @@
       </tr>
       <tr>
         <td>
-          <strong><a href="https://github.com/diegokoes/obsidian_programming">obsidian_programming</a></strong>
+          <strong><a href="https://github.com/diegokoes/NOTES_programming">obsidian_programming</a></strong>
         </td>
-        <td>Notes and Obsidian vault for programming and tech</td>
+        <td>My notes in Obsidian about programming/tech</td>
       </tr>
       <tr>
         <td>
