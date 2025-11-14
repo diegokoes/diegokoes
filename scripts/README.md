@@ -13,4 +13,4 @@ Workflow summary:
 5. A column alignment pass normalizes spacing in the time-of-day distribution table so labels, commit counts, bars, and percentages line up after translation.
 6. The translated block replaces (or appends) the Spanish markers in `README_es.md` only if any change is detected—avoiding empty commits.
 
-Feel free to reuse or modify the script for other languages for your repo
+This has been my way of doing it, feel free to grab it and use it in your repo if you like it.
