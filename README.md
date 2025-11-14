@@ -320,4 +320,4 @@ JavaScript               1 repo              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
-<small>If you need to contact me, message me on <strong>Discord</strong> (`@__koes`) or via <strong>Email</strong> at <code>diegomanrique.dev@pm.me</code></small>
+<small>If you need to contact me, message me on <strong>Discord</strong> (@__koes) or via <strong>Email</strong> at <code>diegomanrique.dev@pm.me</code></small>
