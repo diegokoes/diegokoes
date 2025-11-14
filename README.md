@@ -167,13 +167,13 @@
       </tr>
       <tr>
         <td>
-          <strong><a href="https://github.com/stars/diegokoes/lists/computer-installed">Tools</a></strong>
+          <strong><a href="https://github.com/stars/diegokoes/lists/computer-installed">tools</a></strong>
         </td>
         <td>Starred software & utilities repos that I use</td>
       </tr>
       <tr>
         <td>
-          <strong><a href="https://github.com/stars/diegokoes/lists/wrench-interesting">Interesting</a></strong>
+          <strong><a href="https://github.com/stars/diegokoes/lists/wrench-interesting">interesting</a></strong>
         </td>
         <td>Starred repos I find useful/interesting</td>
       </tr>
