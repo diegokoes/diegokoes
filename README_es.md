@@ -9,7 +9,7 @@
   </picture><picture style="display:inline-block;margin:0">
     <source media="(prefers-color-scheme: dark)" srcset="assets/summary-projects-es-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/summary-projects-es.svg">
-    <img src="assets/summary-projects-es.svg" alt="Proyectos que he hecho" width="200" height="20" style="display:inline-block;vertical-align:middle">
+    <img src="assets/summary-projects-es.svg" alt="Proyectos principales que he hecho" width="200" height="20" style="display:inline-block;vertical-align:middle">
   </picture></span></summary>
 
   <br>
