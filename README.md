@@ -157,7 +157,7 @@
         <td>
           <strong><a href="https://github.com/diegokoes/dotfiles">dotfiles</a></strong>
         </td>
-        <td>My dotfiles and environment setup for CachyOS</td>
+        <td>My dotfiles and environment setup</td>
       </tr>
       <tr>
         <td>
