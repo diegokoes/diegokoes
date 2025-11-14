@@ -226,23 +226,23 @@
         <td>
           <strong><a href="https://github.com/diegokoes/dotfiles">dotfiles</a></strong>
         </td>
-        <td>My dotfiles and environment setup for CachyOS</td>
+        <td>My dotfiles and environment setup</td>
       </tr>
       <tr>
         <td>
-          <strong><a href="https://github.com/diegokoes/obsidian_programming">obsidian_programming</a></strong>
+          <strong><a href="https://github.com/diegokoes/NOTES_programming">obsidian_programming</a></strong>
         </td>
-        <td>Notes and Obsidian vault for programming and tech</td>
+        <td>My notes in Obsidian about programming/tech</td>
       </tr>
       <tr>
         <td>
-          <strong><a href="https://github.com/stars/diegokoes/lists/computer-installed">Tools</a></strong>
+          <strong><a href="https://github.com/stars/diegokoes/lists/computer-installed">tools</a></strong>
         </td>
         <td>Starred software & utilities repos that I use</td>
       </tr>
       <tr>
         <td>
-          <strong><a href="https://github.com/stars/diegokoes/lists/wrench-interesting">Interesting</a></strong>
+          <strong><a href="https://github.com/stars/diegokoes/lists/wrench-interesting">interesting</a></strong>
         </td>
         <td>Starred repos I find useful/interesting</td>
       </tr>
@@ -265,10 +265,17 @@
 **I'm an Early 🐤**
 
 ```text
+<<<<<<< HEAD
 🌞 Morning    43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.74%
 🌆 Daytime    126 commits    ██████████░░░░░░░░░░░░░░░   40.26%
 🌃 Evening    127 commits    ██████████░░░░░░░░░░░░░░░   40.58%
 🌙 Night      17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.43%
+=======
+🌞 Morning    42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.38% 
+🌆 Daytime    125 commits    ██████████░░░░░░░░░░░░░░░   39.81% 
+🌃 Evening    128 commits    ██████████░░░░░░░░░░░░░░░   40.76% 
+🌙 Night      19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.05%
+>>>>>>> 7f847be52093c82063e46caf3cc6f8e91e93416f
 
 ```
 
@@ -277,6 +284,7 @@
 ```text
 ⌚︎ Time Zone: Europe/Madrid
 
+<<<<<<< HEAD
 💬 Programming Languages:
 JavaScript               29 hrs 25 mins      █████████████████░░░░░░░░   68.14%
 Markdown                 6 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.94%
@@ -298,12 +306,36 @@ dotfiles                 1 hr 20 mins        ░░░░░░░░░░░�
 
 💻 Operating System:
 Linux                    43 hrs 10 mins      █████████████████████████   100.0%
+=======
+💬 Programming Languages: 
+JavaScript               24 hrs 59 mins      ███████████████░░░░░░░░░░   60.02% 
+Markdown                 7 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.15% 
+Other                    2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.48% 
+Java                     1 hr 26 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.46% 
+TypeScript               58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33%
+
+🔥 Editors: 
+VS Code                  32 hrs 45 mins      ███████████████████░░░░░░   78.64% 
+Obsidian                 6 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
+IntelliJ IDEA            2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.29%
+
+🐱‍💻 Projects: 
+hsn-react-node           20 hrs 30 mins      ████████████░░░░░░░░░░░░░   49.24% 
+obsidian_programming     6 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
+dotfiles                 3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.13% 
+tiendaHSN-A__react       2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.93% 
+tiendaHSN-A__nodejs      1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.34%
+
+💻 Operating System: 
+Linux                    41 hrs 38 mins      █████████████████████████   100.0%
+>>>>>>> 7f847be52093c82063e46caf3cc6f8e91e93416f
 
 ```
 
 **I Mostly Code in Python**
 
 ```text
+<<<<<<< HEAD
 Python                   4 repos             ███████████░░░░░░░░░░░░░░   44.44%
 SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
@@ -313,6 +345,19 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ```
 
  Last Updated on 13/11/2025
+=======
+Python                   4 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+
+```
+
+
+
+ Last Updated on 14/11/2025
+>>>>>>> 7f847be52093c82063e46caf3cc6f8e91e93416f
 <!--END_SECTION:waka-->
 </details>
 
