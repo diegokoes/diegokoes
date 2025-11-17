@@ -232,19 +232,19 @@
         <td>
           <strong><a href="https://github.com/diegokoes/proxmox">proxmox</a></strong>
         </td>
-        <td>My Proxmox  configs and docs</td>
+        <td>Proxmox  configs and docs</td>
       </tr>
       <tr>
         <td>
           <strong><a href="https://github.com/diegokoes/dotfiles">dotfiles</a></strong>
         </td>
-        <td>My dotfiles and environment setup</td>
+        <td>dotfiles and environment setup</td>
       </tr>
       <tr>
         <td>
           <strong><a href="https://github.com/diegokoes/NOTES_programming">obsidian_programming</a></strong>
         </td>
-        <td>My notes in Obsidian about programming/tech</td>
+        <td>Obsidian notes I make to organize my study of programming/tech</td>
       </tr>
       <tr>
         <td>
