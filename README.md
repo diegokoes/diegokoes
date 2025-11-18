@@ -121,6 +121,14 @@
           </picture>
         </span>
         <span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="Node.js" src="https://cdn.simpleicons.org/nodedotjs/339933" width="22" height="22" title="Node.js" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-nodejs-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-nodejs.svg">
+            <img alt="Node.js" src="assets/tech-nodejs.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span>
+        <span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="Spring" src="https://cdn.simpleicons.org/spring/6DB33F" width="22" height="22" title="Spring" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-spring-white.svg">
@@ -141,12 +149,20 @@
             <img alt="MongoDB" src="assets/tech-mongodb.svg" height="20" style="vertical-align:middle"/>
           </picture>
         </span>
-        <span style="display:inline-flex;align-items:center;gap:4px;">
+        <!-- <span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="PostgreSQL" src="https://cdn.simpleicons.org/postgresql/4169E1" width="22" height="22" title="PostgreSQL" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-postgresql-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-postgresql.svg">
             <img alt="PostgreSQL" src="assets/tech-postgresql.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span> -->
+        <span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="Oracle" src="https://cdn.simpleicons.org/oracle/F80000" width="22" height="22" title="Oracle" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-oracle-sql-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-oracle-sql.svg">
+            <img alt="Oracle SQL" src="assets/tech-oracle-sql.svg" height="20" style="vertical-align:middle"/>
           </picture>
         </span>
         <span style="display:inline-flex;align-items:center;gap:4px;">
@@ -259,58 +275,55 @@
   <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.87% 
-🌆 Daytime    132 commits    █████████░░░░░░░░░░░░░░░░   38.6% 
-🌃 Evening    142 commits    ██████████░░░░░░░░░░░░░░░   41.52% 
+🌞 Morning    44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.87%
+🌆 Daytime    132 commits    █████████░░░░░░░░░░░░░░░░   38.6%
+🌃 Evening    142 commits    ██████████░░░░░░░░░░░░░░░   41.52%
 🌙 Night      24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.02%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Europe/Madrid
 
-💬 Programming Languages: 
-Java                     12 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   36.61% 
-Markdown                 9 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   29.1% 
-JavaScript               2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
-Other                    2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.94% 
+💬 Programming Languages:
+Java                     12 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   36.61%
+Markdown                 9 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   29.1%
+JavaScript               2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.58%
+Other                    2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.94%
 TypeScript               1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.68%
 
-🔥 Editors: 
-VS Code                  13 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   40.31% 
-IntelliJ IDEA            12 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   37.86% 
+🔥 Editors:
+VS Code                  13 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   40.31%
+IntelliJ IDEA            12 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   37.86%
 Obsidian                 7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.83%
 
-🐱‍💻 Projects: 
-Spring-Purchases-APIRest 9 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   29.12% 
-obsidian_programming     7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.83% 
-dotfiles                 2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
-ApiRestCompras           1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.46% 
+🐱‍💻 Projects:
+Spring-Purchases-APIRest 9 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   29.12%
+obsidian_programming     7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.83%
+dotfiles                 2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.82%
+ApiRestCompras           1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.46%
 hsn-angular-node         1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.31%
 
-💻 Operating System: 
+💻 Operating System:
 Linux                    34 hrs 19 mins      █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   4 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Python                   4 repos             ██████████░░░░░░░░░░░░░░░   40.0%
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
 JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
 
 ```
-
-
 
  Last Updated on 18/11/2025
 <!--END_SECTION:waka-->
