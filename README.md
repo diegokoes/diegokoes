@@ -174,7 +174,7 @@
           </picture>
         </span> -->
         <span style="display:inline-flex;align-items:center;gap:4px;">
-          <img alt="Oracle" src="https://cdn.simpleicons.org/oracle/F80000" width="22" height="22" title="Oracle" style="vertical-align:middle;"/>
+          <img alt="Oracle" src="assets/oraclesql.png" width="22" height="22" title="Oracle" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-oracle-sql-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-oracle-sql.svg">
