@@ -103,6 +103,14 @@
             <img alt="React" src="assets/tech-react.svg" height="20" style="vertical-align:middle"/>
           </picture>
         </span>
+                <span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="22" height="22" title="Tailwind CSS" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-tailwind-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-tailwind.svg">
+            <img alt="Tailwind CSS" src="assets/tech-tailwind.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span>
       </td>
     </tr>
     <tr>
@@ -134,6 +142,14 @@
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-spring-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-spring.svg">
             <img alt="Spring" src="assets/tech-spring.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span>
+        <span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="Django" src="https://cdn.simpleicons.org/django/092E20" width="22" height="22" title="Django" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-django-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-django.svg">
+            <img alt="Django" src="assets/tech-django.svg" height="20" style="vertical-align:middle"/>
           </picture>
         </span>
       </td>
