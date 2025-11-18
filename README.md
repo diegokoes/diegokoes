@@ -60,16 +60,16 @@
 
   <br>
   <table>
-    <tr><th align="left">Course</th><th align="left">Hours</th><th align="left">Description</th></tr>
-    <tr><td colspan="3" align="left"><strong>Coursera</strong></td></tr>
+    <tr><th align="left">Course</th><th align="left">Hours</th><th align="left">Description</th><th align="left">Status</th></tr>
+    <tr><td colspan="4" align="left"><strong>Coursera</strong></td></tr>
     <tr><td><em><strong><a href="https://github.com/diegokoes/Courses/tree/main/Coursera/Meta_Backend_Certificate/">Meta Backend Certificate</a></strong></em></td><td>196</td><td>
     <small>Django - SQL - RESTful API design</small>
-    </td></tr>
-    <tr><td colspan="3" align="left"><strong>Udemy</strong></td></tr>
-    <tr><td><em><strong><a href="https://github.com/diegokoes/Courses/tree/main/Udemy/Angular_Complete_Guide">Angular — The Complete Guide</a></strong></em></td><td>56</td><td>Pipes, Dependency Injection, Observables, Forms, Databinding, Authentication, Protection, Signals, State Management...</td></tr>
-    <tr><td colspan="3" align="left"><strong>EDX</strong></td></tr>
-    <tr><td><em><strong><a href="EDX/CS50Python">CS50 Python</a></strong></em></td><td>XX</td><td><img alt="Python" src="https://cdn.simpleicons.org/python/3776AB" width="22" height="22" title="Python" style="vertical-align:middle;"/></td></tr>
-    <tr><td colspan="3" align="left"><strong><a href="https://github.com/diegokoes/Courses/tree/main/OpenWebinars">OpenWebinars</a></strong></td></tr>
+    </td><td>In Progress</td></tr>
+    <tr><td colspan="4" align="left"><strong>Udemy</strong></td></tr>
+    <tr><td><em><strong><a href="https://github.com/diegokoes/Courses/tree/main/Udemy/Angular_Complete_Guide">Angular — The Complete Guide</a></strong></em></td><td>56</td><td>Pipes, Dependency Injection, Observables, Forms, Databinding, Authentication, Protection, Signals, State Management...</td><td>In Progress</td></tr>
+    <tr><td colspan="4" align="left"><strong>EDX</strong></td></tr>
+    <tr><td><em><strong><a href="https://www.edx.org/learn/computer-science/the-linux-foundation-introduction-to-jenkins">Introduction to Jenkins</a></strong></em></td><td>30</td><td>CI/CD workflows using Jenkins automation server</td><td>Complete</td></tr>
+    <tr><td colspan="4" align="left"><strong><a href="https://github.com/diegokoes/Courses/tree/main/OpenWebinars">OpenWebinars</a></strong></td></tr>
   </table>
 </details>
 <details>
@@ -291,58 +291,55 @@
   <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
-🌆 Daytime    136 commits    ██████████░░░░░░░░░░░░░░░   39.65% 
-🌃 Evening    141 commits    ██████████░░░░░░░░░░░░░░░   41.11% 
+🌞 Morning    42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24%
+🌆 Daytime    136 commits    ██████████░░░░░░░░░░░░░░░   39.65%
+🌃 Evening    141 commits    ██████████░░░░░░░░░░░░░░░   41.11%
 🌙 Night      24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.0%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Europe/Madrid
 
-💬 Programming Languages: 
-Java                     12 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   36.61% 
-Markdown                 9 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   29.1% 
-JavaScript               2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
-Other                    2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.94% 
+💬 Programming Languages:
+Java                     12 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   36.61%
+Markdown                 9 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   29.1%
+JavaScript               2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.58%
+Other                    2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.94%
 TypeScript               1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.68%
 
-🔥 Editors: 
-VS Code                  13 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   40.31% 
-IntelliJ IDEA            12 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   37.86% 
+🔥 Editors:
+VS Code                  13 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   40.31%
+IntelliJ IDEA            12 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   37.86%
 Obsidian                 7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.83%
 
-🐱‍💻 Projects: 
-Spring-Purchases-APIRest 9 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   29.12% 
-obsidian_programming     7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.83% 
-dotfiles                 2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
-ApiRestCompras           1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.46% 
+🐱‍💻 Projects:
+Spring-Purchases-APIRest 9 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   29.12%
+obsidian_programming     7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.83%
+dotfiles                 2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.82%
+ApiRestCompras           1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.46%
 hsn-angular-node         1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.31%
 
-💻 Operating System: 
+💻 Operating System:
 Linux                    34 hrs 19 mins      █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   4 repos             █████████░░░░░░░░░░░░░░░░   36.36% 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Python                   4 repos             █████████░░░░░░░░░░░░░░░░   36.36%
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
-
-
 
  Last Updated on 18/11/2025
 <!--END_SECTION:waka-->

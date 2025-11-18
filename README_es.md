@@ -60,16 +60,17 @@
 
   <br>
   <table>
-    <tr><th align="left">Curso</th><th align="left">Horas</th><th align="left">Descripción</th></tr>
-    <tr><td colspan="3" align="left"><strong>Coursera</strong></td></tr>
+    <tr><th align="left">Curso</th><th align="left">Horas</th><th align="left">Descripción</th><th align="left">Estado</th></tr>
+    <tr><td colspan="4" align="left"><strong>Coursera</strong></td></tr>
     <tr><td><em><strong><a href="https://github.com/diegokoes/Courses/tree/main/Coursera/Meta_Backend_Certificate/">Meta Backend Certificate</a></strong></em></td><td>196</td><td>
     <small>Django - SQL - Diseño de APIs RESTful</small>
-    </td></tr>
-    <tr><td colspan="3" align="left"><strong>Udemy</strong></td></tr>
-    <tr><td><em><strong><a href="https://github.com/diegokoes/Courses/tree/main/Udemy/Angular_Complete_Guide">Angular — The Complete Guide</a></strong></em></td><td>56</td><td>Pipes, Inyección de Dependencias, Observables, Formularios, Databinding, Autenticación, Protección, Signals, Gestión de estado...</td></tr>
-    <tr><td colspan="3" align="left"><strong>EDX</strong></td></tr>
-    <tr><td><em><strong><a href="EDX/CS50Python">CS50 Python</a></strong></em></td><td>XX</td><td><img alt="Python" src="https://cdn.simpleicons.org/python/3776AB" width="22" height="22" title="Python" style="vertical-align:middle;"/></td></tr>
-    <tr><td colspan="3" align="left"><strong><a href="https://github.com/diegokoes/Courses/tree/main/OpenWebinars">OpenWebinars</a></strong></td></tr>
+    </td><td>En Progreso</td></tr>
+    <tr><td colspan="4" align="left"><strong>Udemy</strong></td></tr>
+    <tr><td><em><strong><a href="https://github.com/diegokoes/Courses/tree/main/Udemy/Angular_Complete_Guide">Angular — The Complete Guide</a></strong></em></td><td>56</td><td>Pipes, Inyección de Dependencias, Observables, Formularios, Databinding, Autenticación, Protección, Signals, Gestión de estado...</td><td>En Progreso</td></tr>
+    <tr><td colspan="4" align="left"><strong>EDX</strong></td></tr>
+    <tr><td><em><strong><a href="https://www.edx.org/learn/computer-science/the-linux-foundation-introduction-to-jenkins">Introducción a Jenkins</a></strong></em></td><td>30</td><td>Flujos de trabajo CI/CD usando servidor de automatización Jenkins</td><td>Completado</td></tr>
+    <tr><td><em><strong><a href="EDX/CS50Python">CS50 Python</a></strong></em></td><td>XX</td><td><img alt="Python" src="https://cdn.simpleicons.org/python/3776AB" width="22" height="22" title="Python" style="vertical-align:middle;"/></td><td>En Progreso</td></tr>
+    <tr><td colspan="4" align="left"><strong><a href="https://github.com/diegokoes/Courses/tree/main/OpenWebinars">OpenWebinars</a></strong></td></tr>
   </table>
 </details>
 
@@ -87,113 +88,146 @@
   <table>
     <tr>
       <td><strong>Frontend</strong></td>
-      <td>
-        <img alt="Angular" src="https://cdn.simpleicons.org/angular/DD0031" width="22" height="22" title="Angular" style="vertical-align:middle;"/>
-        <picture style="display:inline-block;margin:0">
-          <source media="(prefers-color-scheme: dark)" srcset="assets/tech-angular-white.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/tech-angular.svg">
-          <img alt="Angular" src="assets/tech-angular.svg" height="20" style="vertical-align:middle"/>
-        </picture>
-        &nbsp;&nbsp;
-        <img alt="React" src="https://cdn.simpleicons.org/react/61DAFB" width="22" height="22" title="React" style="vertical-align:middle;"/>
-        <picture style="display:inline-block;margin:0">
-          <source media="(prefers-color-scheme: dark)" srcset="assets/tech-react-white.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/tech-react.svg">
-          <img alt="React" src="assets/tech-react.svg" height="20" style="vertical-align:middle"/>
-        </picture>
-        &nbsp;&nbsp;
-        <img alt="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="22" height="22" title="Tailwind CSS" style="vertical-align:middle;"/>
-        <picture style="display:inline-block;margin:0">
-          <source media="(prefers-color-scheme: dark)" srcset="assets/tech-tailwindcss-white.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/tech-tailwindcss.svg">
-          <img alt="Tailwind CSS" src="assets/tech-tailwindcss.svg" height="20" style="vertical-align:middle"/>
-        </picture>
+      <td style="display:flex;gap:16px;align-items:center;flex-wrap:wrap;">
+        <span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="Angular" src="https://cdn.simpleicons.org/angular/DD0031" width="22" height="22" title="Angular" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-angular-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-angular.svg">
+            <img alt="Angular" src="assets/tech-angular.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span>
+        <span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="React" src="https://cdn.simpleicons.org/react/61DAFB" width="22" height="22" title="React" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-react-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-react.svg">
+            <img alt="React" src="assets/tech-react.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span>
+                <span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="22" height="22" title="Tailwind CSS" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-tailwindcss-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-tailwindcss.svg">
+            <img alt="Tailwind CSS" src="assets/tech-tailwindcss.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span>
       </td>
     </tr>
     <tr>
       <td><strong>Backend</strong></td>
-      <td>
-        <img alt="Node.js" src="https://cdn.simpleicons.org/nodedotjs/339933" width="22" height="22" title="Node.js" style="vertical-align:middle;"/>
-        <picture style="display:inline-block;margin:0">
-          <source media="(prefers-color-scheme: dark)" srcset="assets/tech-nodejs-white.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/tech-nodejs.svg">
-          <img alt="Node.js" src="assets/tech-nodejs.svg" height="20" style="vertical-align:middle"/>
-        </picture>
-        &nbsp;&nbsp;
-           <picture style="display:inline-block;margin:0">
+      <td style="display:flex;gap:12px;align-items:center;flex-wrap:wrap;">
+        <span style="display:inline-flex;align-items:center;gap:4px;">
+          <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff">
             <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000">
-            <img alt="Express" src="https://cdn.simpleicons.org/express/000000" width="22" height="22" title="Express" style="margin-right:6px;vertical-align:middle;"/>
+            <img alt="Express" src="https://cdn.simpleicons.org/express/000000" width="22" height="22" title="Express" style="vertical-align:middle;"/>
           </picture>
-        <picture style="display:inline-block;margin:0">
-          <source media="(prefers-color-scheme: dark)" srcset="assets/tech-express-white.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/tech-express.svg">
-          <img alt="Express" src="assets/tech-express.svg" height="20" style="vertical-align:middle"/>
-        </picture>
-        &nbsp;&nbsp;
-        <img alt="Spring" src="https://cdn.simpleicons.org/spring/6DB33F" width="22" height="22" title="Spring" style="vertical-align:middle;"/>
-        <picture style="display:inline-block;margin:0">
-          <source media="(prefers-color-scheme: dark)" srcset="assets/tech-spring-white.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/tech-spring.svg">
-          <img alt="Spring" src="assets/tech-spring.svg" height="20" style="vertical-align:middle"/>
-        </picture>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-express-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-express.svg">
+            <img alt="Express" src="assets/tech-express.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span>
+        <span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="Node.js" src="https://cdn.simpleicons.org/nodedotjs/339933" width="22" height="22" title="Node.js" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-nodejs-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-nodejs.svg">
+            <img alt="Node.js" src="assets/tech-nodejs.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span>
+        <span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="Spring" src="https://cdn.simpleicons.org/spring/6DB33F" width="22" height="22" title="Spring" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-spring-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-spring.svg">
+            <img alt="Spring" src="assets/tech-spring.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span>
+        <span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="Django" src="https://cdn.simpleicons.org/django/092E20" width="22" height="22" title="Django" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-django-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-django.svg">
+            <img alt="Django" src="assets/tech-django.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span>
       </td>
     </tr>
     <tr>
       <td><strong>Bases de datos</strong></td>
-      <td>
-        <img alt="MongoDB" src="https://cdn.simpleicons.org/mongodb/47A248" width="22" height="22" title="MongoDB" style="vertical-align:middle;"/>
-        <picture style="display:inline-block;margin:0">
-          <source media="(prefers-color-scheme: dark)" srcset="assets/tech-mongodb-white.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/tech-mongodb.svg">
-          <img alt="MongoDB" src="assets/tech-mongodb.svg" height="20" style="vertical-align:middle"/>
-        </picture>
-        &nbsp;&nbsp;
-        <img alt="Supabase" src="https://cdn.simpleicons.org/supabase/3ECF8E" width="22" height="22" title="Supabase" style="vertical-align:middle;"/>
-        <picture style="display:inline-block;margin:0">
-          <source media="(prefers-color-scheme: dark)" srcset="assets/tech-supabase-white.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/tech-supabase.svg">
-          <img alt="Supabase" src="assets/tech-supabase.svg" height="20" style="vertical-align:middle"/>
-        </picture>
-        &nbsp;&nbsp;
-        <img alt="DBeaver" src="https://cdn.simpleicons.org/dbeaver/2F6BFF" width="22" height="22" title="DBeaver" style="vertical-align:middle;"/>
-        <picture style="display:inline-block;margin:0">
-          <source media="(prefers-color-scheme: dark)" srcset="assets/tech-dbeaver-white.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/tech-dbeaver.svg">
-          <img alt="DBeaver" src="assets/tech-dbeaver.svg" height="20" style="vertical-align:middle"/>
-        </picture>
+      <td style="display:flex;gap:12px;align-items:center;flex-wrap:wrap;">
+        <span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="MongoDB" src="https://cdn.simpleicons.org/mongodb/47A248" width="22" height="22" title="MongoDB" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-mongodb-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-mongodb.svg">
+            <img alt="MongoDB" src="assets/tech-mongodb.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span>
+        <!-- <span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="PostgreSQL" src="https://cdn.simpleicons.org/postgresql/4169E1" width="22" height="22" title="PostgreSQL" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-postgresql-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-postgresql.svg">
+            <img alt="PostgreSQL" src="assets/tech-postgresql.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span> -->
+        <span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="Oracle" src="assets/oraclesql.png" width="22" height="22" title="Oracle" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-oracle-sql-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-oracle-sql.svg">
+            <img alt="Oracle SQL" src="assets/tech-oracle-sql.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span>
+        <span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="DBeaver" src="https://cdn.simpleicons.org/dbeaver/2F6BFF" width="22" height="22" title="DBeaver" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-dbeaver-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-dbeaver.svg">
+            <img alt="DBeaver" src="assets/tech-dbeaver.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span>
       </td>
     </tr>
     <tr>
       <td><strong>DevOps</strong></td>
-      <td>
-        <img alt="Docker" src="https://cdn.simpleicons.org/docker/2496ED" width="22" height="22" title="Docker" style="vertical-align:middle;"/>
-        <picture style="display:inline-block;margin:0">
-          <source media="(prefers-color-scheme: dark)" srcset="assets/tech-docker-white.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/tech-docker.svg">
-          <img alt="Docker" src="assets/tech-docker.svg" height="20" style="vertical-align:middle"/>
-        </picture>
-        &nbsp;&nbsp;
-        <img alt="Proxmox" src="https://cdn.simpleicons.org/proxmox/e57000" width="22" height="22" title="Proxmox" style="vertical-align:middle;"/>
-        <picture style="display:inline-block;margin:0">
-          <source media="(prefers-color-scheme: dark)" srcset="assets/tech-proxmox-white.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/tech-proxmox.svg">
-          <img alt="Proxmox" src="assets/tech-proxmox.svg" height="20" style="vertical-align:middle"/>
-        </picture>
-        &nbsp;&nbsp;
-        <img alt="Jenkins" src="https://cdn.simpleicons.org/jenkins/D24939" width="22" height="22" title="Jenkins" style="vertical-align:middle;"/>
-        <picture style="display:inline-block;margin:0">
-          <source media="(prefers-color-scheme: dark)" srcset="assets/tech-jenkins-white.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/tech-jenkins.svg">
-          <img alt="Jenkins" src="assets/tech-jenkins.svg" height="20" style="vertical-align:middle"/>
-        </picture>
-        &nbsp;&nbsp;
-        <img alt="Git" src="https://cdn.simpleicons.org/git/F05032" width="22" height="22" title="Git" style="vertical-align:middle;"/>
-        <picture style="display:inline-block;margin:0">
-          <source media="(prefers-color-scheme: dark)" srcset="assets/tech-git-white.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/tech-git.svg">
-          <img alt="Git" src="assets/tech-git.svg" height="20" style="vertical-align:middle"/>
-        </picture>
+      <td style="display:flex;gap:12px;align-items:center;flex-wrap:wrap;">
+        <span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="Docker" src="https://cdn.simpleicons.org/docker/2496ED" width="22" height="22" title="Docker" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-docker-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-docker.svg">
+            <img alt="Docker" src="assets/tech-docker.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span>
+        <span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="Proxmox" src="https://cdn.simpleicons.org/proxmox/e57000" width="22" height="22" title="Proxmox" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-proxmox-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-proxmox.svg">
+            <img alt="Proxmox" src="assets/tech-proxmox.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span>
+        <span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="Jenkins" src="https://cdn.simpleicons.org/jenkins/D24939" width="22" height="22" title="Jenkins" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-jenkins-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-jenkins.svg">
+            <img alt="Jenkins" src="assets/tech-jenkins.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span>
+        <span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="Git" src="https://cdn.simpleicons.org/git/F05032" width="22" height="22" title="Git" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-git-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-git.svg">
+            <img alt="Git" src="assets/tech-git.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span>
       </td>
     </tr>
   </table>
@@ -257,7 +291,7 @@
   </picture></span></summary>
   <br>
 <!--START_SECTION:waka_es-->
-**Soy diurno 🐤** 
+**Soy diurno 🐤**
 
 ```text
 🌞 Mañana   42 commits  ███░░░░░░░░░░░░░░░░░░░░░░  12.24%
@@ -266,48 +300,45 @@
 🌙 Noche    24 commits  █░░░░░░░░░░░░░░░░░░░░░░░░  7.0%
 ```
 
-
-📊 **Mi actividad semanal** 
+📊 **Mi actividad semanal**
 
 ```text
 ⌚︎ Zona Horaria: Europa/Madrid
 
-💬 Lenguajes: 
-Java                     12 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   36.61% 
-Markdown                 9 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   29.1% 
-JavaScript               2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
-Other                    2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.94% 
+💬 Lenguajes:
+Java                     12 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   36.61%
+Markdown                 9 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   29.1%
+JavaScript               2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.58%
+Other                    2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.94%
 TypeScript               1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.68%
 
-🔥 Editores: 
-VS Code                  13 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   40.31% 
-IntelliJ IDEA            12 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   37.86% 
+🔥 Editores:
+VS Code                  13 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   40.31%
+IntelliJ IDEA            12 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   37.86%
 Obsidian                 7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.83%
 
-🐱‍💻 Proyectos: 
-Spring-Purchases-APIRest 9 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   29.12% 
-obsidian_programming     7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.83% 
-dotfiles                 2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
-ApiRestCompras           1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.46% 
+🐱‍💻 Proyectos:
+Spring-Purchases-APIRest 9 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   29.12%
+obsidian_programming     7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.83%
+dotfiles                 2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.82%
+ApiRestCompras           1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.46%
 hsn-angular-node         1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.31%
 
-💻 Sistemas Operativos: 
+💻 Sistemas Operativos:
 Linux                    34 hrs 19 mins      █████████████████████████   100.0%
 
 ```
 
-**Programo principalmente en Python** 
+**Programo principalmente en Python**
 
 ```text
-Python                   4 repos             █████████░░░░░░░░░░░░░░░░   36.36% 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Python                   4 repos             █████████░░░░░░░░░░░░░░░░   36.36%
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
-
-
 
  Última actualización el 18/11/2025
 <!--END_SECTION:waka_es-->
