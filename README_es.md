@@ -68,8 +68,7 @@
     <tr><td colspan="4" align="left"><strong>Udemy</strong></td></tr>
     <tr><td><em><strong><a href="https://github.com/diegokoes/Courses/tree/main/Udemy/Angular_Complete_Guide">Angular — The Complete Guide</a></strong></em></td><td>56</td><td>Pipes, Inyección de Dependencias, Observables, Formularios, Databinding, Autenticación, Protección, Signals, Gestión de estado...</td><td>En Progreso</td></tr>
     <tr><td colspan="4" align="left"><strong>EDX</strong></td></tr>
-    <tr><td><em><strong><a href="https://www.edx.org/learn/computer-science/the-linux-foundation-introduction-to-jenkins">Introducción a Jenkins</a></strong></em></td><td>30</td><td>Flujos de trabajo CI/CD usando servidor de automatización Jenkins</td><td>Completado</td></tr>
-    <tr><td><em><strong><a href="EDX/CS50Python">CS50 Python</a></strong></em></td><td>XX</td><td><img alt="Python" src="https://cdn.simpleicons.org/python/3776AB" width="22" height="22" title="Python" style="vertical-align:middle;"/></td><td>En Progreso</td></tr>
+    <tr><td><em><strong><a href="https://www.edx.org/learn/computer-science/the-linux-foundation-introduction-to-jenkins">Introducction to Jenkins</a></strong></em></td><td>30</td><td>Flujos de trabajo CI/CD usando servidor de automatización Jenkins</td><td>Completado</td></tr>
     <tr><td colspan="4" align="left"><strong><a href="https://github.com/diegokoes/Courses/tree/main/OpenWebinars">OpenWebinars</a></strong></td></tr>
   </table>
 </details>
@@ -265,13 +264,13 @@
       </tr>
       <tr>
         <td>
-          <strong><a href="https://github.com/stars/diegokoes/lists/computer-installed">Herramientas</a></strong>
+          <strong><a href="https://github.com/stars/diegokoes/lists/computer-installed">herramientas</a></strong>
         </td>
         <td>Lista personal de repos de software y utilidades que uso</td>
       </tr>
       <tr>
         <td>
-          <strong><a href="https://github.com/stars/diegokoes/lists/wrench-interesting">Interesantes</a></strong>
+          <strong><a href="https://github.com/stars/diegokoes/lists/wrench-interesting">interesantes</a></strong>
         </td>
         <td>Lista personal de repos que considero útiles o interesantes</td>
       </tr>
