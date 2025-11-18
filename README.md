@@ -117,14 +117,6 @@
       <td><strong>Backend</strong></td>
       <td style="display:flex;gap:12px;align-items:center;flex-wrap:wrap;">
         <span style="display:inline-flex;align-items:center;gap:4px;">
-          <img alt="Node.js" src="https://cdn.simpleicons.org/nodedotjs/339933" width="22" height="22" title="Node.js" style="vertical-align:middle;"/>
-          <picture style="display:inline-block;margin:0">
-            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-nodejs-white.svg">
-            <source media="(prefers-color-scheme: light)" srcset="assets/tech-nodejs.svg">
-            <img alt="Node.js" src="assets/tech-nodejs.svg" height="20" style="vertical-align:middle"/>
-          </picture>
-        </span>
-        <span style="display:inline-flex;align-items:center;gap:4px;">
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff">
             <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000">
@@ -158,11 +150,11 @@
           </picture>
         </span>
         <span style="display:inline-flex;align-items:center;gap:4px;">
-          <img alt="Supabase" src="https://cdn.simpleicons.org/supabase/3ECF8E" width="22" height="22" title="Supabase" style="vertical-align:middle;"/>
+          <img alt="PostgreSQL" src="https://cdn.simpleicons.org/postgresql/4169E1" width="22" height="22" title="PostgreSQL" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
-            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-supabase-white.svg">
-            <source media="(prefers-color-scheme: light)" srcset="assets/tech-supabase.svg">
-            <img alt="Supabase" src="assets/tech-supabase.svg" height="20" style="vertical-align:middle"/>
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-postgresql-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-postgresql.svg">
+            <img alt="PostgreSQL" src="assets/tech-postgresql.svg" height="20" style="vertical-align:middle"/>
           </picture>
         </span>
         <span style="display:inline-flex;align-items:center;gap:4px;">
