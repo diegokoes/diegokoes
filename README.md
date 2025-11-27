@@ -68,7 +68,7 @@
     <tr><td colspan="4" align="left"><strong>Udemy</strong></td></tr>
     <tr><td><em><strong><a href="https://github.com/diegokoes/Courses/tree/main/Udemy/Angular_Complete_Guide">Angular — The Complete Guide</a></strong></em></td><td>56</td><td>Pipes, Dependency Injection, Observables, Forms, Databinding, Authentication, Protection, Signals, State Management...</td><td>In Progress</td></tr>
     <tr><td colspan="4" align="left"><strong>EDX</strong></td></tr>
-    <tr><td><em><strong><a href="https://www.edx.org/certificates/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools?index=product&queryId=79fba2c89bd09f81a6401a4c57ef92ed&position=1">Certificate *Introduction to DevOps: Practices and Tools*</a></strong></em></td><td>30</td><td>SRE, IaC, Observability, Jenkins (jobs,security, pipeline...),Kubernetes and OpenFaaS </td><td>Complete</td></tr>
+    <tr><td><em><strong><a href="https://www.edx.org/certificates/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools?index=product&queryId=79fba2c89bd09f81a6401a4c57ef92ed&position=1">Certificate Introduction to DevOps: Practices and Tools</a></strong></em></td><td>48</td><td>SRE, IaC, Observability, Jenkins (jobs,security, pipeline...),Kubernetes and OpenFaaS </td><td>Complete</td></tr>
     <tr><td colspan="4" align="left"><strong><a href="https://github.com/diegokoes/Courses/tree/main/OpenWebinars">OpenWebinars</a></strong></td></tr>
   </table>
 </details>
