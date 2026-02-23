@@ -306,22 +306,16 @@
 ⌚︎ Zona Horaria: Europa/Madrid
 
 💬 Lenguajes: 
-SQL                      12 mins             ████████████░░░░░░░░░░░░░   48.44% 
-Java                     8 mins              ████████░░░░░░░░░░░░░░░░░   33.83% 
-Java Properties          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.85% 
-XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.6% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.07%
+Sin actividad registrada esta semana
 
 🔥 Editores: 
-IntelliJ IDEA            25 mins             █████████████████████████   100.0%
+Sin actividad registrada esta semana
 
 🐱‍💻 Proyectos: 
-EventHubDataRest         16 mins             ████████████████░░░░░░░░░   64.1% 
-ALUMNO_EventHubMVC       7 mins              ███████░░░░░░░░░░░░░░░░░░   28.93% 
-ALUMNO_ClinicaAPI        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   6.97%
+Sin actividad registrada esta semana
 
 💻 Sistemas Operativos: 
-Linux                    25 mins             █████████████████████████   100.0%
+Sin actividad registrada esta semana
 
 ```
 
