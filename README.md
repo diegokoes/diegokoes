@@ -308,22 +308,16 @@
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-SQL                      12 mins             ████████████░░░░░░░░░░░░░   48.44% 
-Java                     8 mins              ████████░░░░░░░░░░░░░░░░░   33.83% 
-Java Properties          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.85% 
-XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.6% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.07%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-EventHubDataRest         16 mins             ████████████████░░░░░░░░░   64.1% 
-ALUMNO_EventHubMVC       7 mins              ███████░░░░░░░░░░░░░░░░░░   28.93% 
-ALUMNO_ClinicaAPI        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   6.97%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
