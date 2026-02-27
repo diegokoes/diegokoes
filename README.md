@@ -337,5 +337,3 @@ SCSS                     1 repo              ██░░░░░░░░░�
  Last Updated on 27/02/2026
 <!--END_SECTION:waka-->
 </details>
-
-<small>If you need to contact me, message me on <strong>Discord</strong> (@__koes) or via <strong>Email</strong> at <code>diegomanrique.dev@pm.me</code></small>
