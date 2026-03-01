@@ -294,10 +294,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.88% 
-🌆 Daytime    158 commits    ██████████░░░░░░░░░░░░░░░   40.62% 
-🌃 Evening    150 commits    █████████░░░░░░░░░░░░░░░░   38.56% 
-🌙 Night      27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.94%
+🌞 Morning    54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
+🌆 Daytime    158 commits    ██████████░░░░░░░░░░░░░░░   40.41% 
+🌃 Evening    150 commits    █████████░░░░░░░░░░░░░░░░   38.36% 
+🌙 Night      29 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.42%
 
 ```
 
@@ -308,16 +308,17 @@
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     0 secs              ███████████████░░░░░░░░░░   61.75% 
+Java                     0 secs              █████████░░░░░░░░░░░░░░░░   38.25%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ALUMNO_EventHubMVC       0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              █████████████████████████   100.0%
 
 ```
 
