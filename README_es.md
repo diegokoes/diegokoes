@@ -293,10 +293,10 @@
 **Soy diurno 🐤** 
 
 ```text
-🌞 Mañana   54 commits  ███░░░░░░░░░░░░░░░░░░░░░░  13.88%
-🌆 Día     158 commits  ██████████░░░░░░░░░░░░░░░  40.62%
-🌃 Tarde   150 commits  █████████░░░░░░░░░░░░░░░░  38.56%
-🌙 Noche    27 commits  █░░░░░░░░░░░░░░░░░░░░░░░░  6.94%
+🌞 Mañana   54 commits  ███░░░░░░░░░░░░░░░░░░░░░░  13.81%
+🌆 Día     158 commits  ██████████░░░░░░░░░░░░░░░  40.41%
+🌃 Tarde   150 commits  █████████░░░░░░░░░░░░░░░░  38.36%
+🌙 Noche    29 commits  █░░░░░░░░░░░░░░░░░░░░░░░░  7.42%
 ```
 
 
@@ -306,16 +306,17 @@
 ⌚︎ Zona Horaria: Europa/Madrid
 
 💬 Lenguajes: 
-Sin actividad registrada esta semana
+HTML                     0 secs              ███████████████░░░░░░░░░░   61.75% 
+Java                     0 secs              █████████░░░░░░░░░░░░░░░░   38.25%
 
 🔥 Editores: 
-Sin actividad registrada esta semana
+IntelliJ IDEA            0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Proyectos: 
-Sin actividad registrada esta semana
+ALUMNO_EventHubMVC       0 secs              █████████████████████████   100.0%
 
 💻 Sistemas Operativos: 
-Sin actividad registrada esta semana
+Linux                    0 secs              █████████████████████████   100.0%
 
 ```
 
