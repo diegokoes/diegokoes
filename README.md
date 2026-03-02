@@ -308,17 +308,21 @@
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-HTML                     0 secs              ███████████████░░░░░░░░░░   61.75% 
-Java                     0 secs              █████████░░░░░░░░░░░░░░░░   38.25%
+Git Config               3 mins              ███████████████░░░░░░░░░░   60.33% 
+JSON                     2 mins              █████████░░░░░░░░░░░░░░░░   38.37% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73% 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.0%
+VS Code                  6 mins              ████████████████████████░   98.69% 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31%
 
 🐱‍💻 Projects: 
-ALUMNO_EventHubMVC       0 secs              █████████████████████████   100.0%
+parallax-sports-angular  6 mins              ████████████████████████░   98.69% 
+ALUMNO_EventHubMVC       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31%
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.0%
+Linux                    6 mins              █████████████████████████   100.0%
 
 ```
 
