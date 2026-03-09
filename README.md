@@ -308,24 +308,20 @@
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-XML                      14 mins             ████████████░░░░░░░░░░░░░   48.91% 
-Markdown                 9 mins              ███████░░░░░░░░░░░░░░░░░░   30.52% 
-Git Config               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.51% 
-JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.96% 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+XML                      14 mins             ███████████████░░░░░░░░░░   61.56% 
+Markdown                 9 mins              █████████░░░░░░░░░░░░░░░░   38.42% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-VS Code                  15 mins             ████████████░░░░░░░░░░░░░   50.79% 
-IntelliJ IDEA            14 mins             ████████████░░░░░░░░░░░░░   49.21%
+IntelliJ IDEA            14 mins             ███████████████░░░░░░░░░░   61.83% 
+VS Code                  9 mins              █████████░░░░░░░░░░░░░░░░   38.17%
 
 🐱‍💻 Projects: 
-parallax-sports-spring   14 mins             ████████████░░░░░░░░░░░░░   49.12% 
-parallax-sports-docs     9 mins              ███████░░░░░░░░░░░░░░░░░░   30.33% 
-parallax-sports-angular  6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.46% 
-ALUMNO_EventHubMVC       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+parallax-sports-spring   14 mins             ███████████████░░░░░░░░░░   61.83% 
+parallax-sports-docs     9 mins              █████████░░░░░░░░░░░░░░░░   38.17%
 
 💻 Operating System: 
-Linux                    30 mins             █████████████████████████   100.0%
+Linux                    23 mins             █████████████████████████   100.0%
 
 ```
 
