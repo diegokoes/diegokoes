@@ -308,20 +308,22 @@
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-XML                      14 mins             ███████████████░░░░░░░░░░   61.56% 
-Markdown                 9 mins              █████████░░░░░░░░░░░░░░░░   38.42% 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+Markdown                 1 hr 21 mins        █████████████████████░░░░   84.66% 
+XML                      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.34% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-IntelliJ IDEA            14 mins             ███████████████░░░░░░░░░░   61.83% 
-VS Code                  9 mins              █████████░░░░░░░░░░░░░░░░   38.17%
+Obsidian                 1 hr 12 mins        ██████████████████░░░░░░░   75.09% 
+IntelliJ IDEA            14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.4% 
+VS Code                  9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.51%
 
 🐱‍💻 Projects: 
-parallax-sports-spring   14 mins             ███████████████░░░░░░░░░░   61.83% 
-parallax-sports-docs     9 mins              █████████░░░░░░░░░░░░░░░░   38.17%
+obsidian_programming     1 hr 12 mins        ██████████████████░░░░░░░   75.09% 
+parallax-sports-spring   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.4% 
+parallax-sports-docs     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.51%
 
 💻 Operating System: 
-Linux                    23 mins             █████████████████████████   100.0%
+Linux                    1 hr 36 mins        █████████████████████████   100.0%
 
 ```
 
