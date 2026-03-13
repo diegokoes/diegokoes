@@ -306,22 +306,25 @@
 ⌚︎ Zona Horaria: Europa/Madrid
 
 💬 Lenguajes: 
-Markdown                 1 hr 21 mins        █████████████████████░░░░   84.66% 
-XML                      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.34% 
+Markdown                 1 hr 21 mins        ███████████████░░░░░░░░░░   61.61% 
+HTML                     35 mins             ██████░░░░░░░░░░░░░░░░░░░   27.22% 
+XML                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.16% 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editores: 
-Obsidian                 1 hr 12 mins        ██████████████████░░░░░░░   75.09% 
-IntelliJ IDEA            14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.4% 
-VS Code                  9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.51%
+Obsidian                 1 hr 12 mins        █████████████░░░░░░░░░░░░   54.65% 
+VS Code                  45 mins             ████████░░░░░░░░░░░░░░░░░   34.15% 
+IntelliJ IDEA            14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.21%
 
 🐱‍💻 Proyectos: 
-obsidian_programming     1 hr 12 mins        ██████████████████░░░░░░░   75.09% 
-parallax-sports-spring   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.4% 
-parallax-sports-docs     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.51%
+obsidian_programming     1 hr 12 mins        █████████████░░░░░░░░░░░░   54.65% 
+VSCode                   35 mins             ██████░░░░░░░░░░░░░░░░░░░   27.22% 
+parallax-sports-spring   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.21% 
+parallax-sports-docs     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.92%
 
 💻 Sistemas Operativos: 
-Linux                    1 hr 36 mins        █████████████████████████   100.0%
+Linux                    1 hr 36 mins        ██████████████████░░░░░░░   72.78% 
+Windows                  35 mins             ██████░░░░░░░░░░░░░░░░░░░   27.22%
 
 ```
 
