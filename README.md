@@ -308,25 +308,27 @@
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 2 hrs 1 min         ████████████████░░░░░░░░░   67.37% 
-HTML                     35 mins             █████░░░░░░░░░░░░░░░░░░░░   19.98% 
-XML                      22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65%
+Markdown                 2 hrs 20 mins       ███████████████░░░░░░░░░░   63.11% 
+HTML                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.09% 
+XML                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
+Java                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.64% 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.57%
 
 🔥 Editors: 
-Obsidian                 1 hr 51 mins        ███████████████░░░░░░░░░░   62.29% 
-VS Code                  45 mins             ██████░░░░░░░░░░░░░░░░░░░   25.06% 
-IntelliJ IDEA            22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65%
+Obsidian                 2 hrs 6 mins        ██████████████░░░░░░░░░░░   56.83% 
+VS Code                  55 mins             ██████░░░░░░░░░░░░░░░░░░░   24.71% 
+IntelliJ IDEA            41 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.46%
 
 🐱‍💻 Projects: 
-obsidian_programming     1 hr 25 mins        ████████████░░░░░░░░░░░░░   47.71% 
-VSCode                   35 mins             █████░░░░░░░░░░░░░░░░░░░░   19.98% 
-Unknown Project          26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.59% 
-parallax-sports-spring   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
-parallax-sports-docs     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.08%
+obsidian_programming     1 hr 40 mins        ███████████░░░░░░░░░░░░░░   45.09% 
+parallax-sports-spring   41 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.43% 
+VSCode                   35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.09% 
+Unknown Project          26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77% 
+parallax-sports-docs     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.63%
 
 💻 Operating System: 
-Linux                    1 hr 57 mins        ████████████████░░░░░░░░░   65.44% 
-Windows                  1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   34.56%
+Linux                    2 hrs 41 mins       ██████████████████░░░░░░░   72.17% 
+Windows                  1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   27.83%
 
 ```
 
