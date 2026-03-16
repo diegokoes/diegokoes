@@ -306,27 +306,27 @@
 ⌚︎ Zona Horaria: Europa/Madrid
 
 💬 Lenguajes: 
-Markdown                 2 hrs 20 mins       ███████████████░░░░░░░░░░   63.11% 
-HTML                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.09% 
-XML                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
-Java                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.64% 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.57%
+Java                     2 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   36.51% 
+Markdown                 2 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.83% 
+XML                      1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+YAML                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.28% 
+HTML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.4%
 
 🔥 Editores: 
-Obsidian                 2 hrs 6 mins        ██████████████░░░░░░░░░░░   56.83% 
-VS Code                  55 mins             ██████░░░░░░░░░░░░░░░░░░░   24.71% 
-IntelliJ IDEA            41 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.46%
+VS Code                  3 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   37.75% 
+IntelliJ IDEA            2 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   35.67% 
+Obsidian                 2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   26.58%
 
 🐱‍💻 Proyectos: 
-obsidian_programming     1 hr 40 mins        ███████████░░░░░░░░░░░░░░   45.09% 
-parallax-sports-spring   41 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.43% 
-VSCode                   35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.09% 
-Proyecto desconocido          26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77% 
-parallax-sports-docs     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.63%
+parallax-sports-spring   5 hrs               ███████████████░░░░░░░░░░   61.79% 
+obsidian_programming     1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   21.18% 
+VSCode                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.4% 
+Proyecto desconocido          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.61% 
+parallax-sports-docs     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.96%
 
 💻 Sistemas Operativos: 
-Linux                    2 hrs 41 mins       ██████████████████░░░░░░░   72.17% 
-Windows                  1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   27.83%
+Linux                    7 hrs 3 mins        █████████████████████░░░░   87.21% 
+Windows                  1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.79%
 
 ```
 
