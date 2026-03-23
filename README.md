@@ -308,27 +308,27 @@
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Java                     23 hrs 13 mins      ███████████████░░░░░░░░░░   60.66% 
-Markdown                 5 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55% 
-YAML                     3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.53% 
-XML                      2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.62% 
-HTML                     58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56%
+Java                     24 hrs              ███████████████░░░░░░░░░░   61.49% 
+Markdown                 6 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.62% 
+YAML                     2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.09% 
+XML                      2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.74% 
+HTML                     58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51%
 
 🔥 Editors: 
-VS Code                  24 hrs 37 mins      ████████████████░░░░░░░░░   64.3% 
-IntelliJ IDEA            10 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   28.49% 
-Obsidian                 2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.22%
+VS Code                  26 hrs 49 mins      █████████████████░░░░░░░░   68.7% 
+IntelliJ IDEA            9 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.32% 
+Obsidian                 2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.98%
 
 🐱‍💻 Projects: 
-parallax-sports-spring   31 hrs 42 mins      ████████████████████░░░░░   82.83% 
-parallax-sports-docs     2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.69% 
-obsidian_programming     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.82% 
-Unknown Project          1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.51% 
-VSCode                   59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6%
+parallax-sports-spring   32 hrs 23 mins      ████████████████████░░░░░   82.97% 
+parallax-sports-docs     2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.64% 
+Unknown Project          1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.68% 
+obsidian_programming     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.65% 
+VSCode                   59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.55%
 
 💻 Operating System: 
-Linux                    35 hrs 59 mins      ███████████████████████░░   94.01% 
-Windows                  2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.99%
+Linux                    36 hrs 45 mins      ███████████████████████░░   94.12% 
+Windows                  2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
 
 ```
 
