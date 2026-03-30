@@ -306,27 +306,28 @@
 ⌚︎ Zona Horaria: Europa/Madrid
 
 💬 Lenguajes: 
-Markdown                 7 hrs 5 mins        ███████████░░░░░░░░░░░░░░   43.67% 
-Java                     5 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   36.82% 
-XML                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.42% 
-SQL                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.28% 
-Other                    26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.72%
+Markdown                 6 hrs 29 mins       ██████████████░░░░░░░░░░░   57.11% 
+Java                     2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   22.66% 
+XML                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.38% 
+SQL                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.06% 
+Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.88%
 
 🔥 Editores: 
-VS Code                  8 hrs 44 mins       █████████████░░░░░░░░░░░░   53.78% 
-Obsidian                 5 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   35.52% 
-IntelliJ IDEA            1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.7%
+Obsidian                 5 hrs 46 mins       ████████████░░░░░░░░░░░░░   50.7% 
+VS Code                  4 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   38.96% 
+IntelliJ IDEA            1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.14% 
+Unknown Editor           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2%
 
 🐱‍💻 Proyectos: 
-parallax-sports-spring   9 hrs 2 mins        ██████████████░░░░░░░░░░░   55.72% 
-Proyecto desconocido          5 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   35.03% 
-dotfiles                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.05% 
-obsidian_programming     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.69% 
-Sharepoint               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49%
+Proyecto desconocido          5 hrs 35 mins       ████████████░░░░░░░░░░░░░   49.14% 
+parallax-sports-spring   4 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.41% 
+dotfiles                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.36% 
+obsidian_programming     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
+Sharepoint               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12%
 
 💻 Sistemas Operativos: 
-Linux                    10 hrs 28 mins      ████████████████░░░░░░░░░   64.49% 
-Windows                  5 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   35.51%
+Windows                  5 hrs 46 mins       ████████████░░░░░░░░░░░░░   50.69% 
+Linux                    5 hrs 36 mins       ████████████░░░░░░░░░░░░░   49.31%
 
 ```
 
