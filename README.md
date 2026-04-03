@@ -308,28 +308,27 @@
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 2 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   42.78% 
-Java                     1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   23.23% 
-TypeScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.29% 
-Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.64% 
-SQL                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.9%
+Java                     1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   36.43% 
+TypeScript               27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01% 
+Other                    25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98% 
+Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
+SQL                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.25%
 
 🔥 Editors: 
-VS Code                  2 hrs 34 mins       ███████████░░░░░░░░░░░░░░   46.6% 
-Obsidian                 2 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   42.53% 
-IntelliJ IDEA            27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.4% 
-Unknown Editor           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.48%
+VS Code                  2 hrs 34 mins       ██████████████████░░░░░░░   73.08% 
+IntelliJ IDEA            27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
+Obsidian                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
+Unknown Editor           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.88%
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.55% 
-parallax-sports-spring   1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   31.12% 
-testing                  57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.44% 
-dotfiles                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.48% 
-obsidian_programming     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15%
+parallax-sports-spring   1 hr 43 mins        ████████████░░░░░░░░░░░░░   48.81% 
+testing                  57 mins             ██████░░░░░░░░░░░░░░░░░░░   27.36% 
+obsidian_programming     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
+dotfiles                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.47% 
+A_FoodExpressAPI_II      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.18%
 
 💻 Operating System: 
-Linux                    3 hrs 21 mins       ███████████████░░░░░░░░░░   60.63% 
-Windows                  2 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   39.37%
+Linux                    3 hrs 31 mins       █████████████████████████   100.0%
 
 ```
 
