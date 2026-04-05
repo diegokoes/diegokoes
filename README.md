@@ -308,27 +308,27 @@
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 55 mins             █████░░░░░░░░░░░░░░░░░░░░   19.6% 
-Other                    54 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.34% 
-TypeScript               49 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.31% 
-Bash                     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.62% 
-Java                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.61%
+Markdown                 1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   24.56% 
+Other                    1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   20.39% 
+Bash                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.71% 
+TypeScript               49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.32% 
+Java                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.25%
 
 🔥 Editors: 
-VS Code                  3 hrs 53 mins       ████████████████████░░░░░   82.03% 
-Obsidian                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
-IntelliJ IDEA            20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.23% 
-Unknown Editor           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.89%
+VS Code                  4 hrs 39 mins       █████████████████████░░░░   86.84% 
+Obsidian                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.94% 
+Unknown Editor           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56% 
+IntelliJ IDEA            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67%
 
 🐱‍💻 Projects: 
-dotfiles                 1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   31.4% 
-parallax-sports-angular  1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   22.23% 
-testing                  57 mins             █████░░░░░░░░░░░░░░░░░░░░   20.38% 
-parallax-sports-spring   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.03% 
-obsidian_programming     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.84%
+dotfiles                 1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   29.79% 
+parallax-sports-angular  1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   19.67% 
+testing                  57 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.04% 
+parallax-sports-spring   55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.31% 
+obsidian_programming     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.92%
 
 💻 Operating System: 
-Linux                    4 hrs 44 mins       █████████████████████████   100.0%
+Linux                    5 hrs 21 mins       █████████████████████████   100.0%
 
 ```
 
