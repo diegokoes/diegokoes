@@ -294,57 +294,55 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.53% 
-🌆 Daytime    171 commits    █████████░░░░░░░░░░░░░░░░   35.7% 
-🌃 Evening    196 commits    ██████████░░░░░░░░░░░░░░░   40.92% 
-🌙 Night      52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.86%
-
+🌞 Morning                177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+🌆 Daytime                604 commits         ██████████░░░░░░░░░░░░░░░   38.35 % 
+🌃 Evening                496 commits         ████████░░░░░░░░░░░░░░░░░   31.49 % 
+🌙 Night                  298 commits         █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Madrid
+🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 5 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   40.44% 
-Java                     3 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   25.49% 
-TypeScript               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.53% 
-Other                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.84% 
-Bash                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.51%
+Markdown                 5 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   40.44 % 
+Java                     3 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+TypeScript               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Other                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Bash                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 50 mins       ███████████████████░░░░░░   75.76% 
-IntelliJ IDEA            2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.31% 
-Obsidian                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   7.93%
+VS Code                  9 hrs 50 mins       ███████████████████░░░░░░   75.76 % 
+IntelliJ IDEA            2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Obsidian                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
 
 🐱‍💻 Projects: 
-parallax-sports-spring   4 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   35.84% 
-spfx-wiki-publisher      4 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.12% 
-dotfiles                 1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
-parallax-sports-angular  1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.84% 
-obsidian_programming     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.63%
+parallax-sports-spring   4 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   35.84 % 
+spfx-wiki-publisher      4 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.12 % 
+dotfiles                 1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+parallax-sports-angular  1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+obsidian_programming     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 
 💻 Operating System: 
-Linux                    8 hrs 34 mins       ████████████████░░░░░░░░░   66.04% 
-Windows                  4 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.96%
-
+Linux                    8 hrs 34 mins       █████████████████░░░░░░░░   66.04 % 
+Windows                  4 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.96 % 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in HTML** 
 
 ```text
-Python                   4 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
-
+HTML                     5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+Java                     5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
 
- Last Updated on 08/04/2026
+
+ Last Updated on 08/04/2026 13:20:17 UTC
 <!--END_SECTION:waka-->
 </details>
