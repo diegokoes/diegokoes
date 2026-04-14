@@ -290,17 +290,13 @@
   </picture></span></summary>
   <br>
 <!--START_SECTION:waka_es-->
-![Code Time](http://img.shields.io/badge/Code%20Time-487%20hrs%2047%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
 **Soy nocturno 🦉** 
 
 ```text
-🌞 Mañana  203 commits  ███░░░░░░░░░░░░░░░░░░░░░░   10.35 %
-🌆 Día     655 commits  ████████░░░░░░░░░░░░░░░░░   33.40 %
-🌃 Tarde   726 commits  █████████░░░░░░░░░░░░░░░░   37.02 %
-🌙 Noche   377 commits  █████░░░░░░░░░░░░░░░░░░░░   19.22 %```
+🌞 Mañana  203 commits  ███░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+🌆 Día     655 commits  ████████░░░░░░░░░░░░░░░░░   33.35 %
+🌃 Tarde   729 commits  █████████░░░░░░░░░░░░░░░░   37.12 %
+🌙 Noche   377 commits  █████░░░░░░░░░░░░░░░░░░░░   19.20 %```
 
 
 📊 **Mi actividad semanal** 
@@ -333,11 +329,7 @@ Linux                    15 hrs 33 mins      ███████████�
 Windows                  12 hrs 38 mins      ███████████░░░░░░░░░░░░░░   44.83 % 
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/diegokoes/diegokoes/main/assets/bar_graph.png)
-
-
- Última actualización el 14/04/2026 20:18:21 UTC
+ Última actualización el 14/04/2026 20:28:48 UTC
 <!--END_SECTION:waka_es-->
 </details>
