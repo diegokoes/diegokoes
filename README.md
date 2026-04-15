@@ -294,10 +294,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-🌆 Daytime                656 commits         ████████░░░░░░░░░░░░░░░░░   33.06 % 
-🌃 Evening                745 commits         █████████░░░░░░░░░░░░░░░░   37.55 % 
-🌙 Night                  379 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+🌞 Morning                205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+🌆 Daytime                657 commits         ████████░░░░░░░░░░░░░░░░░   32.83 % 
+🌃 Evening                758 commits         █████████░░░░░░░░░░░░░░░░   37.88 % 
+🌙 Night                  381 commits         █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
 ```
 
 
@@ -307,31 +307,31 @@
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 9 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   34.94 % 
-TypeScript               7 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   27.06 % 
-Java                     4 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Other                    1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-HTML                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Markdown                 9 hrs               ████████░░░░░░░░░░░░░░░░░   30.75 % 
+TypeScript               8 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+Java                     4 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Other                    2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+CSS                      1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 14 mins      ████████████████████░░░░░   78.88 % 
-Obsidian                 3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-IntelliJ IDEA            1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-Unknown Editor           57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+VS Code                  21 hrs 52 mins      ███████████████████░░░░░░   74.62 % 
+Obsidian                 4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Unknown Editor           1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+IntelliJ IDEA            1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 🐱‍💻 Projects: 
-spfx-wiki-publisher      10 hrs 27 mins      █████████░░░░░░░░░░░░░░░░   37.12 % 
-parallax-sports-angular  7 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   26.15 % 
-parallax-sports-spring   5 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-obsidian_programming     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Unknown Project          1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+spfx-wiki-publisher      8 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+parallax-sports-angular  7 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+parallax-sports-spring   5 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Unknown Project          2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+obsidian_programming     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 
 💻 Operating System: 
-Linux                    15 hrs 33 mins      ██████████████░░░░░░░░░░░   55.17 % 
-Windows                  12 hrs 38 mins      ███████████░░░░░░░░░░░░░░   44.83 % 
+Linux                    17 hrs 50 mins      ███████████████░░░░░░░░░░   60.83 % 
+Windows                  11 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   39.17 % 
 ```
 
 
- Last Updated on 15/04/2026 00:19:00 UTC
+ Last Updated on 15/04/2026 06:33:15 UTC
 <!--END_SECTION:waka-->
 </details>
