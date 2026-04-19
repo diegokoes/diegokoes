@@ -293,10 +293,10 @@
 **Soy diurno 🐤** 
 
 ```text
-🌞 Mañana  159 commits  ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
-🌆 Día     574 commits  ██████████░░░░░░░░░░░░░░░   41.87 %
-🌃 Tarde   462 commits  ████████░░░░░░░░░░░░░░░░░   33.70 %
-🌙 Noche   176 commits  ███░░░░░░░░░░░░░░░░░░░░░░   12.84 %```
+🌞 Mañana  160 commits  ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+🌆 Día     575 commits  ██████████░░░░░░░░░░░░░░░   41.34 %
+🌃 Tarde   478 commits  █████████░░░░░░░░░░░░░░░░   34.36 %
+🌙 Noche   178 commits  ███░░░░░░░░░░░░░░░░░░░░░░   12.80 %```
 
 
 📊 **Mi actividad semanal** 
@@ -305,31 +305,31 @@
 🕑︎ Time Zone: Europa/Madrid
 
 💬 Lenguajes: 
-TypeScript               11 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   33.37 % 
-Other                    8 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
-Markdown                 6 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-Java                     3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-HTML                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Other                    9 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.69 % 
+TypeScript               8 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+Markdown                 6 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Java                     3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+YAML                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 
 🔥 Editores: 
-VS Code                  28 hrs 9 mins       █████████████████████░░░░   82.06 % 
-Obsidian                 3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Unknown Editor           1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-IntelliJ IDEA            53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+VS Code                  25 hrs 59 mins      ████████████████████░░░░░   79.85 % 
+Obsidian                 3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Unknown Editor           1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+IntelliJ IDEA            1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 
 🐱‍💻 Proyectos: 
-spfx-wiki-publisher      12 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   35.78 % 
-parallax-sports-angular  6 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-parallax-sports-spring   4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Proyecto desconocido          3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-parallax-sports-docs     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+spfx-wiki-publisher      12 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   37.72 % 
+parallax-sports-spring   6 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Proyecto desconocido          3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+parallax-sports-ktor-micr1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+parallax-sports-docs     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 
 💻 Sistemas Operativos: 
-Windows                  18 hrs 35 mins      ██████████████░░░░░░░░░░░   54.21 % 
-Linux                    15 hrs 42 mins      ███████████░░░░░░░░░░░░░░   45.79 % 
+Windows                  18 hrs 35 mins      ██████████████░░░░░░░░░░░   57.14 % 
+Linux                    13 hrs 56 mins      ███████████░░░░░░░░░░░░░░   42.86 % 
 ```
 
 
- Última actualización el 19/04/2026 00:15:05 UTC
+ Última actualización el 19/04/2026 06:31:15 UTC
 <!--END_SECTION:waka_es-->
 </details>
