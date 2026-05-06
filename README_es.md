@@ -305,31 +305,31 @@
 🕑︎ Time Zone: Europa/Madrid
 
 💬 Lenguajes: 
-CSS                      1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-Other                    1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-Java                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Markdown                 47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-TypeScript               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Other                    2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+CSS                      1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Java                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+TypeScript               1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Markdown                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
 
 🔥 Editores: 
-VS Code                  4 hrs 52 mins       ████████████████░░░░░░░░░   63.73 % 
-IntelliJ IDEA            1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Unknown Editor           1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Obsidian                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-Zed                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+VS Code                  6 hrs 35 mins       █████████████████░░░░░░░░   68.11 % 
+IntelliJ IDEA            1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Unknown Editor           1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Obsidian                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Zed                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🐱‍💻 Proyectos: 
-parallax-sports-angular  3 hrs 31 mins       ████████████░░░░░░░░░░░░░   46.24 % 
-parallax-sports-spring   2 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   30.15 % 
-dotfiles                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-parallax-sports-docs     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-parallax-sports-ktor-micr21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+parallax-sports-angular  4 hrs 16 mins       ███████████░░░░░░░░░░░░░░   44.15 % 
+parallax-sports-spring   2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+dotfiles                 1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+parallax-sports-docs     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+parallax-sports-ktor-micr21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 💻 Sistemas Operativos: 
-Linux                    7 hrs 38 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 
- Última actualización el 06/05/2026 00:21:32 UTC
+ Última actualización el 06/05/2026 06:50:36 UTC
 <!--END_SECTION:waka_es-->
 </details>
