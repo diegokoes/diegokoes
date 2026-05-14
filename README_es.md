@@ -290,45 +290,6 @@
   </picture></span></summary>
   <br>
 <!--START_SECTION:waka_es-->
-**Soy nocturno 🦉** 
-
-```text
-🌞 Mañana  172 commits  ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-🌆 Día     658 commits  █████████░░░░░░░░░░░░░░░░   35.72 %
-🌃 Tarde   773 commits  ██████████░░░░░░░░░░░░░░░   41.97 %
-🌙 Noche   239 commits  ███░░░░░░░░░░░░░░░░░░░░░░   12.98 %```
-
-
-📊 **Mi actividad semanal** 
-
-```text
-🕑︎ Time Zone: Europa/Madrid
-
-💬 Lenguajes: 
-Other                    3 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   29.54 % 
-TypeScript               1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Bash                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-CSS                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Markdown                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-
-🔥 Editores: 
-VS Code                  10 hrs 2 mins       ██████████████████████░░░   87.82 % 
-IntelliJ IDEA            56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Obsidian                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-
-🐱‍💻 Proyectos: 
-dotfiles                 3 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   34.11 % 
-parallax-sports-angular  2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
-parallax-sports-spring   1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-parallax-sports-ktor-micr1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Proyecto desconocido          57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-
-💻 Sistemas Operativos: 
-Linux                    9 hrs 48 mins       ██████████████████████░░░   89.70 % 
-Windows                  1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-```
-
-
- Última actualización el 14/05/2026 00:26:51 UTC
+ Última actualización el 14/05/2026 06:56:07 UTC
 <!--END_SECTION:waka_es-->
 </details>
