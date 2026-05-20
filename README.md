@@ -291,7 +291,47 @@
   <br>
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 20/05/2026 07:06:53 UTC
+```text
+🌞 Morning                170 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+🌆 Daytime                661 commits         █████████░░░░░░░░░░░░░░░░   34.20 % 
+🌃 Evening                864 commits         ███████████░░░░░░░░░░░░░░   44.70 % 
+🌙 Night                  238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+Other                    2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Markdown                 2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+YAML                     1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+TypeScript               1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Java                     1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+
+🔥 Editors: 
+VS Code                  12 hrs 58 mins      ████████████████████████░   97.17 % 
+IntelliJ IDEA            15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Claude Code              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Zed                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+
+🐱‍💻 Projects: 
+parallax-sports-infra    3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+parallax-sports-angular  2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+TFG                      2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+parallax-sports-spring   1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+dotfiles                 1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+
+💻 Operating System: 
+Linux                    12 hrs 39 mins      ████████████████████████░   94.75 % 
+Windows                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+```
+
+
+ Last Updated on 20/05/2026 12:46:37 UTC
 <!--END_SECTION:waka-->
 </details>
