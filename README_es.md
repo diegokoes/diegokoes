@@ -290,6 +290,46 @@
   </picture></span></summary>
   <br>
 <!--START_SECTION:waka_es-->
- Última actualización el 20/05/2026 07:06:53 UTC
+**Soy nocturno 🦉** 
+
+```text
+🌞 Mañana  170 commits  ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+🌆 Día     661 commits  █████████░░░░░░░░░░░░░░░░   34.20 %
+🌃 Tarde   864 commits  ███████████░░░░░░░░░░░░░░   44.70 %
+🌙 Noche   238 commits  ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %```
+
+
+📊 **Mi actividad semanal** 
+
+```text
+🕑︎ Time Zone: Europa/Madrid
+
+💬 Lenguajes: 
+Other                    2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Markdown                 2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+YAML                     1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+TypeScript               1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Java                     1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+
+🔥 Editores: 
+VS Code                  12 hrs 58 mins      ████████████████████████░   97.17 % 
+IntelliJ IDEA            15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Claude Code              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Zed                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+
+🐱‍💻 Proyectos: 
+parallax-sports-infra    3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+parallax-sports-angular  2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+TFG                      2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+parallax-sports-spring   1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+dotfiles                 1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+
+💻 Sistemas Operativos: 
+Linux                    12 hrs 39 mins      ████████████████████████░   94.75 % 
+Windows                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+```
+
+
+ Última actualización el 20/05/2026 12:46:37 UTC
 <!--END_SECTION:waka_es-->
 </details>
