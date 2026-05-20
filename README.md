@@ -291,48 +291,7 @@
   <br>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                170 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-🌆 Daytime                661 commits         █████████░░░░░░░░░░░░░░░░   34.20 % 
-🌃 Evening                864 commits         ███████████░░░░░░░░░░░░░░   44.70 % 
-🌙 Night                  238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-Other                    4 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.80 % 
-Markdown                 1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Java                     1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-YAML                     1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-TypeScript               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-
-🔥 Editors: 
-VS Code                  13 hrs 26 mins      ████████████████████████░   97.26 % 
-IntelliJ IDEA            15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Zed                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-
-🐱‍💻 Projects: 
-parallax-sports-infra    3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-parallax-sports-angular  2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-TFG                      2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-parallax-sports-spring   1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-dotfiles                 1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-
-💻 Operating System: 
-Linux                    13 hrs 7 mins       ████████████████████████░   94.93 % 
-Windows                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-```
-
-
- Last Updated on 20/05/2026 00:28:29 UTC
+ Last Updated on 20/05/2026 07:06:53 UTC
 <!--END_SECTION:waka-->
 </details>
