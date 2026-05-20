@@ -290,47 +290,6 @@
   </picture></span></summary>
   <br>
 <!--START_SECTION:waka_es-->
-**Soy nocturno 🦉** 
-
-```text
-🌞 Mañana  170 commits  ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 %
-🌆 Día     661 commits  █████████░░░░░░░░░░░░░░░░   34.20 %
-🌃 Tarde   864 commits  ███████████░░░░░░░░░░░░░░   44.70 %
-🌙 Noche   238 commits  ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %```
-
-
-📊 **Mi actividad semanal** 
-
-```text
-🕑︎ Time Zone: Europa/Madrid
-
-💬 Lenguajes: 
-Other                    4 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.80 % 
-Markdown                 1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Java                     1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-YAML                     1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-TypeScript               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-
-🔥 Editores: 
-VS Code                  13 hrs 26 mins      ████████████████████████░   97.26 % 
-IntelliJ IDEA            15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Zed                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-
-🐱‍💻 Proyectos: 
-parallax-sports-infra    3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-parallax-sports-angular  2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-TFG                      2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-parallax-sports-spring   1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-dotfiles                 1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-
-💻 Sistemas Operativos: 
-Linux                    13 hrs 7 mins       ████████████████████████░   94.93 % 
-Windows                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-```
-
-
- Última actualización el 20/05/2026 00:28:29 UTC
+ Última actualización el 20/05/2026 07:06:53 UTC
 <!--END_SECTION:waka_es-->
 </details>
