@@ -294,10 +294,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-🌆 Daytime                647 commits         █████████░░░░░░░░░░░░░░░░   35.24 % 
-🌃 Evening                804 commits         ███████████░░░░░░░░░░░░░░   43.79 % 
-🌙 Night                  220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+🌞 Morning                167 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+🌆 Daytime                663 commits         █████████░░░░░░░░░░░░░░░░   34.26 % 
+🌃 Evening                877 commits         ███████████░░░░░░░░░░░░░░   45.32 % 
+🌙 Night                  228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
 ```
 
 
@@ -307,31 +307,31 @@
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-TypeScript               1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-JSON                     1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Java                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Other                    1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Markdown                 4 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+TypeScript               3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+HTML                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Java                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+JSON                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 59 mins       ███████████████████████░░   92.46 % 
-IntelliJ IDEA            38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Zed                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+VS Code                  16 hrs 8 mins       ████████████████████████░   95.29 % 
+IntelliJ IDEA            39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Claude Code              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Zed                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-parallax-sports-angular  3 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   36.88 % 
-parallax-sports-spring   1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-TFG                      1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-parallax-sports-infra    1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-parallax-sports-ktor-micr44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+parallax-sports-angular  7 hrs 30 mins       ███████████░░░░░░░░░░░░░░   44.31 % 
+TFG                      2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+parallax-sports-spring   2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+parallax-sports-docs     1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+parallax-sports-infra    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
 
 💻 Operating System: 
-Linux                    9 hrs               ███████████████████████░░   92.79 % 
-Windows                  42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Linux                    16 hrs 14 mins      ████████████████████████░   95.87 % 
+Windows                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 ```
 
 
- Last Updated on 24/05/2026 00:25:23 UTC
+ Last Updated on 24/05/2026 07:01:59 UTC
 <!--END_SECTION:waka-->
 </details>
