@@ -293,10 +293,10 @@
 **Soy nocturno 🦉** 
 
 ```text
-🌞 Mañana   174 commits  ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-🌆 Día      709 commits  ████████░░░░░░░░░░░░░░░░░   31.16 %
-🌃 Tarde   1102 commits  ████████████░░░░░░░░░░░░░   48.44 %
-🌙 Noche    290 commits  ███░░░░░░░░░░░░░░░░░░░░░░   12.75 %```
+🌞 Mañana   174 commits  ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+🌆 Día      709 commits  ████████░░░░░░░░░░░░░░░░░   31.07 %
+🌃 Tarde   1102 commits  ████████████░░░░░░░░░░░░░   48.29 %
+🌙 Noche    297 commits  ███░░░░░░░░░░░░░░░░░░░░░░   13.01 %```
 
 
 📊 **Mi actividad semanal** 
@@ -305,32 +305,32 @@
 🕑︎ Time Zone: Europa/Madrid
 
 💬 Lenguajes: 
-Markdown                 5 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-Java                     3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-TypeScript               2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Other                    2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-YAML                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Markdown                 6 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.64 % 
+Java                     3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+TypeScript               2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Other                    1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+HTML                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 
 🔥 Editores: 
-VS Code                  19 hrs 25 mins      ███████████████████████░░   93.06 % 
-IntelliJ IDEA            53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-Obsidian                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Claude Code              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+VS Code                  18 hrs 10 mins      ██████████████████████░░░   88.09 % 
+Obsidian                 1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+IntelliJ IDEA            53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Claude Code              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 Zed                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 Proyectos: 
-parallax-sports-angular  6 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.96 % 
-parallax-sports-spring   4 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-parallax-sports-docs     3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-TFG                      2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-parallax-sports-ktor-micr1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+parallax-sports-angular  5 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   28.23 % 
+parallax-sports-spring   4 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+parallax-sports-docs     3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+TFG                      2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+parallax-sports-infra    1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 
 💻 Sistemas Operativos: 
-Linux                    20 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 38 mins      █████████████████████████   100.00 % 
 Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
- Última actualización el 28/05/2026 00:25:23 UTC
+ Última actualización el 28/05/2026 07:13:41 UTC
 <!--END_SECTION:waka_es-->
 </details>
