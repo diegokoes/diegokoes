@@ -290,47 +290,6 @@
   </picture></span></summary>
   <br>
 <!--START_SECTION:waka_es-->
-**Soy nocturno 🦉** 
-
-```text
-🌞 Mañana   174 commits  ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-🌆 Día      709 commits  ████████░░░░░░░░░░░░░░░░░   31.07 %
-🌃 Tarde   1102 commits  ████████████░░░░░░░░░░░░░   48.29 %
-🌙 Noche    297 commits  ███░░░░░░░░░░░░░░░░░░░░░░   13.01 %```
-
-
-📊 **Mi actividad semanal** 
-
-```text
-🕑︎ Time Zone: Europa/Madrid
-
-💬 Lenguajes: 
-Markdown                 6 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.64 % 
-Java                     3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-TypeScript               2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Other                    1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-HTML                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-
-🔥 Editores: 
-VS Code                  18 hrs 10 mins      ██████████████████████░░░   88.09 % 
-Obsidian                 1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-IntelliJ IDEA            53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Claude Code              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Zed                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-
-🐱‍💻 Proyectos: 
-parallax-sports-angular  5 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   28.23 % 
-parallax-sports-spring   4 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-parallax-sports-docs     3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-TFG                      2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-parallax-sports-infra    1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-
-💻 Sistemas Operativos: 
-Linux                    20 hrs 38 mins      █████████████████████████   100.00 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
- Última actualización el 28/05/2026 13:06:15 UTC
+ Última actualización el 28/05/2026 18:49:00 UTC
 <!--END_SECTION:waka_es-->
 </details>
