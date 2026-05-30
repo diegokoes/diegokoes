@@ -285,57 +285,48 @@
   <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.88% 
-🌆 Daytime    160 commits    ██████████░░░░░░░░░░░░░░░   41.13% 
-🌃 Evening    147 commits    █████████░░░░░░░░░░░░░░░░   37.79% 
-🌙 Night      28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.2%
-
+🌞 Morning                174 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+🌆 Daytime                709 commits         ████████░░░░░░░░░░░░░░░░░   31.07 % 
+🌃 Evening                1102 commits        ████████████░░░░░░░░░░░░░   48.29 % 
+🌙 Night                  297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Madrid
+🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-SQL                      12 mins             ████████████░░░░░░░░░░░░░   48.41% 
-Java                     8 mins              ████████░░░░░░░░░░░░░░░░░   33.88% 
-Java Properties          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
-XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.6% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.07%
+Markdown                 5 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+TypeScript               3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Java                     2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Other                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+HTML                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 
 🔥 Editors: 
-IntelliJ IDEA            25 mins             █████████████████████████   100.0%
+VS Code                  17 hrs 48 mins      ██████████████████████░░░   87.53 % 
+Obsidian                 2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+IntelliJ IDEA            15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Unknown Editor           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Zed                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🐱‍💻 Projects: 
-EventHubDataRest         16 mins             ████████████████░░░░░░░░░   64.06% 
-ALUMNO_EventHubMVC       7 mins              ███████░░░░░░░░░░░░░░░░░░   28.91% 
-ALUMNO_ClinicaAPI        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   7.03%
+parallax-sports-angular  6 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   32.33 % 
+parallax-sports-spring   3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+parallax-sports-docs     3 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Unknown Project          1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+TFG                      1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 
 💻 Operating System: 
-Linux                    25 mins             █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   4 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
-
+Linux                    20 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
-
- Last Updated on 18/02/2026
+ Last Updated on 30/05/2026 18:20:30 UTC
 <!--END_SECTION:waka-->
 </details>
-
-<small>If you need to contact me, message me on <strong>Discord</strong> (@__koes) or via <strong>Email</strong> at <code>diegomanrique.dev@pm.me</code></small>
