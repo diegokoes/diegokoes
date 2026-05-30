@@ -231,9 +231,9 @@
         <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="Loki" src="https://cdn.simpleicons.org/grafana/F46800" width="22" height="22" title="Loki" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
-            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-loki-alloy-white.svg">
-            <source media="(prefers-color-scheme: light)" srcset="assets/tech-loki-alloy.svg">
-            <img alt="Loki" src="assets/tech-loki-alloy.svg" height="20" style="vertical-align:middle"/>
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-loki-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-loki.svg">
+            <img alt="Loki" src="assets/tech-loki.svg" height="20" style="vertical-align:middle"/>
           </picture>
         </span></td>
         <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
