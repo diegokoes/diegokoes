@@ -80,37 +80,37 @@
   <table>
     <tr>
       <td><strong>Frontend</strong></td>
-      <td style="display:flex;gap:16px;align-items:center;flex-wrap:wrap;">
-        <span style="display:inline-flex;align-items:center;gap:4px;">
+      <td><table><tr>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="Angular" src="https://cdn.simpleicons.org/angular/DD0031" width="22" height="22" title="Angular" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-angular-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-angular.svg">
             <img alt="Angular" src="assets/tech-angular.svg" height="20" style="vertical-align:middle"/>
           </picture>
-        </span>
-        <span style="display:inline-flex;align-items:center;gap:4px;">
+        </span></td>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="React" src="https://cdn.simpleicons.org/react/61DAFB" width="22" height="22" title="React" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-react-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-react.svg">
             <img alt="React" src="assets/tech-react.svg" height="20" style="vertical-align:middle"/>
           </picture>
-        </span>
-                <span style="display:inline-flex;align-items:center;gap:4px;">
-          <img alt="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="22" height="22" title="Tailwind CSS" style="vertical-align:middle;"/>
+        </span></td>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="GSAP" src="https://cdn.simpleicons.org/greensock/88CE02" width="22" height="22" title="GSAP" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
-            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-tailwindcss-white.svg">
-            <source media="(prefers-color-scheme: light)" srcset="assets/tech-tailwindcss.svg">
-            <img alt="Tailwind CSS" src="assets/tech-tailwindcss.svg" height="20" style="vertical-align:middle"/>
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-gsap-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-gsap.svg">
+            <img alt="GSAP" src="assets/tech-gsap.svg" height="20" style="vertical-align:middle"/>
           </picture>
-        </span>
-      </td>
+        </span></td>
+      </tr></table></td>
     </tr>
     <tr>
       <td><strong>Backend</strong></td>
-      <td style="display:flex;gap:12px;align-items:center;flex-wrap:wrap;">
-        <span style="display:inline-flex;align-items:center;gap:4px;">
+      <td><table><tr>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff">
             <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000">
@@ -121,143 +121,143 @@
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-express.svg">
             <img alt="Express" src="assets/tech-express.svg" height="20" style="vertical-align:middle"/>
           </picture>
-        </span>
-        <span style="display:inline-flex;align-items:center;gap:4px;">
+        </span></td>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="Node.js" src="https://cdn.simpleicons.org/nodedotjs/339933" width="22" height="22" title="Node.js" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-nodejs-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-nodejs.svg">
             <img alt="Node.js" src="assets/tech-nodejs.svg" height="20" style="vertical-align:middle"/>
           </picture>
-        </span>
-        <span style="display:inline-flex;align-items:center;gap:4px;">
+        </span></td>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="Spring" src="https://cdn.simpleicons.org/spring/6DB33F" width="22" height="22" title="Spring" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-spring-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-spring.svg">
             <img alt="Spring" src="assets/tech-spring.svg" height="20" style="vertical-align:middle"/>
           </picture>
-        </span>
-        <span style="display:inline-flex;align-items:center;gap:4px;">
+        </span></td>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="Django" src="https://cdn.simpleicons.org/django/092E20" width="22" height="22" title="Django" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-django-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-django.svg">
             <img alt="Django" src="assets/tech-django.svg" height="20" style="vertical-align:middle"/>
           </picture>
-        </span>
-      </td>
+        </span></td>
+      </tr></table></td>
     </tr>
     <tr>
       <td><strong>Databases</strong></td>
-      <td style="display:flex;gap:12px;align-items:center;flex-wrap:wrap;">
-        <span style="display:inline-flex;align-items:center;gap:4px;">
+      <td><table><tr>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="MongoDB" src="https://cdn.simpleicons.org/mongodb/47A248" width="22" height="22" title="MongoDB" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-mongodb-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-mongodb.svg">
             <img alt="MongoDB" src="assets/tech-mongodb.svg" height="20" style="vertical-align:middle"/>
           </picture>
-        </span>
-        <!-- <span style="display:inline-flex;align-items:center;gap:4px;">
+        </span></td>
+        <!-- <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="PostgreSQL" src="https://cdn.simpleicons.org/postgresql/4169E1" width="22" height="22" title="PostgreSQL" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-postgresql-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-postgresql.svg">
             <img alt="PostgreSQL" src="assets/tech-postgresql.svg" height="20" style="vertical-align:middle"/>
           </picture>
-        </span> -->
-        <span style="display:inline-flex;align-items:center;gap:4px;">
+        </span></td> -->
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="Oracle" src="assets/oraclesql.png" width="22" height="22" title="Oracle" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-oracle-sql-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-oracle-sql.svg">
             <img alt="Oracle SQL" src="assets/tech-oracle-sql.svg" height="20" style="vertical-align:middle"/>
           </picture>
-        </span>
-        <span style="display:inline-flex;align-items:center;gap:4px;">
+        </span></td>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="DBeaver" src="https://cdn.simpleicons.org/dbeaver/2F6BFF" width="22" height="22" title="DBeaver" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-dbeaver-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-dbeaver.svg">
             <img alt="DBeaver" src="assets/tech-dbeaver.svg" height="20" style="vertical-align:middle"/>
           </picture>
-        </span>
-      </td>
+        </span></td>
+      </tr></table></td>
     </tr>
     <tr>
       <td><strong>DevOps</strong></td>
-      <td style="display:flex;gap:12px;align-items:center;flex-wrap:wrap;">
-        <span style="display:inline-flex;align-items:center;gap:4px;">
+      <td><table><tr>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="Docker" src="https://cdn.simpleicons.org/docker/2496ED" width="22" height="22" title="Docker" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-docker-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-docker.svg">
             <img alt="Docker" src="assets/tech-docker.svg" height="20" style="vertical-align:middle"/>
           </picture>
-        </span>
-        <span style="display:inline-flex;align-items:center;gap:4px;">
+        </span></td>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="Proxmox" src="https://cdn.simpleicons.org/proxmox/e57000" width="22" height="22" title="Proxmox" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-proxmox-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-proxmox.svg">
             <img alt="Proxmox" src="assets/tech-proxmox.svg" height="20" style="vertical-align:middle"/>
           </picture>
-        </span>
-        <span style="display:inline-flex;align-items:center;gap:4px;">
+        </span></td>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="Jenkins" src="https://cdn.simpleicons.org/jenkins/D24939" width="22" height="22" title="Jenkins" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-jenkins-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-jenkins.svg">
             <img alt="Jenkins" src="assets/tech-jenkins.svg" height="20" style="vertical-align:middle"/>
           </picture>
-        </span>
-        <span style="display:inline-flex;align-items:center;gap:4px;">
+        </span></td>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="Git" src="https://cdn.simpleicons.org/git/F05032" width="22" height="22" title="Git" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-git-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-git.svg">
             <img alt="Git" src="assets/tech-git.svg" height="20" style="vertical-align:middle"/>
           </picture>
-        </span>
-      </td>
+        </span></td>
+      </tr></table></td>
     </tr>
     <tr>
       <td><strong>Observability</strong></td>
-      <td style="display:flex;gap:12px;align-items:center;flex-wrap:wrap;">
-        <span style="display:inline-flex;align-items:center;gap:4px;">
+      <td><table><tr>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="Prometheus" src="https://cdn.simpleicons.org/prometheus/E6522C" width="22" height="22" title="Prometheus" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-prometheus-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-prometheus.svg">
             <img alt="Prometheus" src="assets/tech-prometheus.svg" height="20" style="vertical-align:middle"/>
           </picture>
-        </span>
-        <span style="display:inline-flex;align-items:center;gap:4px;">
+        </span></td>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="Grafana" src="https://cdn.simpleicons.org/grafana/F46800" width="22" height="22" title="Grafana" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-grafana-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-grafana.svg">
             <img alt="Grafana" src="assets/tech-grafana.svg" height="20" style="vertical-align:middle"/>
           </picture>
-        </span>
-        <span style="display:inline-flex;align-items:center;gap:4px;">
+        </span></td>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="Loki + Alloy" src="https://cdn.simpleicons.org/grafana/F46800" width="22" height="22" title="Loki + Alloy" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-loki-alloy-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-loki-alloy.svg">
             <img alt="Loki + Alloy" src="assets/tech-loki-alloy.svg" height="20" style="vertical-align:middle"/>
           </picture>
-        </span>
-        <span style="display:inline-flex;align-items:center;gap:4px;">
+        </span></td>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="k6" src="https://cdn.simpleicons.org/k6/7D64FF" width="22" height="22" title="k6" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-k6-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-k6.svg">
             <img alt="k6" src="assets/tech-k6.svg" height="20" style="vertical-align:middle"/>
           </picture>
-        </span>
-      </td>
+        </span></td>
+      </tr></table></td>
     </tr>
   </table>
 </details>
