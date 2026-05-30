@@ -17,20 +17,6 @@
     <tbody>
       <tr>
         <td>
-          <em><strong><a href="https://github.com/diegokoes/hsn-angular-node">HSN-Store</a></strong></em>
-        </td>
-        <td>
-          <img alt="Angular" src="https://cdn.simpleicons.org/angular/DD0031" width="22" height="22" title="Angular" style="margin-right:6px;vertical-align:middle;"/>
-          <picture style="display:inline-block;margin:0">
-            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff">
-            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000">
-            <img alt="Express" src="https://cdn.simpleicons.org/express/000000" width="22" height="22" title="Express" style="margin-right:6px;vertical-align:middle;"/>
-          </picture>
-          <img alt="MongoDB" src="https://cdn.simpleicons.org/mongodb/47A248" width="22" height="22" title="MongoDB" style="vertical-align:middle;"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
           <em><strong><a href="https://github.com/diegokoes/hsn-react-node">HSN-Store</a></strong></em>
         </td>
         <td>
@@ -41,6 +27,14 @@
             <img alt="Express" src="https://cdn.simpleicons.org/express/000000" width="22" height="22" title="Express" style="margin-right:6px;vertical-align:middle;"/>
           </picture>
           <img alt="MongoDB" src="https://cdn.simpleicons.org/mongodb/47A248" width="22" height="22" title="MongoDB" style="vertical-align:middle;"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <em><strong>Parallax-Sports</strong></em>
+        </td>
+        <td>
+          <a href="https://tfg-avellaneda-25-26.github.io/parallax-sports-docs/">DOCS</a>
         </td>
       </tr>
     </tbody>
@@ -68,7 +62,7 @@
     <tr><td colspan="4" align="left"><strong>Udemy</strong></td></tr>
     <tr><td><em><strong><a href="https://github.com/diegokoes/Courses/tree/main/Udemy/Angular_Complete_Guide">Angular — The Complete Guide</a></strong></em></td><td>56</td><td>Pipes, Inyección de Dependencias, Observables, Formularios, Databinding, Autenticación, Protección, Signals, Gestión de estado...</td><td>En Progreso</td></tr>
     <tr><td colspan="4" align="left"><strong>EDX</strong></td></tr>
-    <tr><td><em><strong><a href="https://www.edx.org/learn/computer-science/the-linux-foundation-introduction-to-jenkins">Introducction to Jenkins</a></strong></em></td><td>30</td><td>Flujos de trabajo CI/CD usando servidor de automatización Jenkins</td><td>Completado</td></tr>
+    <tr><td><em><strong><a href="https://www.edx.org/certificates/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools?index=product&queryId=79fba2c89bd09f81a6401a4c57ef92ed&position=1">Certificate Introduction to DevOps: Practices and Tools</a></strong></em></td><td>48</td><td>SRE, IaC, Observabilidad, Jenkins (jobs, seguridad, pipeline...), Kubernetes y OpenFaaS</td><td>Completado</td></tr>
     <tr><td colspan="4" align="left"><strong><a href="https://github.com/diegokoes/Courses/tree/main/OpenWebinars">OpenWebinars</a></strong></td></tr>
   </table>
 </details>
