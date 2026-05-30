@@ -223,6 +223,43 @@
         </span>
       </td>
     </tr>
+    <tr>
+      <td><strong>Observabilidad</strong></td>
+      <td style="display:flex;gap:12px;align-items:center;flex-wrap:wrap;">
+        <span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="Prometheus" src="https://cdn.simpleicons.org/prometheus/E6522C" width="22" height="22" title="Prometheus" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-prometheus-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-prometheus.svg">
+            <img alt="Prometheus" src="assets/tech-prometheus.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span>
+        <span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="Grafana" src="https://cdn.simpleicons.org/grafana/F46800" width="22" height="22" title="Grafana" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-grafana-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-grafana.svg">
+            <img alt="Grafana" src="assets/tech-grafana.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span>
+        <span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="Loki + Alloy" src="https://cdn.simpleicons.org/grafana/F46800" width="22" height="22" title="Loki + Alloy" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-loki-alloy-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-loki-alloy.svg">
+            <img alt="Loki + Alloy" src="assets/tech-loki-alloy.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span>
+        <span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="k6" src="https://cdn.simpleicons.org/k6/7D64FF" width="22" height="22" title="k6" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-k6-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-k6.svg">
+            <img alt="k6" src="assets/tech-k6.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span>
+      </td>
+    </tr>
   </table>
 </details>
 <details>
