@@ -18,20 +18,6 @@
     <tbody>
       <tr>
         <td>
-          <em><strong><a href="https://github.com/diegokoes/hsn-react-node">HSN-Store</a></strong></em>
-        </td>
-        <td>
-          <img alt="React" src="https://cdn.simpleicons.org/react/61DAFB" width="22" height="22" title="React" style="margin-right:6px;vertical-align:middle;"/>
-          <picture style="display:inline-block;margin:0">
-            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff">
-            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000">
-            <img alt="Express" src="https://cdn.simpleicons.org/express/000000" width="22" height="22" title="Express" style="margin-right:6px;vertical-align:middle;"/>
-          </picture>
-          <img alt="MongoDB" src="https://cdn.simpleicons.org/mongodb/47A248" width="22" height="22" title="MongoDB" style="vertical-align:middle;"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
           <em><strong>Parallax-Sports</strong></em>
         </td>
         <td>
@@ -242,11 +228,11 @@
           </picture>
         </span></td>
         <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
-          <img alt="Loki + Alloy" src="https://cdn.simpleicons.org/grafana/F46800" width="22" height="22" title="Loki + Alloy" style="vertical-align:middle;"/>
+          <img alt="Loki" src="https://cdn.simpleicons.org/grafana/F46800" width="22" height="22" title="Loki" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-loki-alloy-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-loki-alloy.svg">
-            <img alt="Loki + Alloy" src="assets/tech-loki-alloy.svg" height="20" style="vertical-align:middle"/>
+            <img alt="Loki" src="assets/tech-loki-alloy.svg" height="20" style="vertical-align:middle"/>
           </picture>
         </span></td>
         <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
