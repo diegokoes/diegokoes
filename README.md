@@ -80,7 +80,7 @@
   <table>
     <tr>
       <td><strong>Frontend</strong></td>
-      <td><table><tr>
+      <td><table border="0" cellspacing="0"><tr>
         <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="Angular" src="https://cdn.simpleicons.org/angular/DD0031" width="22" height="22" title="Angular" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
@@ -109,7 +109,7 @@
     </tr>
     <tr>
       <td><strong>Backend</strong></td>
-      <td><table><tr>
+      <td><table border="0" cellspacing="0"><tr>
         <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff">
@@ -150,7 +150,7 @@
     </tr>
     <tr>
       <td><strong>Databases</strong></td>
-      <td><table><tr>
+      <td><table border="0" cellspacing="0"><tr>
         <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="MongoDB" src="https://cdn.simpleicons.org/mongodb/47A248" width="22" height="22" title="MongoDB" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
@@ -187,7 +187,7 @@
     </tr>
     <tr>
       <td><strong>DevOps</strong></td>
-      <td><table><tr>
+      <td><table border="0" cellspacing="0"><tr>
         <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="Docker" src="https://cdn.simpleicons.org/docker/2496ED" width="22" height="22" title="Docker" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
@@ -224,7 +224,7 @@
     </tr>
     <tr>
       <td><strong>Observability</strong></td>
-      <td><table><tr>
+      <td><table border="0" cellspacing="0"><tr>
         <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="Prometheus" src="https://cdn.simpleicons.org/prometheus/E6522C" width="22" height="22" title="Prometheus" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
