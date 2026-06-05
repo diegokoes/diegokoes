@@ -307,6 +307,45 @@
   </picture></span></summary>
   <br>
 <!--START_SECTION:waka_es-->
- Última actualización el 05/06/2026 07:23:38 UTC
+**Soy nocturno 🦉** 
+
+```text
+🌞 Mañana   176 commits  ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+🌆 Día      711 commits  ████████░░░░░░░░░░░░░░░░░   30.57 %
+🌃 Tarde   1138 commits  ████████████░░░░░░░░░░░░░   48.93 %
+🌙 Noche    301 commits  ███░░░░░░░░░░░░░░░░░░░░░░   12.94 %```
+
+
+📊 **Mi actividad semanal** 
+
+```text
+🕑︎ Time Zone: Europa/Madrid
+
+💬 Lenguajes: 
+Markdown                 2 hrs 50 mins       ███████████████░░░░░░░░░░   58.42 % 
+Other                    52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Lua                      49 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Java                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+
+🔥 Editores: 
+VS Code                  3 hrs 41 mins       ███████████████████░░░░░░   76.16 % 
+Obsidian                 1 hr                █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Claude Code              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+
+🐱‍💻 Proyectos: 
+dotfiles                 1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   32.69 % 
+programming              1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   29.61 % 
+obsidian_programming     56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+diegokoes                30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+examen                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+
+💻 Sistemas Operativos: 
+Linux                    4 hrs 44 mins       ████████████████████████░   97.57 % 
+Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+```
+
+
+ Última actualización el 05/06/2026 12:55:14 UTC
 <!--END_SECTION:waka_es-->
 </details>
