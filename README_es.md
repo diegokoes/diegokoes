@@ -322,31 +322,31 @@
 🕑︎ Time Zone: Europa/Madrid
 
 💬 Lenguajes: 
-Markdown                 2 hrs               ██████████████░░░░░░░░░░░   57.88 % 
-HTML                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Lua                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-TOML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Markdown                 1 hr 16 mins        █████████████░░░░░░░░░░░░   50.76 % 
+HTML                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+Lua                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+TOML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 
 🔥 Editores: 
-VS Code                  2 hrs 43 mins       ████████████████████░░░░░   78.54 % 
-Obsidian                 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Claude Code              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+VS Code                  2 hrs 1 min         ████████████████████░░░░░   80.80 % 
+Obsidian                 20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Claude Code              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+IntelliJ IDEA            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 🐱‍💻 Proyectos: 
-programming              1 hr 31 mins        ███████████░░░░░░░░░░░░░░   43.98 % 
-obsidian_programming     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-formatter certificate    33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-dotfiles                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-code                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+programming              53 mins             █████████░░░░░░░░░░░░░░░░   35.56 % 
+formatter certificate    33 mins             ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+dotfiles                 25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+obsidian_programming     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+toolu_bdrk_014gsNFGTwVyar6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 💻 Sistemas Operativos: 
-Linux                    2 hrs 46 mins       ████████████████████░░░░░   80.23 % 
-Windows                  41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Linux                    1 hr 55 mins        ███████████████████░░░░░░   77.26 % 
+Windows                  34 mins             ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
 ```
 
 
- Última actualización el 10/06/2026 00:31:53 UTC
+ Última actualización el 10/06/2026 07:23:04 UTC
 <!--END_SECTION:waka_es-->
 </details>
