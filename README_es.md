@@ -322,30 +322,29 @@
 🕑︎ Time Zone: Europa/Madrid
 
 💬 Lenguajes: 
-HTML                     27 mins             ████████░░░░░░░░░░░░░░░░░   30.58 % 
-Markdown                 16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Lua                      15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Other                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-TOML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Markdown                 16 mins             ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+Lua                      15 mins             ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+Other                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+TOML                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Java                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 🔥 Editores: 
-VS Code                  1 hr 18 mins        ██████████████████████░░░   86.84 % 
-Obsidian                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-IntelliJ IDEA            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+VS Code                  44 mins             ████████████████████░░░░░   78.86 % 
+Obsidian                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+IntelliJ IDEA            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
 
 🐱‍💻 Proyectos: 
-formatter certificate    33 mins             █████████░░░░░░░░░░░░░░░░   37.64 % 
-dotfiles                 25 mins             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-obsidian_programming     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-toolu_bdrk_014gsNFGTwVyar6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-programming              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+dotfiles                 25 mins             ███████████░░░░░░░░░░░░░░   45.14 % 
+obsidian_programming     10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+toolu_bdrk_014gsNFGTwVyar6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+programming              5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Proyecto desconocido          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
 
 💻 Sistemas Operativos: 
-Linux                    56 mins             ████████████████░░░░░░░░░   62.28 % 
-Windows                  34 mins             █████████░░░░░░░░░░░░░░░░   37.72 % 
+Linux                    56 mins             █████████████████████████   100.00 % 
 ```
 
 
- Última actualización el 13/06/2026 00:34:04 UTC
+ Última actualización el 13/06/2026 07:14:17 UTC
 <!--END_SECTION:waka_es-->
 </details>
