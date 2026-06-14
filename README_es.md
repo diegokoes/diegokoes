@@ -322,29 +322,22 @@
 🕑︎ Time Zone: Europa/Madrid
 
 💬 Lenguajes: 
-Markdown                 16 mins             ███████░░░░░░░░░░░░░░░░░░   29.40 % 
-Lua                      15 mins             ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-Other                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-TOML                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Java                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Markdown                 10 mins             ███████████████████████░░   91.56 % 
+Git                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
 
 🔥 Editores: 
-VS Code                  44 mins             ████████████████████░░░░░   78.86 % 
-Obsidian                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-IntelliJ IDEA            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Obsidian                 8 mins              ███████████████████░░░░░░   77.96 % 
+VS Code                  2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
 
 🐱‍💻 Proyectos: 
-dotfiles                 25 mins             ███████████░░░░░░░░░░░░░░   45.14 % 
-obsidian_programming     10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-toolu_bdrk_014gsNFGTwVyar6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-programming              5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Proyecto desconocido          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+obsidian_programming     10 mins             ████████████████████████░   96.28 % 
+programming              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 💻 Sistemas Operativos: 
-Linux                    56 mins             █████████████████████████   100.00 % 
+Linux                    10 mins             █████████████████████████   100.00 % 
 ```
 
 
- Última actualización el 14/06/2026 00:30:47 UTC
+ Última actualización el 14/06/2026 07:31:19 UTC
 <!--END_SECTION:waka_es-->
 </details>
