@@ -324,22 +324,19 @@
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 10 mins             ███████████████████████░░   91.56 % 
-Git                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Obsidian                 8 mins              ███████████████████░░░░░░   77.96 % 
-VS Code                  2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-obsidian_programming     10 mins             ████████████████████████░   96.28 % 
-programming              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/06/2026 00:32:35 UTC
+ Last Updated on 15/06/2026 07:50:00 UTC
 <!--END_SECTION:waka-->
 </details>
