@@ -322,19 +322,19 @@
 🕑︎ Time Zone: Europa/Madrid
 
 💬 Lenguajes: 
-Sin actividad registrada esta semana
+TypeScript               2 mins              █████████████████████████   100.00 % 
 
 🔥 Editores: 
-Sin actividad registrada esta semana
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Proyectos: 
-Sin actividad registrada esta semana
+spfx-wiki-publisher      2 mins              █████████████████████████   100.00 % 
 
 💻 Sistemas Operativos: 
-Sin actividad registrada esta semana
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 
- Última actualización el 17/06/2026 00:33:29 UTC
+ Última actualización el 17/06/2026 07:42:55 UTC
 <!--END_SECTION:waka_es-->
 </details>
