@@ -324,19 +324,31 @@
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-TypeScript               2 mins              █████████████████████████   100.00 % 
+Markdown                 2 hrs 16 mins       ████████████░░░░░░░░░░░░░   48.42 % 
+TypeScript               44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+SQL                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Docker                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+Claude Code              3 hrs 37 mins       ███████████████████░░░░░░   77.11 % 
+VS Code                  53 mins             █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Zed                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-spfx-wiki-publisher      2 mins              █████████████████████████   100.00 % 
+tachy                    3 hrs 51 mins       █████████████████████░░░░   82.18 % 
+programming              42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+spfx-wiki-publisher      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+parallax-sports-spring   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Linux                    4 hrs 39 mins       █████████████████████████   99.19 % 
+Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 
 
- Last Updated on 21/06/2026 00:31:44 UTC
+ Last Updated on 21/06/2026 07:33:25 UTC
 <!--END_SECTION:waka-->
 </details>
