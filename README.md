@@ -324,31 +324,31 @@
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 2 hrs 16 mins       ████████████░░░░░░░░░░░░░   48.42 % 
-TypeScript               44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-SQL                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Docker                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Markdown                 3 hrs 24 mins       ███████████░░░░░░░░░░░░░░   43.03 % 
+TypeScript               1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+YAML                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+SQL                      49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Docker                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 37 mins       ███████████████████░░░░░░   77.11 % 
-VS Code                  53 mins             █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Zed                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Claude Code              5 hrs 33 mins       ██████████████████░░░░░░░   70.21 % 
+VS Code                  2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+Zed                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-tachy                    3 hrs 51 mins       █████████████████████░░░░   82.18 % 
-programming              42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-spfx-wiki-publisher      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-parallax-sports-spring   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+tachy                    6 hrs 43 mins       █████████████████████░░░░   85.05 % 
+programming              56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+dotfiles                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+spfx-wiki-publisher      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 Operating System: 
-Linux                    4 hrs 39 mins       █████████████████████████   99.19 % 
-Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Linux                    7 hrs 52 mins       █████████████████████████   99.52 % 
+Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 
 
- Last Updated on 22/06/2026 00:32:24 UTC
+ Last Updated on 22/06/2026 07:51:50 UTC
 <!--END_SECTION:waka-->
 </details>
