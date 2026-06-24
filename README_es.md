@@ -322,31 +322,32 @@
 🕑︎ Time Zone: Europa/Madrid
 
 💬 Lenguajes: 
-Markdown                 3 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   36.63 % 
-TypeScript               1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-YAML                     1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Other                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-SQL                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Markdown                 3 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.84 % 
+TypeScript               1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+YAML                     1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Other                    1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+SQL                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
 
 🔥 Editores: 
-Claude Code              5 hrs 33 mins       ██████████████░░░░░░░░░░░   56.56 % 
-VS Code                  3 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   40.56 % 
-Zed                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Claude Code              5 hrs 33 mins       █████████████░░░░░░░░░░░░   52.10 % 
+VS Code                  4 hrs 48 mins       ███████████░░░░░░░░░░░░░░   45.06 % 
+Zed                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Obsidian                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Proyectos: 
-tachy                    7 hrs 46 mins       ████████████████████░░░░░   79.28 % 
-programming              56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-services                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-src                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-dotfiles                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+tachy                    8 hrs 5 mins        ███████████████████░░░░░░   75.97 % 
+programming              56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+services                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+src                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+repo                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 💻 Sistemas Operativos: 
-Linux                    7 hrs 52 mins       ████████████████████░░░░░   80.16 % 
-Windows                  1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+Linux                    7 hrs 52 mins       ██████████████████░░░░░░░   73.84 % 
+Windows                  2 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   26.16 % 
 ```
 
 
- Última actualización el 24/06/2026 00:25:15 UTC
+ Última actualización el 24/06/2026 07:06:13 UTC
 <!--END_SECTION:waka_es-->
 </details>
