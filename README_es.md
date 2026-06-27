@@ -322,32 +322,32 @@
 🕑︎ Time Zone: Europa/Madrid
 
 💬 Lenguajes: 
-Markdown                 6 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   38.80 % 
-TypeScript               2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-Other                    1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-YAML                     1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-SQL                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Markdown                 6 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   38.22 % 
+TypeScript               3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+Other                    1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+YAML                     1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+SQL                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 
 🔥 Editores: 
-Claude Code              7 hrs 5 mins        ███████████░░░░░░░░░░░░░░   45.59 % 
-VS Code                  6 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.18 % 
-Obsidian                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Zed                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Claude Code              7 hrs 34 mins       ████████████░░░░░░░░░░░░░   47.25 % 
+VS Code                  6 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   41.00 % 
+Obsidian                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Zed                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Proyectos: 
-tachy                    10 hrs 55 mins      ██████████████████░░░░░░░   70.22 % 
-Proyecto desconocido          1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-programming              59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-services                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-toolu_018VoyoBpz7z1tDTCEY22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+tachy                    11 hrs 24 mins      ██████████████████░░░░░░░   71.19 % 
+Proyecto desconocido          1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+programming              59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+services                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+toolu_018VoyoBpz7z1tDTCEY22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 💻 Sistemas Operativos: 
-Linux                    10 hrs 7 mins       ████████████████░░░░░░░░░   65.01 % 
-Windows                  5 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   34.99 % 
+Linux                    10 hrs 35 mins      █████████████████░░░░░░░░   66.13 % 
+Windows                  5 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   33.87 % 
 ```
 
 
- Última actualización el 27/06/2026 00:28:55 UTC
+ Última actualización el 27/06/2026 07:00:39 UTC
 <!--END_SECTION:waka_es-->
 </details>
