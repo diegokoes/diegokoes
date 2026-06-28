@@ -324,32 +324,31 @@
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 6 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   38.22 % 
-TypeScript               3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Other                    1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-YAML                     1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-SQL                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Markdown                 3 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   33.88 % 
+TypeScript               2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
+Other                    1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+YAML                     1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+SQL                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 34 mins       ████████████░░░░░░░░░░░░░   47.25 % 
-VS Code                  6 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   41.00 % 
-Obsidian                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Zed                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+VS Code                  5 hrs 42 mins       █████████████░░░░░░░░░░░░   50.25 % 
+Claude Code              3 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   34.75 % 
+Obsidian                 1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Zed                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🐱‍💻 Projects: 
-tachy                    11 hrs 24 mins      ██████████████████░░░░░░░   71.19 % 
-Unknown Project          1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-programming              59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-services                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-toolu_018VoyoBpz7z1tDTCEY22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+tachy                    7 hrs 32 mins       █████████████████░░░░░░░░   66.41 % 
+Unknown Project          1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+services                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+toolu_018VoyoBpz7z1tDTCEY22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+programming              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 💻 Operating System: 
-Linux                    10 hrs 35 mins      █████████████████░░░░░░░░   66.13 % 
-Windows                  5 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   33.87 % 
+Linux                    5 hrs 56 mins       █████████████░░░░░░░░░░░░   52.25 % 
+Windows                  5 hrs 25 mins       ████████████░░░░░░░░░░░░░   47.75 % 
 ```
 
 
- Last Updated on 28/06/2026 00:27:58 UTC
+ Last Updated on 28/06/2026 07:16:59 UTC
 <!--END_SECTION:waka-->
 </details>
