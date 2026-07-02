@@ -324,30 +324,30 @@
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 2 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   38.64 % 
-TypeScript               1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
-Other                    41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-SQL                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+TypeScript               2 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   34.09 % 
+Markdown                 1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+Other                    42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+JSON                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+SQL                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   36.47 % 
-Claude Code              2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   35.81 % 
-Obsidian                 1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+Claude Code              3 hrs 9 mins        █████████████░░░░░░░░░░░░   51.08 % 
+VS Code                  2 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   34.61 % 
+Obsidian                 53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
 
 🐱‍💻 Projects: 
-tachy                    3 hrs 55 mins       ████████████████░░░░░░░░░   65.10 % 
-Unknown Project          1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   26.70 % 
-toolu_018VoyoBpz7z1tDTCEY22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Tier-Based Queue Handling4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-programming              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+tachy                    4 hrs 49 mins       ███████████████████░░░░░░   77.97 % 
+Unknown Project          52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+toolu_018VoyoBpz7z1tDTCEY22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Tier-Based Queue Handling4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+programming              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 💻 Operating System: 
-Windows                  3 hrs 10 mins       █████████████░░░░░░░░░░░░   52.45 % 
-Linux                    2 hrs 52 mins       ████████████░░░░░░░░░░░░░   47.55 % 
+Linux                    3 hrs 55 mins       ████████████████░░░░░░░░░   63.36 % 
+Windows                  2 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.64 % 
 ```
 
 
- Last Updated on 02/07/2026 00:29:59 UTC
+ Last Updated on 02/07/2026 08:41:11 UTC
 <!--END_SECTION:waka-->
 </details>
