@@ -324,30 +324,30 @@
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-TypeScript               5 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-Markdown                 5 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-Svelte                   4 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-JSON                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+TypeScript               5 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   29.12 % 
+Markdown                 5 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   26.02 % 
+Svelte                   4 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+JSON                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 5 mins       ███████████████░░░░░░░░░░   60.59 % 
-Claude Code              5 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-Obsidian                 2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+VS Code                  12 hrs 4 mins       ████████████████░░░░░░░░░   62.61 % 
+Claude Code              4 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+Obsidian                 2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
 
 🐱‍💻 Projects: 
-tachy                    15 hrs 45 mins      ████████████████████░░░░░   78.91 % 
-Unknown Project          2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-formatter certificate    1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-obsidian_programming     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-Documents                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+tachy                    15 hrs 19 mins      ████████████████████░░░░░   79.43 % 
+Unknown Project          2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+formatter certificate    1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+obsidian_programming     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Documents                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 💻 Operating System: 
-Linux                    16 hrs 6 mins       ████████████████████░░░░░   80.64 % 
-Windows                  3 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Linux                    15 hrs 41 mins      ████████████████████░░░░░   81.33 % 
+Windows                  3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
 ```
 
 
- Last Updated on 14/07/2026 01:23:45 UTC
+ Last Updated on 14/07/2026 07:46:27 UTC
 <!--END_SECTION:waka-->
 </details>
