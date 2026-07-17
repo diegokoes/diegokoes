@@ -307,6 +307,44 @@
   </picture></span></summary>
   <br>
 <!--START_SECTION:waka_es-->
- Última actualización el 17/07/2026 07:51:37 UTC
+**Soy nocturno 🦉** 
+
+```text
+🌞 Mañana   193 commits  ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+🌆 Día      762 commits  ████████░░░░░░░░░░░░░░░░░   31.06 %
+🌃 Tarde   1189 commits  ████████████░░░░░░░░░░░░░   48.47 %
+🌙 Noche    309 commits  ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %```
+
+
+📊 **Mi actividad semanal** 
+
+```text
+🕑︎ Time Zone: Europa/Madrid
+
+💬 Lenguajes: 
+TypeScript               2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   37.46 % 
+Markdown                 1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+Svelte                   1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Bash                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+CSS                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+
+🔥 Editores: 
+VS Code                  5 hrs 13 mins       ███████████████████░░░░░░   75.06 % 
+Claude Code              1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+Obsidian                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+
+🐱‍💻 Proyectos: 
+tachy                    6 hrs 40 mins       ████████████████████████░   95.89 % 
+Documents                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+obsidian_programming     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Proyecto desconocido          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+💻 Sistemas Operativos: 
+Linux                    6 hrs 58 mins       █████████████████████████   99.98 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+```
+
+
+ Última actualización el 17/07/2026 13:02:35 UTC
 <!--END_SECTION:waka_es-->
 </details>
