@@ -322,30 +322,29 @@
 🕑︎ Time Zone: Europa/Madrid
 
 💬 Lenguajes: 
-Markdown                 51 mins             ████████████░░░░░░░░░░░░░   47.23 % 
-PowerShell               24 mins             ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-Other                    16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Svelte                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Markdown                 49 mins             █████████████████░░░░░░░░   66.87 % 
+Other                    15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+Svelte                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 
 🔥 Editores: 
-Obsidian                 51 mins             ████████████░░░░░░░░░░░░░   47.23 % 
-VS Code                  37 mins             █████████░░░░░░░░░░░░░░░░   34.30 % 
-Claude Code              20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+Obsidian                 49 mins             █████████████████░░░░░░░░   66.87 % 
+Claude Code              18 mins             ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+VS Code                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
 
 🐱‍💻 Proyectos: 
-Proyecto desconocido          1 hr 23 mins        ███████████████████░░░░░░   76.36 % 
-koes                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Downloads                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-tachy                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-dotfiles                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Proyecto desconocido          49 mins             █████████████████░░░░░░░░   66.87 % 
+koes                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+tachy                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Downloads                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+dotfiles                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 
 💻 Sistemas Operativos: 
-Windows                  1 hr 23 mins        ███████████████████░░░░░░   76.36 % 
-Linux                    25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+Windows                  49 mins             █████████████████░░░░░░░░   66.87 % 
+Linux                    24 mins             ████████░░░░░░░░░░░░░░░░░   33.13 % 
 ```
 
 
- Última actualización el 25/07/2026 01:44:30 UTC
+ Última actualización el 25/07/2026 07:49:57 UTC
 <!--END_SECTION:waka_es-->
 </details>
