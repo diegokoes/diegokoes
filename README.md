@@ -324,29 +324,19 @@
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 49 mins             █████████████████░░░░░░░░   66.87 % 
-Other                    15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-Svelte                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Markdown                 49 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 49 mins             █████████████████░░░░░░░░   66.87 % 
-Claude Code              18 mins             ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
-VS Code                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Obsidian                 49 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          49 mins             █████████████████░░░░░░░░   66.87 % 
-koes                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-tachy                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Downloads                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-dotfiles                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Unknown Project          49 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  49 mins             █████████████████░░░░░░░░   66.87 % 
-Linux                    24 mins             ████████░░░░░░░░░░░░░░░░░   33.13 % 
+Windows                  49 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/07/2026 01:54:34 UTC
+ Last Updated on 27/07/2026 09:28:36 UTC
 <!--END_SECTION:waka-->
 </details>
