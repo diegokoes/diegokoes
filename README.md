@@ -308,6 +308,8 @@
   <br>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-156%20hrs%2052%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -336,7 +338,13 @@ Unknown Project          49 mins             ███████████�
 Windows                  49 mins             █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 14:09:56 UTC
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 27/07/2026 19:11:01 UTC
 <!--END_SECTION:waka-->
 </details>
