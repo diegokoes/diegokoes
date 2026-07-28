@@ -324,25 +324,45 @@
 🕑︎ Time Zone: Europa/Madrid
 
 💬 Lenguajes: 
-Markdown                 49 mins             █████████████████████████   100.00 % 
+Markdown                 49 mins             █████████████████████████   99.69 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editores: 
-Obsidian                 49 mins             █████████████████████████   100.00 % 
+Obsidian                 49 mins             █████████████████████████   99.69 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🐱‍💻 Proyectos: 
-Proyecto desconocido          49 mins             █████████████████████████   100.00 % 
+Proyecto desconocido          49 mins             █████████████████████████   99.69 % 
+tachy                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Sistemas Operativos: 
-Windows                  49 mins             █████████████████████████   100.00 % 
+Windows                  49 mins             █████████████████████████   99.69 % 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 0 secs (0.31%)
+
+✍️ 0 lines written by AI, 27 lines written by hand (0.0% AI-written)
+
+🔤 96,771 Input Tokens, 1,713 Output Tokens
+
+💵 $0.36 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 154 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Última actualización el 28/07/2026 01:28:56 UTC
+ Última actualización el 28/07/2026 08:13:27 UTC
 <!--END_SECTION:waka_es-->
 </details>
