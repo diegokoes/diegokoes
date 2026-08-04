@@ -326,28 +326,29 @@
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Svelte                   1 hr 12 mins        ███████████████████░░░░░░   75.93 % 
-TypeScript               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Svelte                   1 hr 13 mins        █████████████████░░░░░░░░   69.08 % 
+TypeScript               22 mins             █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 36 mins        ███████████████████████░░   90.72 % 
+Zed                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
 
 🐱‍💻 Projects: 
-tachy                    1 hr 29 mins        ███████████████████████░░   93.37 % 
-Unknown Project          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+tachy                    1 hr 39 mins        ████████████████████████░   94.04 % 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 💻 Operating System: 
-Linux                    1 hr 29 mins        ███████████████████████░░   93.37 % 
-Windows                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Linux                    1 hr 39 mins        ████████████████████████░   94.04 % 
+Windows                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 26 mins (90.91%)
+⏱ AI Coding Time: 1 hr 26 mins (81.72%)
 
 ✍️ 82 lines written by AI, 3 lines written by hand (96.47% AI-written)
 
@@ -363,10 +364,10 @@ Github-Copilot           85 lines            ███████████�
 🤖 AI-Driven — 96.47% of written lines came from AI
 📄 Detailed Prompter — average 914 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 75.07% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 75.15% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/08/2026 01:24:42 UTC
+ Last Updated on 04/08/2026 08:18:22 UTC
 <!--END_SECTION:waka-->
 </details>
