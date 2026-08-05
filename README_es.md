@@ -307,7 +307,7 @@
   </picture></span></summary>
   <br>
 <!--START_SECTION:waka_es-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%2019%20mins-blue?style=social)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%2040%20mins-blue?style=social)
 
 **Soy nocturno 🦉** 
 
@@ -324,48 +324,51 @@
 🕑︎ Time Zone: Europa/Madrid
 
 💬 Lenguajes: 
-Svelte                   1 hr 13 mins        █████████████████░░░░░░░░   69.08 % 
-TypeScript               22 mins             █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Svelte                   35 mins             ██████████░░░░░░░░░░░░░░░   38.19 % 
+TypeScript               21 mins             ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+Lua                      18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 
 🔥 Editores: 
-VS Code                  1 hr 36 mins        ███████████████████████░░   90.72 % 
-Zed                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+VS Code                  1 hr 14 mins        ████████████████████░░░░░   79.96 % 
+Zed                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Obsidian                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
 
 🐱‍💻 Proyectos: 
-tachy                    1 hr 39 mins        ████████████████████████░   94.04 % 
-Proyecto desconocido          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+tachy                    59 mins             ████████████████░░░░░░░░░   64.19 % 
+dotfiles                 18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+obsidian_programming     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Proyecto desconocido          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 
 💻 Sistemas Operativos: 
-Linux                    1 hr 39 mins        ████████████████████████░   94.04 % 
-Windows                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Linux                    1 hr 26 mins        ███████████████████████░░   93.21 % 
+Windows                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 26 mins (81.72%)
+⏱ AI Coding Time: 56 mins (60.97%)
 
-✍️ 82 lines written by AI, 3 lines written by hand (96.47% AI-written)
+✍️ 37 lines written by AI, 2 lines written by hand (94.87% AI-written)
 
-🔤 80,969 Input Tokens, 77 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.24 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 19 AI Prompts
+🧠 4 AI Sessions, 8 AI Prompts
 
-Github-Copilot           85 lines            █████████████████████████   100.00 % 
+Github-Copilot           35 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.47% of written lines came from AI
-📄 Detailed Prompter — average 914 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 75.15% of changed lines were hand-edited
+🤖 AI-Driven — 94.87% of written lines came from AI
+📄 Detailed Prompter — average 1,152 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 87.02% of changed lines were hand-edited
 ```
 
 
- Última actualización el 05/08/2026 01:30:22 UTC
+ Última actualización el 05/08/2026 08:15:25 UTC
 <!--END_SECTION:waka_es-->
 </details>
