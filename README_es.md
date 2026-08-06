@@ -324,51 +324,49 @@
 🕑︎ Time Zone: Europa/Madrid
 
 💬 Lenguajes: 
-Svelte                   35 mins             ██████████░░░░░░░░░░░░░░░   38.19 % 
-TypeScript               21 mins             ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
-Lua                      18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Lua                      18 mins             ████████░░░░░░░░░░░░░░░░░   33.04 % 
+Svelte                   13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+TypeScript               9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Markdown                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+JSON                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
 
 🔥 Editores: 
-VS Code                  1 hr 14 mins        ████████████████████░░░░░   79.96 % 
-Zed                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Obsidian                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+VS Code                  38 mins             █████████████████░░░░░░░░   67.32 % 
+Zed                      9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Obsidian                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
 
 🐱‍💻 Proyectos: 
-tachy                    59 mins             ████████████████░░░░░░░░░   64.19 % 
-dotfiles                 18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-obsidian_programming     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Proyecto desconocido          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+tachy                    23 mins             ██████████░░░░░░░░░░░░░░░   41.60 % 
+dotfiles                 18 mins             ████████░░░░░░░░░░░░░░░░░   33.17 % 
+obsidian_programming     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Proyecto desconocido          6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
 
 💻 Sistemas Operativos: 
-Linux                    1 hr 26 mins        ███████████████████████░░   93.21 % 
-Windows                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Linux                    50 mins             ██████████████████████░░░   88.92 % 
+Windows                  6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 mins (60.97%)
+⏱ AI Coding Time: 21 mins (36.73%)
 
-✍️ 37 lines written by AI, 2 lines written by hand (94.87% AI-written)
+✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 8 AI Prompts
-
-Github-Copilot           35 lines            █████████████████████████   100.00 % 
+🧠 1 AI Sessions, 1 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.87% of written lines came from AI
-📄 Detailed Prompter — average 1,152 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 87.02% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 8,266 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Última actualización el 06/08/2026 01:27:27 UTC
+ Última actualización el 06/08/2026 08:14:20 UTC
 <!--END_SECTION:waka_es-->
 </details>
