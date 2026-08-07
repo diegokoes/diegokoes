@@ -307,66 +307,6 @@
   </picture></span></summary>
   <br>
 <!--START_SECTION:waka_es-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%2040%20mins-blue?style=social)
-
-**Soy nocturno 🦉** 
-
-```text
-🌞 Mañana   210 commits  ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-🌆 Día      813 commits  ████████░░░░░░░░░░░░░░░░░   31.55 %
-🌃 Tarde   1237 commits  ████████████░░░░░░░░░░░░░   48.00 %
-🌙 Noche    317 commits  ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %```
-
-
-📊 **Mi actividad semanal** 
-
-```text
-🕑︎ Time Zone: Europa/Madrid
-
-💬 Lenguajes: 
-Lua                      18 mins             ████████░░░░░░░░░░░░░░░░░   33.04 % 
-Svelte                   13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-TypeScript               9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Markdown                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-JSON                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-
-🔥 Editores: 
-VS Code                  38 mins             █████████████████░░░░░░░░   67.32 % 
-Zed                      9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Obsidian                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-
-🐱‍💻 Proyectos: 
-tachy                    23 mins             ██████████░░░░░░░░░░░░░░░   41.60 % 
-dotfiles                 18 mins             ████████░░░░░░░░░░░░░░░░░   33.17 % 
-obsidian_programming     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Proyecto desconocido          6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-
-💻 Sistemas Operativos: 
-Linux                    50 mins             ██████████████████████░░░   88.92 % 
-Windows                  6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 21 mins (36.73%)
-
-✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 8,266 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
-
-
- Última actualización el 06/08/2026 13:39:58 UTC
+ Última actualización el 07/08/2026 02:05:00 UTC
 <!--END_SECTION:waka_es-->
 </details>
