@@ -307,6 +307,64 @@
   </picture></span></summary>
   <br>
 <!--START_SECTION:waka_es-->
- Última actualización el 07/08/2026 02:05:00 UTC
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%2040%20mins-blue?style=social)
+
+**Soy nocturno 🦉** 
+
+```text
+🌞 Mañana   210 commits  ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+🌆 Día      813 commits  ████████░░░░░░░░░░░░░░░░░   31.55 %
+🌃 Tarde   1237 commits  ████████████░░░░░░░░░░░░░   48.00 %
+🌙 Noche    317 commits  ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %```
+
+
+📊 **Mi actividad semanal** 
+
+```text
+🕑︎ Time Zone: Europa/Madrid
+
+💬 Lenguajes: 
+Lua                      18 mins             █████████░░░░░░░░░░░░░░░░   37.16 % 
+Svelte                   13 mins             ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+TypeScript               9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+Markdown                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+
+🔥 Editores: 
+VS Code                  32 mins             ████████████████░░░░░░░░░   63.25 % 
+Zed                      9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+Obsidian                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+
+🐱‍💻 Proyectos: 
+tachy                    23 mins             ████████████░░░░░░░░░░░░░   46.79 % 
+dotfiles                 18 mins             █████████░░░░░░░░░░░░░░░░   37.31 % 
+obsidian_programming     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+
+💻 Sistemas Operativos: 
+Linux                    50 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 21 mins (41.31%)
+
+✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 8,266 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
+
+ Última actualización el 07/08/2026 06:59:09 UTC
 <!--END_SECTION:waka_es-->
 </details>
