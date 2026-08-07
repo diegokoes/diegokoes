@@ -308,67 +308,7 @@
   <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%2040%20mins-blue?style=social)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                210 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-🌆 Daytime                813 commits         ████████░░░░░░░░░░░░░░░░░   31.55 % 
-🌃 Evening                1237 commits        ████████████░░░░░░░░░░░░░   48.00 % 
-🌙 Night                  317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-Lua                      18 mins             ████████░░░░░░░░░░░░░░░░░   33.04 % 
-Svelte                   13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-TypeScript               9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Markdown                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-JSON                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-
-🔥 Editors: 
-VS Code                  38 mins             █████████████████░░░░░░░░   67.32 % 
-Zed                      9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Obsidian                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-
-🐱‍💻 Projects: 
-tachy                    23 mins             ██████████░░░░░░░░░░░░░░░   41.60 % 
-dotfiles                 18 mins             ████████░░░░░░░░░░░░░░░░░   33.17 % 
-obsidian_programming     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Unknown Project          6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-
-💻 Operating System: 
-Linux                    50 mins             ██████████████████████░░░   88.92 % 
-Windows                  6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 21 mins (36.73%)
-
-✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 8,266 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
-
-
- Last Updated on 06/08/2026 13:39:58 UTC
+ Last Updated on 07/08/2026 02:05:00 UTC
 <!--END_SECTION:waka-->
 </details>
