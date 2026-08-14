@@ -307,7 +307,7 @@
   </picture></span></summary>
   <br>
 <!--START_SECTION:waka_es-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-164%20hrs%2024%20mins-blue?style=social)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-167%20hrs%203%20mins-blue?style=social)
 
 **Soy nocturno 🦉** 
 
@@ -324,52 +324,54 @@
 🕑︎ Time Zone: Europa/Madrid
 
 💬 Lenguajes: 
-TypeScript               3 hrs 56 mins       ████████████████░░░░░░░░░   63.06 % 
-Svelte                   46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Markdown                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Other                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-SQL                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+TypeScript               5 hrs 23 mins       ██████████████░░░░░░░░░░░   57.44 % 
+Markdown                 1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Svelte                   1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+SQL                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editores: 
-Claude Code              5 hrs 25 mins       ██████████████████████░░░   86.85 % 
-VS Code                  45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Obsidian                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Claude Code              8 hrs 1 min         █████████████████████░░░░   85.46 % 
+VS Code                  1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Obsidian                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 🐱‍💻 Proyectos: 
-tachy                    5 hrs 30 mins       ██████████████████████░░░   88.16 % 
-scratchpad               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Proyecto desconocido          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+tachy                    8 hrs 21 mins       ██████████████████████░░░   89.10 % 
+scratchpad               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Proyecto desconocido          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+obsidian_programming     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Sistemas Operativos: 
-Linux                    6 hrs 4 mins        ████████████████████████░   97.11 % 
-Windows                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Linux                    8 hrs 55 mins       ████████████████████████░   95.14 % 
+Windows                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 44 mins (91.82%)
+⏱ AI Coding Time: 8 hrs 23 mins (89.33%)
 
-✍️ 3,056 lines written by AI, 2 lines written by hand (99.93% AI-written)
+✍️ 8,021 lines written by AI, 3 lines written by hand (99.96% AI-written)
 
-🔤 1,287,581 Input Tokens, 216,129 Output Tokens
+🔤 2,530,605 Input Tokens, 381,388 Output Tokens
 
-💵 $47.91 Estimated AI Cost This Week
+💵 $102.70 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 24 AI Prompts
+🧠 12 AI Sessions, 31 AI Prompts
 
-Opus                     3,062 lines         █████████████████████████   100.00 % 
+Opus                     8,308 lines         █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📄 Detailed Prompter — average 731 characters per prompt
+🤖 AI-Driven — 99.96% of written lines came from AI
+📄 Detailed Prompter — average 680 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.07% of changed lines were hand-edited
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 
- Última actualización el 14/08/2026 01:02:10 UTC
+ Última actualización el 14/08/2026 07:07:38 UTC
 <!--END_SECTION:waka_es-->
 </details>
