@@ -324,31 +324,31 @@
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Svelte                   7 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.60 % 
-TypeScript               7 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.36 % 
-Markdown                 5 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-Other                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-JavaScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Svelte                   10 hrs 53 mins      ██████████░░░░░░░░░░░░░░░   38.04 % 
+TypeScript               7 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+Markdown                 5 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+JavaScript               1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Other                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 29 mins      █████████████████████░░░░   85.37 % 
-VS Code                  3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Obsidian                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Copilot CLI              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Claude Code              22 hrs 56 mins      ████████████████████░░░░░   80.18 % 
+VS Code                  3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Copilot CLI              1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Obsidian                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🐱‍💻 Projects: 
-tachy                    22 hrs 39 mins      ███████████████████████░░   90.01 % 
-scratchpad               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Unknown Project          44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-hub                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-toolu_vrtx_01MmJmTWezbp4y5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+tachy                    26 hrs 2 mins       ███████████████████████░░   91.03 % 
+scratchpad               1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Unknown Project          36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+hub                      34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+toolu_vrtx_01MmJmTWezbp4y5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Linux                    23 hrs 50 mins      ████████████████████████░   94.76 % 
-Windows                  1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Linux                    27 hrs 25 mins      ████████████████████████░   95.84 % 
+Windows                  1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 ```
 
 
- Last Updated on 20/08/2026 00:37:07 UTC
+ Last Updated on 20/08/2026 06:26:17 UTC
 <!--END_SECTION:waka-->
 </details>
