@@ -324,29 +324,28 @@
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 3 hrs 27 mins       ████████████░░░░░░░░░░░░░   47.19 % 
-TypeScript               2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   30.75 % 
-Svelte                   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Ezhil                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Markdown                 2 hrs 46 mins       ███████████░░░░░░░░░░░░░░   43.78 % 
+TypeScript               1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+Svelte                   1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   26.27 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 54 mins       ████████████████████░░░░░   80.44 % 
-Zed                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Copilot CLI              36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Obsidian                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Claude Code              5 hrs 56 mins       ████████████████████████░   94.04 % 
+Copilot CLI              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Obsidian                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-tachy                    7 hrs 11 mins       █████████████████████████   98.11 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-scratchpad               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+tachy                    6 hrs 11 mins       ████████████████████████░   97.99 % 
+Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 💻 Operating System: 
-Linux                    7 hrs 12 mins       █████████████████████████   98.27 % 
-Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Linux                    6 hrs 11 mins       ████████████████████████░   97.99 % 
+Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 ```
 
 
- Last Updated on 14/09/2026 02:16:11 UTC
+ Last Updated on 14/09/2026 11:12:41 UTC
 <!--END_SECTION:waka-->
 </details>
