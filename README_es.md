@@ -322,28 +322,28 @@
 🕑︎ Time Zone: Europa/Madrid
 
 💬 Lenguajes: 
-Markdown                 2 hrs 53 mins       ███████████░░░░░░░░░░░░░░   42.58 % 
-Svelte                   2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.10 % 
-TypeScript               1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Markdown                 2 hrs 44 mins       ███████████░░░░░░░░░░░░░░   44.66 % 
+Svelte                   1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   31.51 % 
+TypeScript               1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editores: 
-Claude Code              6 hrs 6 mins        ███████████████████████░░   90.32 % 
-Copilot CLI              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Obsidian                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-Zed                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Claude Code              5 hrs 24 mins       ██████████████████████░░░   88.40 % 
+Copilot CLI              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Obsidian                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Zed                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🐱‍💻 Proyectos: 
-tachy                    6 hrs 31 mins       ████████████████████████░   96.40 % 
-Proyecto desconocido          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+tachy                    5 hrs 52 mins       ████████████████████████░   96.02 % 
+Proyecto desconocido          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 💻 Sistemas Operativos: 
-Linux                    6 hrs 31 mins       ████████████████████████░   96.40 % 
-Windows                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Linux                    5 hrs 52 mins       ████████████████████████░   96.02 % 
+Windows                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 ```
 
 
- Última actualización el 17/09/2026 02:19:34 UTC
+ Última actualización el 17/09/2026 10:38:04 UTC
 <!--END_SECTION:waka_es-->
 </details>
