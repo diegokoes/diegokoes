@@ -322,27 +322,27 @@
 🕑︎ Time Zone: Europa/Madrid
 
 💬 Lenguajes: 
-Markdown                 1 hr 37 mins        ████████████░░░░░░░░░░░░░   48.45 % 
-Svelte                   55 mins             ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-Other                    23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-TypeScript               23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Prolog                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Markdown                 1 hr 43 mins        ███████████░░░░░░░░░░░░░░   42.82 % 
+Svelte                   1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   30.42 % 
+TypeScript               38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Prolog                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editores: 
-Claude Code              3 hrs 1 min         ███████████████████████░░   90.05 % 
-Zed                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Obsidian                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Claude Code              3 hrs 41 mins       ███████████████████████░░   91.68 % 
+Zed                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Obsidian                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 🐱‍💻 Proyectos: 
-tachy                    3 hrs 14 mins       ████████████████████████░   96.52 % 
-Proyecto desconocido          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+tachy                    3 hrs 54 mins       ████████████████████████░   97.09 % 
+Proyecto desconocido          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 💻 Sistemas Operativos: 
-Linux                    3 hrs 14 mins       ████████████████████████░   96.52 % 
-Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Linux                    3 hrs 54 mins       ████████████████████████░   97.09 % 
+Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 ```
 
 
- Última actualización el 21/09/2026 02:16:10 UTC
+ Última actualización el 21/09/2026 11:24:15 UTC
 <!--END_SECTION:waka_es-->
 </details>
