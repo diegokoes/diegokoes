@@ -322,27 +322,26 @@
 🕑︎ Time Zone: Europa/Madrid
 
 💬 Lenguajes: 
-Markdown                 1 hr 43 mins        ███████████░░░░░░░░░░░░░░   42.82 % 
-Svelte                   1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   30.42 % 
-TypeScript               38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Prolog                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Markdown                 1 hr 31 mins        ████████████░░░░░░░░░░░░░   47.30 % 
+Other                    45 mins             ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+TypeScript               31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Svelte                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Prolog                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editores: 
-Claude Code              3 hrs 41 mins       ███████████████████████░░   91.68 % 
-Zed                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Obsidian                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Claude Code              3 hrs 8 mins        ████████████████████████░   97.16 % 
+Zed                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🐱‍💻 Proyectos: 
-tachy                    3 hrs 54 mins       ████████████████████████░   97.09 % 
-Proyecto desconocido          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+tachy                    3 hrs 12 mins       █████████████████████████   98.89 % 
+owo                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 💻 Sistemas Operativos: 
-Linux                    3 hrs 54 mins       ████████████████████████░   97.09 % 
-Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Linux                    3 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
- Última actualización el 23/09/2026 02:20:56 UTC
+ Última actualización el 23/09/2026 10:27:58 UTC
 <!--END_SECTION:waka_es-->
 </details>
