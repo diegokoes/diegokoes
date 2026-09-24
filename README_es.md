@@ -322,26 +322,29 @@
 🕑︎ Time Zone: Europa/Madrid
 
 💬 Lenguajes: 
-Markdown                 1 hr 31 mins        ████████████░░░░░░░░░░░░░   47.30 % 
-Other                    45 mins             ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-TypeScript               31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Svelte                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Prolog                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Markdown                 1 hr 27 mins        ██████████████░░░░░░░░░░░   57.91 % 
+Other                    45 mins             ████████░░░░░░░░░░░░░░░░░   30.13 % 
+TypeScript               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Prolog                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🔥 Editores: 
-Claude Code              3 hrs 8 mins        ████████████████████████░   97.16 % 
-Zed                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Claude Code              1 hr 56 mins        ███████████████████░░░░░░   77.00 % 
+Obsidian                 32 mins             █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Proyectos: 
-tachy                    3 hrs 12 mins       █████████████████████████   98.89 % 
-owo                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+tachy                    1 hr 56 mins        ███████████████████░░░░░░   77.04 % 
+Proyecto desconocido          19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+obsidian_programming     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+owo                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 💻 Sistemas Operativos: 
-Linux                    3 hrs 14 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 11 mins       ██████████████████████░░░   86.89 % 
+Windows                  19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
 ```
 
 
- Última actualización el 24/09/2026 02:09:04 UTC
+ Última actualización el 24/09/2026 10:44:53 UTC
 <!--END_SECTION:waka_es-->
 </details>
