@@ -322,32 +322,32 @@
 🕑︎ Time Zone: Europa/Madrid
 
 💬 Lenguajes: 
-Markdown                 3 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   36.84 % 
-Other                    2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.44 % 
-TypeScript               1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Svelte                   58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-PowerShell               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Markdown                 4 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   35.63 % 
+Other                    2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+Svelte                   2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+TypeScript               2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+PowerShell               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 
 🔥 Editores: 
-Claude Code              7 hrs 11 mins       ██████████████████████░░░   87.19 % 
-Obsidian                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Zed                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-Copilot                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Claude Code              10 hrs 36 mins      ███████████████████████░░   90.11 % 
+Obsidian                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Zed                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Copilot                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Proyectos: 
-tachy                    6 hrs 29 mins       ████████████████████░░░░░   78.83 % 
-obsidian_programming     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-DiegoManriqueOrtega      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-Proyecto desconocido          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-scratchpad               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+tachy                    9 hrs 47 mins       █████████████████████░░░░   83.17 % 
+obsidian_programming     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+DiegoManriqueOrtega      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Proyecto desconocido          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+document360-sync         13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 💻 Sistemas Operativos: 
-Linux                    7 hrs 32 mins       ███████████████████████░░   91.41 % 
-Windows                  42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Linux                    11 hrs 3 mins       ███████████████████████░░   93.98 % 
+Windows                  42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 ```
 
 
- Última actualización el 01/10/2026 22:08:26 UTC
+ Última actualización el 02/10/2026 03:04:48 UTC
 <!--END_SECTION:waka_es-->
 </details>
