@@ -307,6 +307,47 @@
   </picture></span></summary>
   <br>
 <!--START_SECTION:waka_es-->
- Última actualización el 03/10/2026 02:50:09 UTC
+**Soy nocturno 🦉** 
+
+```text
+🌞 Mañana   346 commits  ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+🌆 Día     1178 commits  ████████░░░░░░░░░░░░░░░░░   30.16 %
+🌃 Tarde   1859 commits  ████████████░░░░░░░░░░░░░   47.59 %
+🌙 Noche    523 commits  ███░░░░░░░░░░░░░░░░░░░░░░   13.39 %```
+
+
+📊 **Mi actividad semanal** 
+
+```text
+🕑︎ Time Zone: Europa/Madrid
+
+💬 Lenguajes: 
+Markdown                 7 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.03 % 
+Svelte                   5 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+TypeScript               4 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Other                    2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+PowerShell               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+
+🔥 Editores: 
+Claude Code              19 hrs 58 mins      ███████████████████████░░   92.07 % 
+Obsidian                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Zed                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Copilot                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Copilot CLI              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+
+🐱‍💻 Proyectos: 
+tachy                    18 hrs 52 mins      ██████████████████████░░░   87.03 % 
+DiegoManriqueOrtega      52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+obsidian_programming     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Proyecto desconocido          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+scratchpad               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+
+💻 Sistemas Operativos: 
+Linux                    20 hrs 30 mins      ████████████████████████░   94.55 % 
+Windows                  1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+```
+
+
+ Última actualización el 03/10/2026 10:48:12 UTC
 <!--END_SECTION:waka_es-->
 </details>
