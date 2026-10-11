@@ -311,10 +311,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                481 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-🌆 Daytime                1382 commits        ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-🌃 Evening                2184 commits        ████████████░░░░░░░░░░░░░   46.39 % 
-🌙 Night                  661 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+🌞 Morning                588 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+🌆 Daytime                1612 commits        ███████░░░░░░░░░░░░░░░░░░   29.26 % 
+🌃 Evening                2528 commits        ███████████░░░░░░░░░░░░░░   45.89 % 
+🌙 Night                  781 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
 ```
 
 
@@ -324,31 +324,31 @@
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 11 hrs 40 mins      ████████████░░░░░░░░░░░░░   48.71 % 
-TypeScript               4 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-Other                    2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Svelte                   2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Text                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Markdown                 16 hrs 50 mins      ██████████████░░░░░░░░░░░   55.91 % 
+TypeScript               6 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+Svelte                   3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Other                    1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Bash                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 🔥 Editors: 
-Claude Code              22 hrs 48 mins      ████████████████████████░   95.24 % 
-Zed                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Obsidian                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Copilot                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Copilot CLI              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Claude Code              28 hrs 11 mins      ███████████████████████░░   93.65 % 
+Zed                      35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Obsidian                 32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Copilot                  24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Copilot CLI              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🐱‍💻 Projects: 
-tachy                    22 hrs 9 mins       ███████████████████████░░   92.47 % 
-koes                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-dotfiles                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-obsidian_programming     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-scratchpad               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+tachy                    28 hrs 3 mins       ███████████████████████░░   93.19 % 
+koes                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+dotfiles                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+obsidian_programming     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+xpadneo                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Linux                    23 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    30 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/10/2026 02:48:52 UTC
+ Last Updated on 11/10/2026 11:47:54 UTC
 <!--END_SECTION:waka-->
 </details>
