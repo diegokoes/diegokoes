@@ -322,29 +322,29 @@
 🕑︎ Time Zone: Europa/Madrid
 
 💬 Lenguajes: 
-Markdown                 10 hrs 37 mins      ██████████████████░░░░░░░   70.45 % 
-TypeScript               2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Bash                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Svelte                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-INI                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Markdown                 6 hrs 16 mins       ███████████████░░░░░░░░░░   61.54 % 
+TypeScript               2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+Bash                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Svelte                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+INI                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 Editores: 
-Claude Code              13 hrs 55 mins      ███████████████████████░░   92.36 % 
-Copilot                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Copilot CLI              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-Obsidian                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Zed                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Claude Code              9 hrs 19 mins       ███████████████████████░░   91.56 % 
+Copilot                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Copilot CLI              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Obsidian                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Zed                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🐱‍💻 Proyectos: 
-tachy                    14 hrs 38 mins      ████████████████████████░   97.11 % 
-obsidian_programming     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-dotfiles                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+tachy                    9 hrs 45 mins       ████████████████████████░   95.73 % 
+obsidian_programming     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+dotfiles                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 💻 Sistemas Operativos: 
-Linux                    15 hrs 4 mins       █████████████████████████   100.00 % 
+Linux                    10 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 
- Última actualización el 17/10/2026 02:03:23 UTC
+ Última actualización el 17/10/2026 09:54:15 UTC
 <!--END_SECTION:waka_es-->
 </details>
