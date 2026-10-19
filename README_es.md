@@ -322,28 +322,27 @@
 🕑︎ Time Zone: Europa/Madrid
 
 💬 Lenguajes: 
-Markdown                 6 hrs 26 mins       ██████████████░░░░░░░░░░░   55.41 % 
-TypeScript               1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Svelte                   1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Other                    1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Markdown                 4 hrs 22 mins       ███████████░░░░░░░░░░░░░░   42.22 % 
+Other                    2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+Svelte                   1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+TypeScript               1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editores: 
-Claude Code              11 hrs 37 mins      █████████████████████████   99.92 % 
-Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Claude Code              10 hrs 20 mins      █████████████████████████   99.88 % 
+Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Proyectos: 
-tachy                    11 hrs 21 mins      ████████████████████████░   97.60 % 
-scratchpad               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-shots                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-dotfiles                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-koes                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+tachy                    10 hrs 6 mins       ████████████████████████░   97.61 % 
+scratchpad               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+shots                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+dotfiles                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Sistemas Operativos: 
-Linux                    11 hrs 37 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 
- Última actualización el 19/10/2026 02:20:26 UTC
+ Última actualización el 19/10/2026 11:32:38 UTC
 <!--END_SECTION:waka_es-->
 </details>
