@@ -324,27 +324,28 @@
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 4 hrs 22 mins       ███████████░░░░░░░░░░░░░░   42.22 % 
-Other                    2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-Svelte                   1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-TypeScript               1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Svelte                   1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   29.64 % 
+Markdown                 1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+TypeScript               1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Other                    1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 20 mins      █████████████████████████   99.88 % 
-Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Claude Code              5 hrs 32 mins       ████████████████████████░   96.00 % 
+Zed                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🐱‍💻 Projects: 
-tachy                    10 hrs 6 mins       ████████████████████████░   97.61 % 
-scratchpad               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-shots                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-dotfiles                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+tachy                    5 hrs 15 mins       ███████████████████████░░   91.00 % 
+Unknown Project          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+koes                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+scratchpad               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+document360-sync         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 Operating System: 
-Linux                    10 hrs 20 mins      █████████████████████████   100.00 % 
+Linux                    5 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/10/2026 02:34:28 UTC
+ Last Updated on 20/10/2026 10:38:21 UTC
 <!--END_SECTION:waka-->
 </details>
