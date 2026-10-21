@@ -322,28 +322,29 @@
 🕑︎ Time Zone: Europa/Madrid
 
 💬 Lenguajes: 
-Svelte                   1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   29.64 % 
-Markdown                 1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-TypeScript               1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-Other                    1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Markdown                 4 hrs 1 min         ███████████░░░░░░░░░░░░░░   44.85 % 
+Other                    2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+Svelte                   1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+TypeScript               1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editores: 
-Claude Code              5 hrs 32 mins       ████████████████████████░   96.00 % 
-Zed                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Claude Code              6 hrs 5 mins        █████████████████░░░░░░░░   67.94 % 
+Obsidian                 2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+Zed                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 
 🐱‍💻 Proyectos: 
-tachy                    5 hrs 15 mins       ███████████████████████░░   91.00 % 
-Proyecto desconocido          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-koes                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-scratchpad               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-document360-sync         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+tachy                    5 hrs 38 mins       ████████████████░░░░░░░░░   62.77 % 
+obsidian_programming     2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+Proyecto desconocido          33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+koes                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+scratchpad               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 💻 Sistemas Operativos: 
-Linux                    5 hrs 46 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 
- Última actualización el 21/10/2026 02:28:45 UTC
+ Última actualización el 21/10/2026 10:50:26 UTC
 <!--END_SECTION:waka_es-->
 </details>
