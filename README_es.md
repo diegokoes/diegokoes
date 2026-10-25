@@ -18,12 +18,12 @@
     <tr>
       <td><em><strong>Parallax-Sports</strong></em></td>
       <td><a href="https://tfg-avellaneda-25-26.github.io/parallax-sports-docs/">DOCS</a></td>
-      <td>Dashboard personalizable de eventos deportivos con alertas multicanal (Discord, Telegram, email), hecho con Angular, Spring Boot y microservicios Ktor.</td>
+      <td>Mi primer proyecto complejo, hecho como proyecto final de mis estudios: mal diseñado, demasiado ambicioso y caótico, pero aprendí mucho con él.</td>
     </tr>
     <tr>
       <td><em><strong><a href="https://github.com/diegokoes/tachy">tachý</a></strong></em></td>
       <td>N/A</td>
-      <td>Servidor MCP y app web self-hosted sobre Postgres que sincroniza tickets de Freshdesk, GitHub y Azure DevOps en una base de conocimiento con búsqueda híbrida para agentes de IA.</td>
+      <td>Proyecto personal para ayudarme en mi flujo de trabajo como support engineer. En algunas áreas (sobre todo backend) aprendí mucho; en el frontend usé principalmente IA.</td>
     </tr>
   </table>
 </details>
