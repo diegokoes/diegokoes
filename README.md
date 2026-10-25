@@ -374,10 +374,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1591 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-🌆 Daytime                3987 commits        ███████░░░░░░░░░░░░░░░░░░   28.88 % 
-🌃 Evening                6182 commits        ███████████░░░░░░░░░░░░░░   44.77 % 
-🌙 Night                  2047 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+🌞 Morning                946 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+🌆 Daytime                2544 commits        ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+🌃 Evening                3912 commits        ███████████░░░░░░░░░░░░░░   45.18 % 
+🌙 Night                  1257 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
 ```
 
 
@@ -393,12 +393,6 @@ TypeScript               3 hrs 19 mins       ██████░░░░░�
 Svelte                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
-🔥 Editors: 
-Claude Code              9 hrs 7 mins        █████████████████░░░░░░░░   69.23 % 
-Obsidian                 2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-Zed                      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Copilot CLI              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-
 🐱‍💻 Projects: 
 tachy                    8 hrs 49 mins       █████████████████░░░░░░░░   66.97 % 
 obsidian_programming     2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
@@ -411,6 +405,6 @@ Linux                    13 hrs 10 mins      ███████████�
 ```
 
 
- Last Updated on 25/10/2026 10:23:39 UTC
+ Last Updated on 25/10/2026 13:38:20 UTC
 <!--END_SECTION:waka-->
 </details>
