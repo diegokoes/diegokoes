@@ -14,16 +14,17 @@
 
   <br>
   <table>
-    <tbody>
-      <tr>
-        <td>
-          <em><strong>Parallax-Sports</strong></em>
-        </td>
-        <td>
-          <a href="https://tfg-avellaneda-25-26.github.io/parallax-sports-docs/">DOCS</a>
-        </td>
-      </tr>
-    </tbody>
+    <tr><th align="left">Proyecto</th><th align="left">Docs</th><th align="left">Descripción</th></tr>
+    <tr>
+      <td><em><strong>Parallax-Sports</strong></em></td>
+      <td><a href="https://tfg-avellaneda-25-26.github.io/parallax-sports-docs/">DOCS</a></td>
+      <td>Dashboard personalizable de eventos deportivos con alertas multicanal (Discord, Telegram, email), hecho con Angular, Spring Boot y microservicios Ktor.</td>
+    </tr>
+    <tr>
+      <td><em><strong><a href="https://github.com/diegokoes/tachy">tachý</a></strong></em></td>
+      <td>N/A</td>
+      <td>Servidor MCP y app web self-hosted sobre Postgres que sincroniza tickets de Freshdesk, GitHub y Azure DevOps en una base de conocimiento con búsqueda híbrida para agentes de IA.</td>
+    </tr>
   </table>
 </details>
 
@@ -41,15 +42,11 @@
   <br>
   <table>
     <tr><th align="left">Curso</th><th align="left">Horas</th><th align="left">Descripción</th><th align="left">Estado</th></tr>
-    <tr><td colspan="4" align="left"><strong>Coursera</strong></td></tr>
-    <tr><td><em><strong><a href="https://github.com/diegokoes/Courses/tree/main/Coursera/Meta_Backend_Certificate/">Meta Backend Certificate</a></strong></em></td><td>196</td><td>
-    <small>Django - SQL - Diseño de APIs RESTful</small>
-    </td><td>En Progreso</td></tr>
     <tr><td colspan="4" align="left"><strong>Udemy</strong></td></tr>
-    <tr><td><em><strong><a href="https://github.com/diegokoes/Courses/tree/main/Udemy/Angular_Complete_Guide">Angular — The Complete Guide</a></strong></em></td><td>56</td><td>Pipes, Inyección de Dependencias, Observables, Formularios, Databinding, Autenticación, Protección, Signals, Gestión de estado...</td><td>En Progreso</td></tr>
+    <tr><td><em><strong><a href="https://github.com/diegokoes/Courses/tree/main/Udemy/Angular_Complete_Guide">Angular — The Complete Guide</a></strong></em></td><td>56</td><td>Pipes, Inyección de Dependencias, Observables, Formularios, Databinding, Autenticación, Protección, Signals, Gestión de estado...</td><td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/status-complete-es-white.svg"><source media="(prefers-color-scheme: light)" srcset="assets/status-complete-es.svg"><img src="assets/status-complete-es.svg" alt="Completado" height="20" style="vertical-align:middle"></picture></td></tr>
     <tr><td colspan="4" align="left"><strong>EDX</strong></td></tr>
-    <tr><td><em><strong><a href="https://www.edx.org/certificates/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools?index=product&queryId=79fba2c89bd09f81a6401a4c57ef92ed&position=1">Certificate Introduction to DevOps: Practices and Tools</a></strong></em></td><td>48</td><td>SRE, IaC, Observabilidad, Jenkins (jobs, seguridad, pipeline...), Kubernetes y OpenFaaS</td><td>Completado</td></tr>
-    <tr><td colspan="4" align="left"><strong><a href="https://github.com/diegokoes/Courses/tree/main/OpenWebinars">OpenWebinars</a></strong></td></tr>
+    <tr><td><em><strong><a href="https://www.edx.org/certificates/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools?index=product&queryId=79fba2c89bd09f81a6401a4c57ef92ed&position=1">Certificate Introduction to DevOps: Practices and Tools</a></strong></em></td><td>48</td><td>SRE, IaC, Observabilidad, Jenkins (jobs, seguridad, pipeline...), Kubernetes y OpenFaaS</td><td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/status-complete-es-white.svg"><source media="(prefers-color-scheme: light)" srcset="assets/status-complete-es.svg"><img src="assets/status-complete-es.svg" alt="Completado" height="20" style="vertical-align:middle"></picture></td></tr>
+    <tr><td><strong><a href="https://github.com/diegokoes/Courses/tree/main/OpenWebinars">OpenWebinars</a></strong></td><td>N/A</td><td>Una colección de cursos de OpenWebinars.</td><td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/status-na-white.svg"><source media="(prefers-color-scheme: light)" srcset="assets/status-na.svg"><img src="assets/status-na.svg" alt="N/A" height="20" style="vertical-align:middle"></picture></td></tr>
   </table>
 </details>
 
@@ -65,6 +62,47 @@
   </picture></span></summary>
   <br>
   <table>
+    <tr>
+      <td><strong>Lenguajes</strong></td>
+      <td><table border="0" cellspacing="0"><tr>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="TypeScript" src="https://cdn.simpleicons.org/typescript/3178C6" width="22" height="22" title="TypeScript" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-typescript-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-typescript.svg">
+            <img alt="TypeScript" src="assets/tech-typescript.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span></td>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="Java" src="https://cdn.simpleicons.org/openjdk/ED8B00" width="22" height="22" title="Java" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-java-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-java.svg">
+            <img alt="Java" src="assets/tech-java.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span></td>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="Python" src="https://cdn.simpleicons.org/python/3776AB" width="22" height="22" title="Python" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-python-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-python.svg">
+            <img alt="Python" src="assets/tech-python.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span></td>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/lua/ffffff">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/lua/000080">
+            <img alt="Lua" src="https://cdn.simpleicons.org/lua/000080" width="22" height="22" title="Lua" style="vertical-align:middle;"/>
+          </picture>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-lua-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-lua.svg">
+            <img alt="Lua" src="assets/tech-lua.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span></td>
+      </tr></table></td>
+    </tr>
     <tr>
       <td><strong>Frontend</strong></td>
       <td><table border="0" cellspacing="0"><tr>
@@ -123,14 +161,6 @@
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-spring-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-spring.svg">
             <img alt="Spring" src="assets/tech-spring.svg" height="20" style="vertical-align:middle"/>
-          </picture>
-        </span></td>
-        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
-          <img alt="Django" src="https://cdn.simpleicons.org/django/092E20" width="22" height="22" title="Django" style="vertical-align:middle;"/>
-          <picture style="display:inline-block;margin:0">
-            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-django-white.svg">
-            <source media="(prefers-color-scheme: light)" srcset="assets/tech-django.svg">
-            <img alt="Django" src="assets/tech-django.svg" height="20" style="vertical-align:middle"/>
           </picture>
         </span></td>
       </tr></table></td>
@@ -205,6 +235,39 @@
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-git-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-git.svg">
             <img alt="Git" src="assets/tech-git.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span></td>
+      </tr></table></td>
+    </tr>
+    <tr>
+      <td><strong>Redes</strong></td>
+      <td><table border="0" cellspacing="0"><tr>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="Pi-hole" src="https://cdn.simpleicons.org/pihole/96060C" width="22" height="22" title="Pi-hole" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-pihole-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-pihole.svg">
+            <img alt="Pi-hole" src="assets/tech-pihole.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span></td>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/icon-unbound-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/icon-unbound.svg">
+            <img alt="Unbound" src="assets/icon-unbound.svg" width="22" height="22" title="Unbound" style="vertical-align:middle;"/>
+          </picture>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-unbound-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-unbound.svg">
+            <img alt="Unbound" src="assets/tech-unbound.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span></td>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="Wireshark" src="https://cdn.simpleicons.org/wireshark/1679A7" width="22" height="22" title="Wireshark" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-wireshark-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-wireshark.svg">
+            <img alt="Wireshark" src="assets/tech-wireshark.svg" height="20" style="vertical-align:middle"/>
           </picture>
         </span></td>
       </tr></table></td>
