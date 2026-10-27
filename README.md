@@ -147,14 +147,6 @@
           </picture>
         </span></td>
         <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
-          <img alt="Node.js" src="https://cdn.simpleicons.org/nodedotjs/339933" width="22" height="22" title="Node.js" style="vertical-align:middle;"/>
-          <picture style="display:inline-block;margin:0">
-            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-nodejs-white.svg">
-            <source media="(prefers-color-scheme: light)" srcset="assets/tech-nodejs.svg">
-            <img alt="Node.js" src="assets/tech-nodejs.svg" height="20" style="vertical-align:middle"/>
-          </picture>
-        </span></td>
-        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="Spring" src="https://cdn.simpleicons.org/spring/6DB33F" width="22" height="22" title="Spring" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-spring-white.svg">
@@ -192,11 +184,11 @@
           </picture>
         </span></td>
         <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
-          <img alt="DBeaver" src="https://cdn.simpleicons.org/dbeaver/2F6BFF" width="22" height="22" title="DBeaver" style="vertical-align:middle;"/>
+          <img alt="Redis" src="https://cdn.simpleicons.org/redis/FF4438" width="22" height="22" title="Redis" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
-            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-dbeaver-white.svg">
-            <source media="(prefers-color-scheme: light)" srcset="assets/tech-dbeaver.svg">
-            <img alt="DBeaver" src="assets/tech-dbeaver.svg" height="20" style="vertical-align:middle"/>
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-redis-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-redis.svg">
+            <img alt="Redis" src="assets/tech-redis.svg" height="20" style="vertical-align:middle"/>
           </picture>
         </span></td>
       </tr></table></td>
