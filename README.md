@@ -220,14 +220,6 @@
             <img alt="Jenkins" src="assets/tech-jenkins.svg" height="20" style="vertical-align:middle"/>
           </picture>
         </span></td>
-        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
-          <img alt="Git" src="https://cdn.simpleicons.org/git/F05032" width="22" height="22" title="Git" style="vertical-align:middle;"/>
-          <picture style="display:inline-block;margin:0">
-            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-git-white.svg">
-            <source media="(prefers-color-scheme: light)" srcset="assets/tech-git.svg">
-            <img alt="Git" src="assets/tech-git.svg" height="20" style="vertical-align:middle"/>
-          </picture>
-        </span></td>
       </tr></table></td>
     </tr>
     <tr>
@@ -290,6 +282,11 @@
             <img alt="Loki" src="assets/tech-loki.svg" height="20" style="vertical-align:middle"/>
           </picture>
         </span></td>
+      </tr></table></td>
+    </tr>
+    <tr>
+      <td><strong>Testing</strong></td>
+      <td><table border="0" cellspacing="0"><tr>
         <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="k6" src="https://cdn.simpleicons.org/k6/7D64FF" width="22" height="22" title="k6" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
