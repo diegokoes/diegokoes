@@ -262,6 +262,7 @@
             <img alt="Wireshark" src="assets/tech-wireshark.svg" height="20" style="vertical-align:middle"/>
           </picture>
         </span></td>
+      </tr><tr>
         <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="NetBox" src="assets/icon-netbox.svg" width="22" height="22" title="NetBox" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
