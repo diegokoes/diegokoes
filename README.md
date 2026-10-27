@@ -226,6 +226,14 @@
       <td><strong>Network</strong></td>
       <td><table border="0" cellspacing="0"><tr>
         <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="OPNsense" src="https://cdn.simpleicons.org/opnsense/E44A20" width="22" height="22" title="OPNsense" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-opnsense-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-opnsense.svg">
+            <img alt="OPNsense" src="assets/tech-opnsense.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span></td>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
           <img alt="Pi-hole" src="https://cdn.simpleicons.org/pihole/96060C" width="22" height="22" title="Pi-hole" style="vertical-align:middle;"/>
           <picture style="display:inline-block;margin:0">
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-pihole-white.svg">
@@ -251,6 +259,14 @@
             <source media="(prefers-color-scheme: dark)" srcset="assets/tech-wireshark-white.svg">
             <source media="(prefers-color-scheme: light)" srcset="assets/tech-wireshark.svg">
             <img alt="Wireshark" src="assets/tech-wireshark.svg" height="20" style="vertical-align:middle"/>
+          </picture>
+        </span></td>
+        <td width="170"><span style="display:inline-flex;align-items:center;gap:4px;">
+          <img alt="NetBox" src="assets/icon-netbox.svg" width="22" height="22" title="NetBox" style="vertical-align:middle;"/>
+          <picture style="display:inline-block;margin:0">
+            <source media="(prefers-color-scheme: dark)" srcset="assets/tech-netbox-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="assets/tech-netbox.svg">
+            <img alt="NetBox" src="assets/tech-netbox.svg" height="20" style="vertical-align:middle"/>
           </picture>
         </span></td>
       </tr></table></td>
