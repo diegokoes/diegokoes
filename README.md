@@ -393,24 +393,24 @@
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 5 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   40.67 % 
-Other                    2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-TypeScript               2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-JavaScript               1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Lua                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Markdown                 4 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   38.24 % 
+TypeScript               2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+Other                    1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+JavaScript               1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Lua                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
 🐱‍💻 Projects: 
-tachy                    7 hrs 7 mins        ██████████████░░░░░░░░░░░   57.05 % 
-obsidian_programming     2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-dotfiles                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-diegokoes                31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-koes                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+tachy                    6 hrs 13 mins       ███████████████░░░░░░░░░░   58.08 % 
+obsidian_programming     1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+dotfiles                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+diegokoes                42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+koes                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 💻 Operating System: 
-Linux                    12 hrs 29 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/10/2026 02:59:34 UTC
+ Last Updated on 28/10/2026 11:50:18 UTC
 <!--END_SECTION:waka-->
 </details>
