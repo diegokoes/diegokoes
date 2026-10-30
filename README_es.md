@@ -391,24 +391,24 @@
 🕑︎ Time Zone: Europa/Madrid
 
 💬 Lenguajes: 
-Markdown                 3 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   37.15 % 
-TypeScript               2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
-Other                    1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-JavaScript               1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Lua                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Markdown                 2 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   34.47 % 
+TypeScript               1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+Other                    1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+JavaScript               58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Lua                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
 
 🐱‍💻 Proyectos: 
-tachy                    5 hrs 48 mins       ███████████████░░░░░░░░░░   61.48 % 
-obsidian_programming     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-dotfiles                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-diegokoes                42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-koes                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+tachy                    4 hrs 40 mins       ██████████████░░░░░░░░░░░   56.74 % 
+obsidian_programming     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+dotfiles                 1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+diegokoes                42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+koes                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 💻 Sistemas Operativos: 
-Linux                    9 hrs 26 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
- Última actualización el 30/10/2026 03:27:54 UTC
+ Última actualización el 30/10/2026 11:52:46 UTC
 <!--END_SECTION:waka_es-->
 </details>
