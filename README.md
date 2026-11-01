@@ -380,10 +380,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                972 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-🌆 Daytime                2585 commits        ███████░░░░░░░░░░░░░░░░░░   29.16 % 
-🌃 Evening                4004 commits        ███████████░░░░░░░░░░░░░░   45.16 % 
-🌙 Night                  1305 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+🌞 Morning                1536 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+🌆 Daytime                3847 commits        ███████░░░░░░░░░░░░░░░░░░   28.92 % 
+🌃 Evening                5956 commits        ███████████░░░░░░░░░░░░░░   44.78 % 
+🌙 Night                  1961 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
 ```
 
 
@@ -393,24 +393,24 @@
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 5 hrs 39 mins       █████████████░░░░░░░░░░░░   50.53 % 
-JavaScript               1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Svelte                   1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Lua                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Markdown                 5 hrs 49 mins       ██████████████░░░░░░░░░░░   57.43 % 
+JavaScript               1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Lua                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+TypeScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 🐱‍💻 Projects: 
-tachy                    5 hrs 27 mins       ████████████░░░░░░░░░░░░░   48.85 % 
-dotfiles                 2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-obsidian_programming     2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-diegokoes                42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-koes                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+tachy                    4 hrs 31 mins       ███████████░░░░░░░░░░░░░░   44.64 % 
+dotfiles                 2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+obsidian_programming     2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+diegokoes                42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+koes                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 💻 Operating System: 
-Linux                    11 hrs 11 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/11/2026 03:07:28 UTC
+ Last Updated on 01/11/2026 12:18:46 UTC
 <!--END_SECTION:waka-->
 </details>
